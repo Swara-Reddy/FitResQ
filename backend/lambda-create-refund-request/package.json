@@ -1,0 +1,7 @@
+{
+  "name": "fitresq-create-refund-request",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FitResQ POST /refund-requests Lambda Handler persisting cases and SLA to DynamoDB",
+  "main": "index.mjs"
+}

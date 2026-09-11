@@ -1,0 +1,7 @@
+{
+  "name": "fitresq-lambda-seeder",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Self-contained FitResQ DynamoDB dataset seeder for AWS Lambda",
+  "main": "index.mjs"
+}

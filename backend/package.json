@@ -1,0 +1,20 @@
+{
+  "name": "fitresq-backend",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "FitResQ backend services, DynamoDB schemas, and data seeding scripts",
+  "scripts": {
+    "generate": "node scripts/generate-dataset.js",
+    "seed": "node scripts/seed-fitresq-data.js",
+    "verify": "node scripts/verify-seed-data.js",
+    "test:me": "node tests/test-get-user-me.js",
+    "test": "node tests/test-get-user-me.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.714.0",
+    "@aws-sdk/lib-dynamodb": "^3.714.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "caseId": "FR-89B79455",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-12T19:18:50.148419+00:00",
+    "createdAt": "2026-09-11T19:18:50.148419+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-41791F99",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-12T17:50:42.182799+00:00",
+    "createdAt": "2026-09-11T17:50:42.182799+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-E81BD82B",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T17:17:35.792473+00:00",
+    "createdAt": "2026-09-10T17:17:35.792473+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-64A129E3",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T16:50:11.312127+00:00",
+    "createdAt": "2026-09-10T16:50:11.312127+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-1D4B92B6",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T16:07:45.079073+00:00",
+    "createdAt": "2026-09-10T16:07:45.079073+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-7A152641",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T15:30:16.773788+00:00",
+    "createdAt": "2026-09-10T15:30:16.773788+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-66610CA4",
+    "orderId": "ORD-10016",
+    "userId": "CUS-005",
+    "deadline": "2026-09-11T15:24:52.951113+00:00",
+    "createdAt": "2026-09-10T15:24:52.951113+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-6C6CF545",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T15:19:52.998353+00:00",
+    "createdAt": "2026-09-10T15:19:52.998353+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-16DD929A",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T15:16:27.822808+00:00",
+    "createdAt": "2026-09-10T15:16:27.822808+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-4C82738E",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T15:15:21.346850+00:00",
+    "createdAt": "2026-09-10T15:15:21.346850+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  },
+  {
+    "caseId": "FR-C48310C1",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "deadline": "2026-09-11T15:13:12.872300+00:00",
+    "createdAt": "2026-09-10T15:13:12.872300+00:00",
+    "durationHours": 24.0,
+    "status": "ACTIVE",
+    "escalationLevel": "0",
+    "breached": false
+  }
+]

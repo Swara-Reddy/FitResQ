@@ -1,0 +1,32 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "FitResQSeederDynamoDBWriteAccess",
+      "Effect": "Allow",
+      "Action": [
+        "dynamodb:BatchGetItem",
+        "dynamodb:GetItem",
+        "dynamodb:PutItem",
+        "dynamodb:BatchWriteItem"
+      ],
+      "Resource": [
+        "arn:aws:dynamodb:ap-south-1:*:table/FitResQUsers",
+        "arn:aws:dynamodb:ap-south-1:*:table/FitResQOrders",
+        "arn:aws:dynamodb:ap-south-1:*:table/FitResQRefunds",
+        "arn:aws:dynamodb:ap-south-1:*:table/FitResQCases",
+        "arn:aws:dynamodb:ap-south-1:*:table/FitResQMessages"
+      ]
+    },
+    {
+      "Sid": "FitResQSeederCloudWatchLogging",
+      "Effect": "Allow",
+      "Action": [
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+      ],
+      "Resource": "arn:aws:logs:ap-south-1:*:*"
+    }
+  ]
+}

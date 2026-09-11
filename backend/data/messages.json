@@ -1,0 +1,3217 @@
+[
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-02T14:00:01Z#MSG-001",
+    "sender": "CUSTOMER",
+    "message": "Hello, I raised a return for order ORD-10021 due to a defect on the collar seam. When will my refund arrive?",
+    "createdAt": "2026-09-02T14:00:01Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-02T14:00:05Z#MSG-002",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! Your return request for order ORD-10021 has been registered under Case FR-1F40B7F5. Refunds are triggered once intake is verified.",
+    "createdAt": "2026-09-02T14:00:05Z"
+  },
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-05T17:33:17.999949+00:00#MSG-578F8E",
+    "sender": "CUSTOMER",
+    "message": "I still haven't received my refund.",
+    "createdAt": "2026-09-05T17:33:17.999949+00:00",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-05T17:40:52.018082+00:00#MSG-0FD639",
+    "sender": "CUSTOMER",
+    "message": "I still haven't received my refund.",
+    "createdAt": "2026-09-05T17:40:52.018082+00:00",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-07T17:31:19.916556+00:00#MSG-2672BC",
+    "sender": "CUSTOMER",
+    "message": "Checking status on my refund from frontend test.",
+    "createdAt": "2026-09-07T17:31:19.916556+00:00",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-1F40B7F5",
+    "messageKey": "2026-09-07T17:31:20.232114+00:00#MSG-FC644B",
+    "sender": "CUSTOMER",
+    "message": "Checking status on my refund from frontend test.",
+    "createdAt": "2026-09-07T17:31:20.232114+00:00",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-7D002B18",
+    "messageKey": "2026-09-01T17:27:07.474Z#MSG-0101",
+    "sender": "CUSTOMER",
+    "message": "I returned my product but my refund is still pending.",
+    "createdAt": "2026-09-01T17:27:07.474Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-7D002B18",
+    "messageKey": "2026-09-01T17:28:07.474Z#MSG-0102",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-01T17:28:07.474Z"
+  },
+  {
+    "caseId": "FR-7D002B18",
+    "messageKey": "2026-09-01T20:26:14.905Z#MSG-0103",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-09-01T20:26:14.905Z"
+  },
+  {
+    "caseId": "FR-7D002B18",
+    "messageKey": "2026-09-02T02:44:35.687Z#MSG-0104",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-09-02T02:44:35.687Z"
+  },
+  {
+    "caseId": "FR-32534B62",
+    "messageKey": "2026-09-01T16:59:43.064Z#MSG-0105",
+    "sender": "CUSTOMER",
+    "message": "My refund has not arrived yet.",
+    "createdAt": "2026-09-01T16:59:43.064Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-32534B62",
+    "messageKey": "2026-09-01T17:00:43.064Z#MSG-0106",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-01T17:00:43.064Z"
+  },
+  {
+    "caseId": "FR-648D23C3",
+    "messageKey": "2026-09-01T17:24:23.893Z#MSG-0107",
+    "sender": "CUSTOMER",
+    "message": "I returned my product but my refund is still pending.",
+    "createdAt": "2026-09-01T17:24:23.893Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-648D23C3",
+    "messageKey": "2026-09-01T17:25:23.893Z#MSG-0108",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-01T17:25:23.893Z"
+  },
+  {
+    "caseId": "FR-648D23C3",
+    "messageKey": "2026-09-01T19:25:30.080Z#MSG-0109",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-09-01T19:25:30.080Z"
+  },
+  {
+    "caseId": "FR-10001",
+    "messageKey": "2026-09-01T16:05:00.000Z#MSG-0110",
+    "sender": "CUSTOMER",
+    "message": "My refund has not arrived yet.",
+    "createdAt": "2026-09-01T16:05:00.000Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-10001",
+    "messageKey": "2026-09-01T16:06:00.000Z#MSG-0111",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-01T16:06:00.000Z"
+  },
+  {
+    "caseId": "FR-10001",
+    "messageKey": "2026-09-01T18:05:06.194Z#MSG-0112",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-09-01T18:05:06.194Z"
+  },
+  {
+    "caseId": "FR-10001",
+    "messageKey": "2026-09-02T01:56:59.059Z#MSG-0113",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-09-02T01:56:59.059Z"
+  },
+  {
+    "caseId": "FR-EDF067FF",
+    "messageKey": "2026-09-02T11:15:46.533Z#MSG-0114",
+    "sender": "CUSTOMER",
+    "message": "I am still waiting for my refund.",
+    "createdAt": "2026-09-02T11:15:46.533Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-EDF067FF",
+    "messageKey": "2026-09-02T11:16:46.533Z#MSG-0115",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-02T11:16:46.533Z"
+  },
+  {
+    "caseId": "FR-EDF067FF",
+    "messageKey": "2026-09-02T15:04:00.901Z#MSG-0116",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-09-02T15:04:00.901Z"
+  },
+  {
+    "caseId": "FR-10D468D0",
+    "messageKey": "2026-09-02T11:05:48.667Z#MSG-0117",
+    "sender": "CUSTOMER",
+    "message": "My refund is still pending and I need an update.",
+    "createdAt": "2026-09-02T11:05:48.667Z",
+    "userId": "CUS-001"
+  },
+  {
+    "caseId": "FR-10D468D0",
+    "messageKey": "2026-09-02T11:06:48.667Z#MSG-0118",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-02T11:06:48.667Z"
+  },
+  {
+    "caseId": "FR-38F5ED",
+    "messageKey": "2026-04-24T15:38:12.424Z#MSG-0119",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10001 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-04-24T15:38:12.424Z",
+    "userId": "CUS-002"
+  },
+  {
+    "caseId": "FR-38F5ED",
+    "messageKey": "2026-04-24T15:39:12.424Z#MSG-0120",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-24T15:39:12.424Z"
+  },
+  {
+    "caseId": "FR-38F5ED",
+    "messageKey": "2026-04-24T19:18:40.512Z#MSG-0121",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-04-24T19:18:40.512Z"
+  },
+  {
+    "caseId": "FR-38F5ED",
+    "messageKey": "2026-04-24T21:57:39.309Z#MSG-0122",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-04-24T21:57:39.309Z"
+  },
+  {
+    "caseId": "FR-6AB69F",
+    "messageKey": "2026-04-07T13:55:07.926Z#MSG-0123",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10005. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-04-07T13:55:07.926Z",
+    "userId": "CUS-003"
+  },
+  {
+    "caseId": "FR-6AB69F",
+    "messageKey": "2026-04-07T13:56:07.926Z#MSG-0124",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-07T13:56:07.926Z"
+  },
+  {
+    "caseId": "FR-9C7D33",
+    "messageKey": "2026-03-16T04:18:00.317Z#MSG-0125",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10009 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-03-16T04:18:00.317Z",
+    "userId": "CUS-004"
+  },
+  {
+    "caseId": "FR-9C7D33",
+    "messageKey": "2026-03-16T04:19:00.317Z#MSG-0126",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-16T04:19:00.317Z"
+  },
+  {
+    "caseId": "FR-9C7D33",
+    "messageKey": "2026-03-16T08:08:25.544Z#MSG-0127",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-16T08:08:25.544Z"
+  },
+  {
+    "caseId": "FR-0C2AB3",
+    "messageKey": "2026-03-01T00:03:04.842Z#MSG-0128",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10016, but refund RF-90011 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-01T00:03:04.842Z",
+    "userId": "CUS-005"
+  },
+  {
+    "caseId": "FR-0C2AB3",
+    "messageKey": "2026-03-01T00:04:04.842Z#MSG-0129",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-01T00:04:04.842Z"
+  },
+  {
+    "caseId": "FR-0C2AB3",
+    "messageKey": "2026-03-01T02:39:26.931Z#MSG-0130",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-01T02:39:26.931Z"
+  },
+  {
+    "caseId": "FR-0C2AB3",
+    "messageKey": "2026-03-01T05:35:34.502Z#MSG-0131",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-03-01T05:35:34.502Z"
+  },
+  {
+    "caseId": "FR-658468",
+    "messageKey": "2026-05-11T07:19:37.973Z#MSG-0132",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10017.",
+    "createdAt": "2026-05-11T07:19:37.973Z",
+    "userId": "CUS-006"
+  },
+  {
+    "caseId": "FR-658468",
+    "messageKey": "2026-05-11T07:20:37.973Z#MSG-0133",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-11T07:20:37.973Z"
+  },
+  {
+    "caseId": "FR-658468",
+    "messageKey": "2026-05-11T09:39:06.092Z#MSG-0134",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-05-11T09:39:06.092Z"
+  },
+  {
+    "caseId": "FR-40469F",
+    "messageKey": "2026-01-20T10:14:59.771Z#MSG-0135",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10023 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-01-20T10:14:59.771Z",
+    "userId": "CUS-007"
+  },
+  {
+    "caseId": "FR-40469F",
+    "messageKey": "2026-01-20T10:15:59.771Z#MSG-0136",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-20T10:15:59.771Z"
+  },
+  {
+    "caseId": "FR-C31A7E",
+    "messageKey": "2026-02-18T09:22:17.886Z#MSG-0137",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10024. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-02-18T09:22:17.886Z",
+    "userId": "CUS-008"
+  },
+  {
+    "caseId": "FR-C31A7E",
+    "messageKey": "2026-02-18T09:23:17.886Z#MSG-0138",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-18T09:23:17.886Z"
+  },
+  {
+    "caseId": "FR-C31A7E",
+    "messageKey": "2026-02-18T10:51:52.395Z#MSG-0139",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-02-18T10:51:52.395Z"
+  },
+  {
+    "caseId": "FR-C31A7E",
+    "messageKey": "2026-02-18T16:51:49.222Z#MSG-0140",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-02-18T16:51:49.222Z"
+  },
+  {
+    "caseId": "FR-697981",
+    "messageKey": "2026-06-29T02:26:27.570Z#MSG-0141",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10028.",
+    "createdAt": "2026-06-29T02:26:27.570Z",
+    "userId": "CUS-009"
+  },
+  {
+    "caseId": "FR-697981",
+    "messageKey": "2026-06-29T02:27:27.570Z#MSG-0142",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-29T02:27:27.570Z"
+  },
+  {
+    "caseId": "FR-CD47FD",
+    "messageKey": "2026-06-14T09:01:46.460Z#MSG-0143",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10032, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-14T09:01:46.460Z",
+    "userId": "CUS-010"
+  },
+  {
+    "caseId": "FR-CD47FD",
+    "messageKey": "2026-06-14T09:02:46.460Z#MSG-0144",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-14T09:02:46.460Z"
+  },
+  {
+    "caseId": "FR-CD47FD",
+    "messageKey": "2026-06-14T12:14:10.577Z#MSG-0145",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-14T12:14:10.577Z"
+  },
+  {
+    "caseId": "FR-A584EC",
+    "messageKey": "2026-08-27T10:11:31.284Z#MSG-0146",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10034, but refund RF-90017 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-27T10:11:31.284Z",
+    "userId": "CUS-011"
+  },
+  {
+    "caseId": "FR-A584EC",
+    "messageKey": "2026-08-27T10:12:31.284Z#MSG-0147",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-27T10:12:31.284Z"
+  },
+  {
+    "caseId": "FR-A584EC",
+    "messageKey": "2026-08-27T13:10:54.341Z#MSG-0148",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-08-27T13:10:54.341Z"
+  },
+  {
+    "caseId": "FR-A584EC",
+    "messageKey": "2026-08-27T16:04:17.169Z#MSG-0149",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-08-27T16:04:17.169Z"
+  },
+  {
+    "caseId": "FR-833D38",
+    "messageKey": "2026-01-07T21:01:05.773Z#MSG-0150",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10037, but refund RF-90019 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-07T21:01:05.773Z",
+    "userId": "CUS-012"
+  },
+  {
+    "caseId": "FR-833D38",
+    "messageKey": "2026-01-07T21:02:05.773Z#MSG-0151",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-07T21:02:05.773Z"
+  },
+  {
+    "caseId": "FR-833D38",
+    "messageKey": "2026-01-07T22:11:22.736Z#MSG-0152",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-01-07T22:11:22.736Z"
+  },
+  {
+    "caseId": "FR-DABCE8",
+    "messageKey": "2026-03-06T16:57:19.177Z#MSG-0153",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10043, but refund RF-90022 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-06T16:57:19.177Z",
+    "userId": "CUS-013"
+  },
+  {
+    "caseId": "FR-DABCE8",
+    "messageKey": "2026-03-06T16:58:19.177Z#MSG-0154",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-06T16:58:19.177Z"
+  },
+  {
+    "caseId": "FR-667020",
+    "messageKey": "2026-02-06T20:08:25.892Z#MSG-0155",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10044, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-02-06T20:08:25.892Z",
+    "userId": "CUS-014"
+  },
+  {
+    "caseId": "FR-667020",
+    "messageKey": "2026-02-06T20:09:25.892Z#MSG-0156",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-06T20:09:25.892Z"
+  },
+  {
+    "caseId": "FR-667020",
+    "messageKey": "2026-02-06T21:30:18.393Z#MSG-0157",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-02-06T21:30:18.393Z"
+  },
+  {
+    "caseId": "FR-667020",
+    "messageKey": "2026-02-07T03:44:28.341Z#MSG-0158",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-02-07T03:44:28.341Z"
+  },
+  {
+    "caseId": "FR-DEFF96",
+    "messageKey": "2026-04-03T05:04:03.657Z#MSG-0159",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10047, but refund RF-90023 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-03T05:04:03.657Z",
+    "userId": "CUS-015"
+  },
+  {
+    "caseId": "FR-DEFF96",
+    "messageKey": "2026-04-03T05:05:03.657Z#MSG-0160",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-03T05:05:03.657Z"
+  },
+  {
+    "caseId": "FR-637D70",
+    "messageKey": "2026-09-04T13:18:13.944Z#MSG-0161",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10050 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-09-04T13:18:13.944Z",
+    "userId": "CUS-016"
+  },
+  {
+    "caseId": "FR-637D70",
+    "messageKey": "2026-09-04T13:19:13.944Z#MSG-0162",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-04T13:19:13.944Z"
+  },
+  {
+    "caseId": "FR-637D70",
+    "messageKey": "2026-09-04T17:05:05.741Z#MSG-0163",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-09-04T17:05:05.741Z"
+  },
+  {
+    "caseId": "FR-770357",
+    "messageKey": "2026-06-01T06:58:54.925Z#MSG-0164",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10051. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-06-01T06:58:54.925Z",
+    "userId": "CUS-017"
+  },
+  {
+    "caseId": "FR-770357",
+    "messageKey": "2026-06-01T06:59:54.925Z#MSG-0165",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-01T06:59:54.925Z"
+  },
+  {
+    "caseId": "FR-770357",
+    "messageKey": "2026-06-01T09:09:56.330Z#MSG-0166",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-01T09:09:56.330Z"
+  },
+  {
+    "caseId": "FR-770357",
+    "messageKey": "2026-06-01T15:03:21.064Z#MSG-0167",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-06-01T15:03:21.064Z"
+  },
+  {
+    "caseId": "FR-C0C2F9",
+    "messageKey": "2026-07-28T07:31:16.862Z#MSG-0168",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10057 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-07-28T07:31:16.862Z",
+    "userId": "CUS-018"
+  },
+  {
+    "caseId": "FR-C0C2F9",
+    "messageKey": "2026-07-28T07:32:16.862Z#MSG-0169",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-28T07:32:16.862Z"
+  },
+  {
+    "caseId": "FR-C0C2F9",
+    "messageKey": "2026-07-28T10:37:14.104Z#MSG-0170",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-28T10:37:14.104Z"
+  },
+  {
+    "caseId": "FR-A64510",
+    "messageKey": "2026-04-30T01:59:57.539Z#MSG-0171",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10059, but refund RF-90026 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-30T01:59:57.539Z",
+    "userId": "CUS-019"
+  },
+  {
+    "caseId": "FR-A64510",
+    "messageKey": "2026-04-30T02:00:57.539Z#MSG-0172",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-30T02:00:57.539Z"
+  },
+  {
+    "caseId": "FR-00F934",
+    "messageKey": "2026-03-01T09:39:25.601Z#MSG-0173",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10060.",
+    "createdAt": "2026-03-01T09:39:25.601Z",
+    "userId": "CUS-020"
+  },
+  {
+    "caseId": "FR-00F934",
+    "messageKey": "2026-03-01T09:40:25.601Z#MSG-0174",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-01T09:40:25.601Z"
+  },
+  {
+    "caseId": "FR-00F934",
+    "messageKey": "2026-03-01T12:28:48.750Z#MSG-0175",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-01T12:28:48.750Z"
+  },
+  {
+    "caseId": "FR-00F934",
+    "messageKey": "2026-03-01T17:38:33.163Z#MSG-0176",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-03-01T17:38:33.163Z"
+  },
+  {
+    "caseId": "FR-644B7A",
+    "messageKey": "2026-03-23T11:03:39.091Z#MSG-0177",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10062 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-03-23T11:03:39.091Z",
+    "userId": "CUS-021"
+  },
+  {
+    "caseId": "FR-644B7A",
+    "messageKey": "2026-03-23T11:04:39.091Z#MSG-0178",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-23T11:04:39.091Z"
+  },
+  {
+    "caseId": "FR-ED5177",
+    "messageKey": "2026-03-26T03:12:49.044Z#MSG-0179",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10064.",
+    "createdAt": "2026-03-26T03:12:49.044Z",
+    "userId": "CUS-022"
+  },
+  {
+    "caseId": "FR-ED5177",
+    "messageKey": "2026-03-26T03:13:49.044Z#MSG-0180",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-26T03:13:49.044Z"
+  },
+  {
+    "caseId": "FR-ED5177",
+    "messageKey": "2026-03-26T04:55:29.190Z#MSG-0181",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-26T04:55:29.190Z"
+  },
+  {
+    "caseId": "FR-ECF56F",
+    "messageKey": "2025-12-07T20:22:04.871Z#MSG-0182",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10067.",
+    "createdAt": "2025-12-07T20:22:04.871Z",
+    "userId": "CUS-023"
+  },
+  {
+    "caseId": "FR-ECF56F",
+    "messageKey": "2025-12-07T20:23:04.871Z#MSG-0183",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-07T20:23:04.871Z"
+  },
+  {
+    "caseId": "FR-ECF56F",
+    "messageKey": "2025-12-07T21:41:40.589Z#MSG-0184",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2025-12-07T21:41:40.589Z"
+  },
+  {
+    "caseId": "FR-ECF56F",
+    "messageKey": "2025-12-08T04:39:07.688Z#MSG-0185",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2025-12-08T04:39:07.688Z"
+  },
+  {
+    "caseId": "FR-FA9C2B",
+    "messageKey": "2025-12-05T12:46:51.634Z#MSG-0186",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10068 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2025-12-05T12:46:51.634Z",
+    "userId": "CUS-024"
+  },
+  {
+    "caseId": "FR-FA9C2B",
+    "messageKey": "2025-12-05T12:47:51.634Z#MSG-0187",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-05T12:47:51.634Z"
+  },
+  {
+    "caseId": "FR-FA9C2B",
+    "messageKey": "2025-12-05T14:27:40.933Z#MSG-0188",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2025-12-05T14:27:40.933Z"
+  },
+  {
+    "caseId": "FR-233FDF",
+    "messageKey": "2026-07-01T03:32:20.245Z#MSG-0189",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10074, but refund RF-90032 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-01T03:32:20.245Z",
+    "userId": "CUS-025"
+  },
+  {
+    "caseId": "FR-233FDF",
+    "messageKey": "2026-07-01T03:33:20.245Z#MSG-0190",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-01T03:33:20.245Z"
+  },
+  {
+    "caseId": "FR-697B9E",
+    "messageKey": "2025-11-29T04:30:04.384Z#MSG-0191",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10075.",
+    "createdAt": "2025-11-29T04:30:04.384Z",
+    "userId": "CUS-026"
+  },
+  {
+    "caseId": "FR-697B9E",
+    "messageKey": "2025-11-29T04:31:04.384Z#MSG-0192",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-11-29T04:31:04.384Z"
+  },
+  {
+    "caseId": "FR-697B9E",
+    "messageKey": "2025-11-29T07:19:34.490Z#MSG-0193",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2025-11-29T07:19:34.490Z"
+  },
+  {
+    "caseId": "FR-697B9E",
+    "messageKey": "2025-11-29T11:37:11.029Z#MSG-0194",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2025-11-29T11:37:11.029Z"
+  },
+  {
+    "caseId": "FR-3231E0",
+    "messageKey": "2025-12-18T11:50:56.695Z#MSG-0195",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10080, but refund RF-90035 is taking longer than the 24h SLA.",
+    "createdAt": "2025-12-18T11:50:56.695Z",
+    "userId": "CUS-027"
+  },
+  {
+    "caseId": "FR-3231E0",
+    "messageKey": "2025-12-18T11:51:56.695Z#MSG-0196",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-18T11:51:56.695Z"
+  },
+  {
+    "caseId": "FR-0DCDC8",
+    "messageKey": "2026-04-05T12:45:40.259Z#MSG-0197",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10083, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-05T12:45:40.259Z",
+    "userId": "CUS-028"
+  },
+  {
+    "caseId": "FR-0DCDC8",
+    "messageKey": "2026-04-05T12:46:40.259Z#MSG-0198",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-05T12:46:40.259Z"
+  },
+  {
+    "caseId": "FR-0DCDC8",
+    "messageKey": "2026-04-05T14:15:52.674Z#MSG-0199",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-05T14:15:52.674Z"
+  },
+  {
+    "caseId": "FR-9142CE",
+    "messageKey": "2026-02-24T08:29:29.366Z#MSG-0200",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10084, but refund RF-90037 is taking longer than the 24h SLA.",
+    "createdAt": "2026-02-24T08:29:29.366Z",
+    "userId": "CUS-029"
+  },
+  {
+    "caseId": "FR-9142CE",
+    "messageKey": "2026-02-24T08:30:29.366Z#MSG-0201",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-24T08:30:29.366Z"
+  },
+  {
+    "caseId": "FR-9142CE",
+    "messageKey": "2026-02-24T10:57:08.173Z#MSG-0202",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-02-24T10:57:08.173Z"
+  },
+  {
+    "caseId": "FR-9142CE",
+    "messageKey": "2026-02-24T17:22:07.819Z#MSG-0203",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-02-24T17:22:07.819Z"
+  },
+  {
+    "caseId": "FR-A27222",
+    "messageKey": "2025-11-08T23:11:44.771Z#MSG-0204",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10085.",
+    "createdAt": "2025-11-08T23:11:44.771Z",
+    "userId": "CUS-030"
+  },
+  {
+    "caseId": "FR-A27222",
+    "messageKey": "2025-11-08T23:12:44.771Z#MSG-0205",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-11-08T23:12:44.771Z"
+  },
+  {
+    "caseId": "FR-A27222",
+    "messageKey": "2025-11-09T01:08:52.997Z#MSG-0206",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2025-11-09T01:08:52.997Z"
+  },
+  {
+    "caseId": "FR-6C0FCB",
+    "messageKey": "2026-03-06T19:02:39.435Z#MSG-0207",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10088, but refund RF-90039 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-06T19:02:39.435Z",
+    "userId": "CUS-031"
+  },
+  {
+    "caseId": "FR-6C0FCB",
+    "messageKey": "2026-03-06T19:03:39.435Z#MSG-0208",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-06T19:03:39.435Z"
+  },
+  {
+    "caseId": "FR-76F170",
+    "messageKey": "2026-05-12T16:18:49.336Z#MSG-0209",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10089.",
+    "createdAt": "2026-05-12T16:18:49.336Z",
+    "userId": "CUS-032"
+  },
+  {
+    "caseId": "FR-76F170",
+    "messageKey": "2026-05-12T16:19:49.336Z#MSG-0210",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-12T16:19:49.336Z"
+  },
+  {
+    "caseId": "FR-76F170",
+    "messageKey": "2026-05-12T17:22:00.596Z#MSG-0211",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-12T17:22:00.596Z"
+  },
+  {
+    "caseId": "FR-76F170",
+    "messageKey": "2026-05-13T00:30:59.910Z#MSG-0212",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-05-13T00:30:59.910Z"
+  },
+  {
+    "caseId": "FR-C547FF",
+    "messageKey": "2026-08-15T01:36:18.475Z#MSG-0213",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10096 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-08-15T01:36:18.475Z",
+    "userId": "CUS-033"
+  },
+  {
+    "caseId": "FR-C547FF",
+    "messageKey": "2026-08-15T01:37:18.475Z#MSG-0214",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-15T01:37:18.475Z"
+  },
+  {
+    "caseId": "FR-6EED2F",
+    "messageKey": "2025-12-31T17:04:56.869Z#MSG-0215",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10097, but refund RF-90043 is taking longer than the 24h SLA.",
+    "createdAt": "2025-12-31T17:04:56.869Z",
+    "userId": "CUS-034"
+  },
+  {
+    "caseId": "FR-6EED2F",
+    "messageKey": "2025-12-31T17:05:56.869Z#MSG-0216",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-31T17:05:56.869Z"
+  },
+  {
+    "caseId": "FR-6EED2F",
+    "messageKey": "2025-12-31T19:08:26.685Z#MSG-0217",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2025-12-31T19:08:26.685Z"
+  },
+  {
+    "caseId": "FR-3E4117",
+    "messageKey": "2026-03-04T08:22:24.353Z#MSG-0218",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10106 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-03-04T08:22:24.353Z",
+    "userId": "CUS-035"
+  },
+  {
+    "caseId": "FR-3E4117",
+    "messageKey": "2026-03-04T08:23:24.353Z#MSG-0219",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-04T08:23:24.353Z"
+  },
+  {
+    "caseId": "FR-3E4117",
+    "messageKey": "2026-03-04T11:55:16.114Z#MSG-0220",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-04T11:55:16.114Z"
+  },
+  {
+    "caseId": "FR-3E4117",
+    "messageKey": "2026-03-04T14:00:44.073Z#MSG-0221",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-03-04T14:00:44.073Z"
+  },
+  {
+    "caseId": "FR-55FD83",
+    "messageKey": "2026-07-28T05:12:31.367Z#MSG-0222",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10113.",
+    "createdAt": "2026-07-28T05:12:31.367Z",
+    "userId": "CUS-036"
+  },
+  {
+    "caseId": "FR-55FD83",
+    "messageKey": "2026-07-28T05:13:31.367Z#MSG-0223",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-28T05:13:31.367Z"
+  },
+  {
+    "caseId": "FR-55FD83",
+    "messageKey": "2026-07-28T07:06:29.487Z#MSG-0224",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-28T07:06:29.487Z"
+  },
+  {
+    "caseId": "FR-82D4EB",
+    "messageKey": "2026-01-05T07:42:01.594Z#MSG-0225",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10116, but refund RF-90050 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-05T07:42:01.594Z",
+    "userId": "CUS-037"
+  },
+  {
+    "caseId": "FR-82D4EB",
+    "messageKey": "2026-01-05T07:43:01.594Z#MSG-0226",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-05T07:43:01.594Z"
+  },
+  {
+    "caseId": "FR-B64A26",
+    "messageKey": "2026-07-12T03:59:18.349Z#MSG-0227",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10117, but refund RF-90051 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-12T03:59:18.349Z",
+    "userId": "CUS-038"
+  },
+  {
+    "caseId": "FR-B64A26",
+    "messageKey": "2026-07-12T04:00:18.349Z#MSG-0228",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-12T04:00:18.349Z"
+  },
+  {
+    "caseId": "FR-B64A26",
+    "messageKey": "2026-07-12T05:30:52.948Z#MSG-0229",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-12T05:30:52.948Z"
+  },
+  {
+    "caseId": "FR-B64A26",
+    "messageKey": "2026-07-12T10:54:14.100Z#MSG-0230",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-07-12T10:54:14.100Z"
+  },
+  {
+    "caseId": "FR-47ECC5",
+    "messageKey": "2026-04-19T06:51:51.925Z#MSG-0231",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10120.",
+    "createdAt": "2026-04-19T06:51:51.925Z",
+    "userId": "CUS-039"
+  },
+  {
+    "caseId": "FR-47ECC5",
+    "messageKey": "2026-04-19T06:52:51.925Z#MSG-0232",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-19T06:52:51.925Z"
+  },
+  {
+    "caseId": "FR-4C4B6A",
+    "messageKey": "2026-07-09T08:23:37.533Z#MSG-0233",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10125, but refund RF-90054 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-09T08:23:37.533Z",
+    "userId": "CUS-040"
+  },
+  {
+    "caseId": "FR-4C4B6A",
+    "messageKey": "2026-07-09T08:24:37.533Z#MSG-0234",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-09T08:24:37.533Z"
+  },
+  {
+    "caseId": "FR-4C4B6A",
+    "messageKey": "2026-07-09T11:32:34.988Z#MSG-0235",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-07-09T11:32:34.988Z"
+  },
+  {
+    "caseId": "FR-387BAC",
+    "messageKey": "2026-08-06T02:12:28.953Z#MSG-0236",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10129 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-08-06T02:12:28.953Z",
+    "userId": "CUS-041"
+  },
+  {
+    "caseId": "FR-387BAC",
+    "messageKey": "2026-08-06T02:13:28.953Z#MSG-0237",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-06T02:13:28.953Z"
+  },
+  {
+    "caseId": "FR-387BAC",
+    "messageKey": "2026-08-06T03:22:28.758Z#MSG-0238",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-08-06T03:22:28.758Z"
+  },
+  {
+    "caseId": "FR-387BAC",
+    "messageKey": "2026-08-06T09:18:27.380Z#MSG-0239",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-08-06T09:18:27.380Z"
+  },
+  {
+    "caseId": "FR-69E86C",
+    "messageKey": "2026-04-07T05:05:57.029Z#MSG-0240",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10130, but refund RF-90056 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-07T05:05:57.029Z",
+    "userId": "CUS-042"
+  },
+  {
+    "caseId": "FR-69E86C",
+    "messageKey": "2026-04-07T05:06:57.029Z#MSG-0241",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-07T05:06:57.029Z"
+  },
+  {
+    "caseId": "FR-69E86C",
+    "messageKey": "2026-04-07T07:30:48.566Z#MSG-0242",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-07T07:30:48.566Z"
+  },
+  {
+    "caseId": "FR-78CF08",
+    "messageKey": "2026-07-07T04:17:47.705Z#MSG-0243",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10137.",
+    "createdAt": "2026-07-07T04:17:47.705Z",
+    "userId": "CUS-043"
+  },
+  {
+    "caseId": "FR-78CF08",
+    "messageKey": "2026-07-07T04:18:47.705Z#MSG-0244",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-07T04:18:47.705Z"
+  },
+  {
+    "caseId": "FR-C98B0B",
+    "messageKey": "2026-08-01T03:52:00.189Z#MSG-0245",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10138 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-08-01T03:52:00.189Z",
+    "userId": "CUS-044"
+  },
+  {
+    "caseId": "FR-C98B0B",
+    "messageKey": "2026-08-01T03:53:00.189Z#MSG-0246",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-01T03:53:00.189Z"
+  },
+  {
+    "caseId": "FR-C98B0B",
+    "messageKey": "2026-08-01T06:16:25.597Z#MSG-0247",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-08-01T06:16:25.597Z"
+  },
+  {
+    "caseId": "FR-C98B0B",
+    "messageKey": "2026-08-01T12:54:05.915Z#MSG-0248",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-08-01T12:54:05.915Z"
+  },
+  {
+    "caseId": "FR-D80CF3",
+    "messageKey": "2026-06-19T10:01:26.178Z#MSG-0249",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10144 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-06-19T10:01:26.178Z",
+    "userId": "CUS-045"
+  },
+  {
+    "caseId": "FR-D80CF3",
+    "messageKey": "2026-06-19T10:02:26.178Z#MSG-0250",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-19T10:02:26.178Z"
+  },
+  {
+    "caseId": "FR-73FD0A",
+    "messageKey": "2026-03-07T18:35:09.288Z#MSG-0251",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10146 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-03-07T18:35:09.288Z",
+    "userId": "CUS-046"
+  },
+  {
+    "caseId": "FR-73FD0A",
+    "messageKey": "2026-03-07T18:36:09.288Z#MSG-0252",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-07T18:36:09.288Z"
+  },
+  {
+    "caseId": "FR-73FD0A",
+    "messageKey": "2026-03-07T22:33:48.769Z#MSG-0253",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-07T22:33:48.769Z"
+  },
+  {
+    "caseId": "FR-E5F2B8",
+    "messageKey": "2026-03-05T09:18:59.480Z#MSG-0254",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10147, but refund RF-90062 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-05T09:18:59.480Z",
+    "userId": "CUS-047"
+  },
+  {
+    "caseId": "FR-E5F2B8",
+    "messageKey": "2026-03-05T09:19:59.480Z#MSG-0255",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-05T09:19:59.480Z"
+  },
+  {
+    "caseId": "FR-E5F2B8",
+    "messageKey": "2026-03-05T12:24:14.009Z#MSG-0256",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-05T12:24:14.009Z"
+  },
+  {
+    "caseId": "FR-E5F2B8",
+    "messageKey": "2026-03-05T15:00:29.406Z#MSG-0257",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-03-05T15:00:29.406Z"
+  },
+  {
+    "caseId": "FR-2024BB",
+    "messageKey": "2026-03-29T20:58:14.952Z#MSG-0258",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10152 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-03-29T20:58:14.952Z",
+    "userId": "CUS-048"
+  },
+  {
+    "caseId": "FR-2024BB",
+    "messageKey": "2026-03-29T20:59:14.952Z#MSG-0259",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-29T20:59:14.952Z"
+  },
+  {
+    "caseId": "FR-2024BB",
+    "messageKey": "2026-03-30T00:40:07.514Z#MSG-0260",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-30T00:40:07.514Z"
+  },
+  {
+    "caseId": "FR-69EE78",
+    "messageKey": "2026-08-10T02:47:52.103Z#MSG-0261",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10154.",
+    "createdAt": "2026-08-10T02:47:52.103Z",
+    "userId": "CUS-049"
+  },
+  {
+    "caseId": "FR-69EE78",
+    "messageKey": "2026-08-10T02:48:52.103Z#MSG-0262",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-10T02:48:52.103Z"
+  },
+  {
+    "caseId": "FR-37AD18",
+    "messageKey": "2026-03-23T17:32:14.208Z#MSG-0263",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10155.",
+    "createdAt": "2026-03-23T17:32:14.208Z",
+    "userId": "CUS-050"
+  },
+  {
+    "caseId": "FR-37AD18",
+    "messageKey": "2026-03-23T17:33:14.208Z#MSG-0264",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-23T17:33:14.208Z"
+  },
+  {
+    "caseId": "FR-37AD18",
+    "messageKey": "2026-03-23T20:42:38.133Z#MSG-0265",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-23T20:42:38.133Z"
+  },
+  {
+    "caseId": "FR-37AD18",
+    "messageKey": "2026-03-24T01:38:34.668Z#MSG-0266",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-03-24T01:38:34.668Z"
+  },
+  {
+    "caseId": "FR-5B2373",
+    "messageKey": "2026-02-03T11:20:23.408Z#MSG-0267",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10159.",
+    "createdAt": "2026-02-03T11:20:23.408Z",
+    "userId": "CUS-051"
+  },
+  {
+    "caseId": "FR-5B2373",
+    "messageKey": "2026-02-03T11:21:23.408Z#MSG-0268",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-03T11:21:23.408Z"
+  },
+  {
+    "caseId": "FR-C38C29",
+    "messageKey": "2026-01-07T19:11:14.269Z#MSG-0269",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10162.",
+    "createdAt": "2026-01-07T19:11:14.269Z",
+    "userId": "CUS-052"
+  },
+  {
+    "caseId": "FR-C38C29",
+    "messageKey": "2026-01-07T19:12:14.269Z#MSG-0270",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-07T19:12:14.269Z"
+  },
+  {
+    "caseId": "FR-C38C29",
+    "messageKey": "2026-01-07T21:31:08.898Z#MSG-0271",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-01-07T21:31:08.898Z"
+  },
+  {
+    "caseId": "FR-16C9D6",
+    "messageKey": "2026-08-14T00:55:45.403Z#MSG-0272",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10166, but refund RF-90068 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-14T00:55:45.403Z",
+    "userId": "CUS-053"
+  },
+  {
+    "caseId": "FR-16C9D6",
+    "messageKey": "2026-08-14T00:56:45.403Z#MSG-0273",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-14T00:56:45.403Z"
+  },
+  {
+    "caseId": "FR-16C9D6",
+    "messageKey": "2026-08-14T03:11:14.751Z#MSG-0274",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-08-14T03:11:14.751Z"
+  },
+  {
+    "caseId": "FR-16C9D6",
+    "messageKey": "2026-08-14T08:52:22.801Z#MSG-0275",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-08-14T08:52:22.801Z"
+  },
+  {
+    "caseId": "FR-F11F82",
+    "messageKey": "2026-07-28T21:42:43.330Z#MSG-0276",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10167 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-07-28T21:42:43.330Z",
+    "userId": "CUS-054"
+  },
+  {
+    "caseId": "FR-F11F82",
+    "messageKey": "2026-07-28T21:43:43.330Z#MSG-0277",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-28T21:43:43.330Z"
+  },
+  {
+    "caseId": "FR-F11F82",
+    "messageKey": "2026-07-28T22:47:19.922Z#MSG-0278",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-28T22:47:19.922Z"
+  },
+  {
+    "caseId": "FR-0BCD5F",
+    "messageKey": "2026-04-24T00:41:08.428Z#MSG-0279",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10173, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-24T00:41:08.428Z",
+    "userId": "CUS-055"
+  },
+  {
+    "caseId": "FR-0BCD5F",
+    "messageKey": "2026-04-24T00:42:08.428Z#MSG-0280",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-24T00:42:08.428Z"
+  },
+  {
+    "caseId": "FR-50FC15",
+    "messageKey": "2026-06-05T03:27:49.852Z#MSG-0281",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10174, but refund RF-90071 is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-05T03:27:49.852Z",
+    "userId": "CUS-056"
+  },
+  {
+    "caseId": "FR-50FC15",
+    "messageKey": "2026-06-05T03:28:49.852Z#MSG-0282",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-05T03:28:49.852Z"
+  },
+  {
+    "caseId": "FR-50FC15",
+    "messageKey": "2026-06-05T05:46:01.945Z#MSG-0283",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-06-05T05:46:01.945Z"
+  },
+  {
+    "caseId": "FR-50FC15",
+    "messageKey": "2026-06-05T12:43:31.529Z#MSG-0284",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-06-05T12:43:31.529Z"
+  },
+  {
+    "caseId": "FR-3B197C",
+    "messageKey": "2026-04-29T23:14:57.318Z#MSG-0285",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10176, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-29T23:14:57.318Z",
+    "userId": "CUS-057"
+  },
+  {
+    "caseId": "FR-3B197C",
+    "messageKey": "2026-04-29T23:15:57.318Z#MSG-0286",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-29T23:15:57.318Z"
+  },
+  {
+    "caseId": "FR-716CE5",
+    "messageKey": "2026-01-30T13:07:42.639Z#MSG-0287",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10177, but refund RF-90072 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-30T13:07:42.639Z",
+    "userId": "CUS-058"
+  },
+  {
+    "caseId": "FR-716CE5",
+    "messageKey": "2026-01-30T13:08:42.639Z#MSG-0288",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-30T13:08:42.639Z"
+  },
+  {
+    "caseId": "FR-716CE5",
+    "messageKey": "2026-01-30T16:43:17.555Z#MSG-0289",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-01-30T16:43:17.555Z"
+  },
+  {
+    "caseId": "FR-FDC5A7",
+    "messageKey": "2026-03-01T04:25:44.004Z#MSG-0290",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10180 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-03-01T04:25:44.004Z",
+    "userId": "CUS-059"
+  },
+  {
+    "caseId": "FR-FDC5A7",
+    "messageKey": "2026-03-01T04:26:44.004Z#MSG-0291",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-01T04:26:44.004Z"
+  },
+  {
+    "caseId": "FR-FDC5A7",
+    "messageKey": "2026-03-01T05:31:14.726Z#MSG-0292",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-01T05:31:14.726Z"
+  },
+  {
+    "caseId": "FR-FDC5A7",
+    "messageKey": "2026-03-01T12:47:06.438Z#MSG-0293",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-03-01T12:47:06.438Z"
+  },
+  {
+    "caseId": "FR-FDF483",
+    "messageKey": "2026-07-24T02:33:59.410Z#MSG-0294",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10183, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-24T02:33:59.410Z",
+    "userId": "CUS-060"
+  },
+  {
+    "caseId": "FR-FDF483",
+    "messageKey": "2026-07-24T02:34:59.410Z#MSG-0295",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-24T02:34:59.410Z"
+  },
+  {
+    "caseId": "FR-FDF483",
+    "messageKey": "2026-07-24T05:28:36.132Z#MSG-0296",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-07-24T05:28:36.132Z"
+  },
+  {
+    "caseId": "FR-0F595A",
+    "messageKey": "2026-08-27T09:13:30.950Z#MSG-0297",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10188, but refund RF-90076 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-27T09:13:30.950Z",
+    "userId": "CUS-061"
+  },
+  {
+    "caseId": "FR-0F595A",
+    "messageKey": "2026-08-27T09:14:30.950Z#MSG-0298",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-27T09:14:30.950Z"
+  },
+  {
+    "caseId": "FR-59A139",
+    "messageKey": "2026-03-22T01:33:01.310Z#MSG-0299",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10189.",
+    "createdAt": "2026-03-22T01:33:01.310Z",
+    "userId": "CUS-062"
+  },
+  {
+    "caseId": "FR-59A139",
+    "messageKey": "2026-03-22T01:34:01.310Z#MSG-0300",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-22T01:34:01.310Z"
+  },
+  {
+    "caseId": "FR-59A139",
+    "messageKey": "2026-03-22T04:17:18.876Z#MSG-0301",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-22T04:17:18.876Z"
+  },
+  {
+    "caseId": "FR-59A139",
+    "messageKey": "2026-03-22T06:47:22.451Z#MSG-0302",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-03-22T06:47:22.451Z"
+  },
+  {
+    "caseId": "FR-E4734A",
+    "messageKey": "2026-07-19T06:18:17.648Z#MSG-0303",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10193, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-19T06:18:17.648Z",
+    "userId": "CUS-063"
+  },
+  {
+    "caseId": "FR-E4734A",
+    "messageKey": "2026-07-19T06:19:17.648Z#MSG-0304",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-19T06:19:17.648Z"
+  },
+  {
+    "caseId": "FR-459AF7",
+    "messageKey": "2026-03-03T18:59:20.848Z#MSG-0305",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10197 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-03-03T18:59:20.848Z",
+    "userId": "CUS-064"
+  },
+  {
+    "caseId": "FR-459AF7",
+    "messageKey": "2026-03-03T19:00:20.848Z#MSG-0306",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-03T19:00:20.848Z"
+  },
+  {
+    "caseId": "FR-459AF7",
+    "messageKey": "2026-03-03T20:11:18.998Z#MSG-0307",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-03T20:11:18.998Z"
+  },
+  {
+    "caseId": "FR-634491",
+    "messageKey": "2026-05-25T01:55:18.763Z#MSG-0308",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10201.",
+    "createdAt": "2026-05-25T01:55:18.763Z",
+    "userId": "CUS-065"
+  },
+  {
+    "caseId": "FR-634491",
+    "messageKey": "2026-05-25T01:56:18.763Z#MSG-0309",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-25T01:56:18.763Z"
+  },
+  {
+    "caseId": "FR-634491",
+    "messageKey": "2026-05-25T04:41:19.297Z#MSG-0310",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-25T04:41:19.297Z"
+  },
+  {
+    "caseId": "FR-634491",
+    "messageKey": "2026-05-25T08:21:19.962Z#MSG-0311",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-05-25T08:21:19.962Z"
+  },
+  {
+    "caseId": "FR-2B10EE",
+    "messageKey": "2026-06-08T04:19:13.640Z#MSG-0312",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10202, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-08T04:19:13.640Z",
+    "userId": "CUS-066"
+  },
+  {
+    "caseId": "FR-2B10EE",
+    "messageKey": "2026-06-08T04:20:13.640Z#MSG-0313",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-08T04:20:13.640Z"
+  },
+  {
+    "caseId": "FR-2B10EE",
+    "messageKey": "2026-06-08T05:41:56.251Z#MSG-0314",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-08T05:41:56.251Z"
+  },
+  {
+    "caseId": "FR-A56185",
+    "messageKey": "2026-08-20T03:23:50.748Z#MSG-0315",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10205, but refund RF-90080 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-20T03:23:50.748Z",
+    "userId": "CUS-067"
+  },
+  {
+    "caseId": "FR-A56185",
+    "messageKey": "2026-08-20T03:24:50.748Z#MSG-0316",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-20T03:24:50.748Z"
+  },
+  {
+    "caseId": "FR-862C60",
+    "messageKey": "2026-04-25T17:39:49.112Z#MSG-0317",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10206. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-04-25T17:39:49.112Z",
+    "userId": "CUS-068"
+  },
+  {
+    "caseId": "FR-862C60",
+    "messageKey": "2026-04-25T17:40:49.112Z#MSG-0318",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-25T17:40:49.112Z"
+  },
+  {
+    "caseId": "FR-862C60",
+    "messageKey": "2026-04-25T20:09:53.312Z#MSG-0319",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-25T20:09:53.312Z"
+  },
+  {
+    "caseId": "FR-862C60",
+    "messageKey": "2026-04-25T22:50:35.572Z#MSG-0320",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-04-25T22:50:35.572Z"
+  },
+  {
+    "caseId": "FR-0EC3C5",
+    "messageKey": "2026-04-06T15:57:20.849Z#MSG-0321",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10212.",
+    "createdAt": "2026-04-06T15:57:20.849Z",
+    "userId": "CUS-069"
+  },
+  {
+    "caseId": "FR-0EC3C5",
+    "messageKey": "2026-04-06T15:58:20.849Z#MSG-0322",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-06T15:58:20.849Z"
+  },
+  {
+    "caseId": "FR-F76D2E",
+    "messageKey": "2026-03-16T23:03:14.647Z#MSG-0323",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10215.",
+    "createdAt": "2026-03-16T23:03:14.647Z",
+    "userId": "CUS-070"
+  },
+  {
+    "caseId": "FR-F76D2E",
+    "messageKey": "2026-03-16T23:04:14.647Z#MSG-0324",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-16T23:04:14.647Z"
+  },
+  {
+    "caseId": "FR-F76D2E",
+    "messageKey": "2026-03-17T01:53:47.751Z#MSG-0325",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-17T01:53:47.751Z"
+  },
+  {
+    "caseId": "FR-250801",
+    "messageKey": "2026-01-28T04:15:35.871Z#MSG-0326",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10216, but refund RF-90084 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-28T04:15:35.871Z",
+    "userId": "CUS-071"
+  },
+  {
+    "caseId": "FR-250801",
+    "messageKey": "2026-01-28T04:16:35.871Z#MSG-0327",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-28T04:16:35.871Z"
+  },
+  {
+    "caseId": "FR-250801",
+    "messageKey": "2026-01-28T06:38:32.967Z#MSG-0328",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-01-28T06:38:32.967Z"
+  },
+  {
+    "caseId": "FR-250801",
+    "messageKey": "2026-01-28T11:08:16.602Z#MSG-0329",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-01-28T11:08:16.602Z"
+  },
+  {
+    "caseId": "FR-65A211",
+    "messageKey": "2026-05-01T19:36:01.285Z#MSG-0330",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10219, but refund RF-90085 is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-01T19:36:01.285Z",
+    "userId": "CUS-072"
+  },
+  {
+    "caseId": "FR-65A211",
+    "messageKey": "2026-05-01T19:37:01.285Z#MSG-0331",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-01T19:37:01.285Z"
+  },
+  {
+    "caseId": "FR-65A211",
+    "messageKey": "2026-05-01T22:32:08.234Z#MSG-0332",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-01T22:32:08.234Z"
+  },
+  {
+    "caseId": "FR-CB6E60",
+    "messageKey": "2026-07-20T10:48:31.465Z#MSG-0333",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10221 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-07-20T10:48:31.465Z",
+    "userId": "CUS-073"
+  },
+  {
+    "caseId": "FR-CB6E60",
+    "messageKey": "2026-07-20T10:49:31.465Z#MSG-0334",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-20T10:49:31.465Z"
+  },
+  {
+    "caseId": "FR-A835FB",
+    "messageKey": "2026-04-04T17:59:36.129Z#MSG-0335",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10222.",
+    "createdAt": "2026-04-04T17:59:36.129Z",
+    "userId": "CUS-074"
+  },
+  {
+    "caseId": "FR-A835FB",
+    "messageKey": "2026-04-04T18:00:36.129Z#MSG-0336",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-04T18:00:36.129Z"
+  },
+  {
+    "caseId": "FR-A835FB",
+    "messageKey": "2026-04-04T21:58:03.366Z#MSG-0337",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-04T21:58:03.366Z"
+  },
+  {
+    "caseId": "FR-A835FB",
+    "messageKey": "2026-04-05T02:11:56.787Z#MSG-0338",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-04-05T02:11:56.787Z"
+  },
+  {
+    "caseId": "FR-A17C35",
+    "messageKey": "2025-12-09T22:15:22.458Z#MSG-0339",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10226, but refund RF-90087 is taking longer than the 24h SLA.",
+    "createdAt": "2025-12-09T22:15:22.458Z",
+    "userId": "CUS-075"
+  },
+  {
+    "caseId": "FR-A17C35",
+    "messageKey": "2025-12-09T22:16:22.458Z#MSG-0340",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-09T22:16:22.458Z"
+  },
+  {
+    "caseId": "FR-735D23",
+    "messageKey": "2026-09-01T03:45:32.879Z#MSG-0341",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10228 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-09-01T03:45:32.879Z",
+    "userId": "CUS-076"
+  },
+  {
+    "caseId": "FR-735D23",
+    "messageKey": "2026-09-01T03:46:32.879Z#MSG-0342",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-01T03:46:32.879Z"
+  },
+  {
+    "caseId": "FR-735D23",
+    "messageKey": "2026-09-01T07:03:53.707Z#MSG-0343",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-09-01T07:03:53.707Z"
+  },
+  {
+    "caseId": "FR-BC95A6",
+    "messageKey": "2026-06-12T01:27:12.731Z#MSG-0344",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10233, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-12T01:27:12.731Z",
+    "userId": "CUS-077"
+  },
+  {
+    "caseId": "FR-BC95A6",
+    "messageKey": "2026-06-12T01:28:12.731Z#MSG-0345",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-12T01:28:12.731Z"
+  },
+  {
+    "caseId": "FR-BC95A6",
+    "messageKey": "2026-06-12T04:47:18.501Z#MSG-0346",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-06-12T04:47:18.501Z"
+  },
+  {
+    "caseId": "FR-BC95A6",
+    "messageKey": "2026-06-12T06:54:20.780Z#MSG-0347",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-06-12T06:54:20.780Z"
+  },
+  {
+    "caseId": "FR-C3C9B8",
+    "messageKey": "2026-01-08T07:44:09.671Z#MSG-0348",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10236 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-01-08T07:44:09.671Z",
+    "userId": "CUS-078"
+  },
+  {
+    "caseId": "FR-C3C9B8",
+    "messageKey": "2026-01-08T07:45:09.671Z#MSG-0349",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-08T07:45:09.671Z"
+  },
+  {
+    "caseId": "FR-C3C9B8",
+    "messageKey": "2026-01-08T09:10:23.143Z#MSG-0350",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-01-08T09:10:23.143Z"
+  },
+  {
+    "caseId": "FR-684C2C",
+    "messageKey": "2026-09-04T10:40:47.526Z#MSG-0351",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10238.",
+    "createdAt": "2026-09-04T10:40:47.526Z",
+    "userId": "CUS-079"
+  },
+  {
+    "caseId": "FR-684C2C",
+    "messageKey": "2026-09-04T10:41:47.526Z#MSG-0352",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-04T10:41:47.526Z"
+  },
+  {
+    "caseId": "FR-5A7314",
+    "messageKey": "2026-05-08T01:00:03.872Z#MSG-0353",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10241, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-08T01:00:03.872Z",
+    "userId": "CUS-080"
+  },
+  {
+    "caseId": "FR-5A7314",
+    "messageKey": "2026-05-08T01:01:03.872Z#MSG-0354",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-08T01:01:03.872Z"
+  },
+  {
+    "caseId": "FR-5A7314",
+    "messageKey": "2026-05-08T03:55:57.467Z#MSG-0355",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-08T03:55:57.467Z"
+  },
+  {
+    "caseId": "FR-5A7314",
+    "messageKey": "2026-05-08T07:02:55.519Z#MSG-0356",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-05-08T07:02:55.519Z"
+  },
+  {
+    "caseId": "FR-8F2433",
+    "messageKey": "2026-02-21T17:11:01.520Z#MSG-0357",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10245, but refund RF-90093 is taking longer than the 24h SLA.",
+    "createdAt": "2026-02-21T17:11:01.520Z",
+    "userId": "CUS-081"
+  },
+  {
+    "caseId": "FR-8F2433",
+    "messageKey": "2026-02-21T17:12:01.520Z#MSG-0358",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-21T17:12:01.520Z"
+  },
+  {
+    "caseId": "FR-EF05FA",
+    "messageKey": "2026-02-05T04:56:10.259Z#MSG-0359",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10249 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-02-05T04:56:10.259Z",
+    "userId": "CUS-082"
+  },
+  {
+    "caseId": "FR-EF05FA",
+    "messageKey": "2026-02-05T04:57:10.259Z#MSG-0360",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-05T04:57:10.259Z"
+  },
+  {
+    "caseId": "FR-EF05FA",
+    "messageKey": "2026-02-05T07:56:54.868Z#MSG-0361",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-02-05T07:56:54.868Z"
+  },
+  {
+    "caseId": "FR-3C0FDC",
+    "messageKey": "2026-06-30T10:03:27.811Z#MSG-0362",
+    "sender": "CUSTOMER",
+    "message": "Double debit occurred on my credit card during checkout for order ORD-10253.",
+    "createdAt": "2026-06-30T10:03:27.811Z",
+    "userId": "CUS-083"
+  },
+  {
+    "caseId": "FR-3C0FDC",
+    "messageKey": "2026-06-30T10:04:27.811Z#MSG-0363",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding payment issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-30T10:04:27.811Z"
+  },
+  {
+    "caseId": "FR-3C0FDC",
+    "messageKey": "2026-06-30T11:19:03.300Z#MSG-0364",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-06-30T11:19:03.300Z"
+  },
+  {
+    "caseId": "FR-3C0FDC",
+    "messageKey": "2026-06-30T19:07:05.737Z#MSG-0365",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-06-30T19:07:05.737Z"
+  },
+  {
+    "caseId": "FR-784F2D",
+    "messageKey": "2026-05-09T20:53:18.623Z#MSG-0366",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10258, but refund RF-90098 is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-09T20:53:18.623Z",
+    "userId": "CUS-084"
+  },
+  {
+    "caseId": "FR-784F2D",
+    "messageKey": "2026-05-09T20:54:18.623Z#MSG-0367",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-09T20:54:18.623Z"
+  },
+  {
+    "caseId": "FR-784F2D",
+    "messageKey": "2026-05-09T22:08:07.559Z#MSG-0368",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-05-09T22:08:07.559Z"
+  },
+  {
+    "caseId": "FR-26B6D4",
+    "messageKey": "2026-08-11T23:21:30.648Z#MSG-0369",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10261, but refund RF-90099 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-11T23:21:30.648Z",
+    "userId": "CUS-085"
+  },
+  {
+    "caseId": "FR-26B6D4",
+    "messageKey": "2026-08-11T23:22:30.648Z#MSG-0370",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-11T23:22:30.648Z"
+  },
+  {
+    "caseId": "FR-D6979B",
+    "messageKey": "2026-07-22T10:25:58.455Z#MSG-0371",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10262. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-07-22T10:25:58.455Z",
+    "userId": "CUS-086"
+  },
+  {
+    "caseId": "FR-D6979B",
+    "messageKey": "2026-07-22T10:26:58.455Z#MSG-0372",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-22T10:26:58.455Z"
+  },
+  {
+    "caseId": "FR-D6979B",
+    "messageKey": "2026-07-22T12:32:01.284Z#MSG-0373",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-07-22T12:32:01.284Z"
+  },
+  {
+    "caseId": "FR-D6979B",
+    "messageKey": "2026-07-22T20:16:48.958Z#MSG-0374",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-07-22T20:16:48.958Z"
+  },
+  {
+    "caseId": "FR-D177BB",
+    "messageKey": "2026-04-14T04:58:10.158Z#MSG-0375",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10267.",
+    "createdAt": "2026-04-14T04:58:10.158Z",
+    "userId": "CUS-087"
+  },
+  {
+    "caseId": "FR-D177BB",
+    "messageKey": "2026-04-14T04:59:10.158Z#MSG-0376",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-14T04:59:10.158Z"
+  },
+  {
+    "caseId": "FR-7A7BC2",
+    "messageKey": "2026-06-24T20:31:23.687Z#MSG-0377",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10268, but refund RF-90102 is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-24T20:31:23.687Z",
+    "userId": "CUS-088"
+  },
+  {
+    "caseId": "FR-7A7BC2",
+    "messageKey": "2026-06-24T20:32:23.687Z#MSG-0378",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-24T20:32:23.687Z"
+  },
+  {
+    "caseId": "FR-7A7BC2",
+    "messageKey": "2026-06-25T00:17:18.741Z#MSG-0379",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-06-25T00:17:18.741Z"
+  },
+  {
+    "caseId": "FR-3A3076",
+    "messageKey": "2026-07-12T00:33:15.871Z#MSG-0380",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10272, but refund RF-90103 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-12T00:33:15.871Z",
+    "userId": "CUS-089"
+  },
+  {
+    "caseId": "FR-3A3076",
+    "messageKey": "2026-07-12T00:34:15.871Z#MSG-0381",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-12T00:34:15.871Z"
+  },
+  {
+    "caseId": "FR-3A3076",
+    "messageKey": "2026-07-12T01:49:36.687Z#MSG-0382",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-12T01:49:36.687Z"
+  },
+  {
+    "caseId": "FR-3A3076",
+    "messageKey": "2026-07-12T07:18:21.209Z#MSG-0383",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-07-12T07:18:21.209Z"
+  },
+  {
+    "caseId": "FR-451E74",
+    "messageKey": "2026-04-24T00:35:42.902Z#MSG-0384",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10276, but refund RF-90105 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-24T00:35:42.902Z",
+    "userId": "CUS-090"
+  },
+  {
+    "caseId": "FR-451E74",
+    "messageKey": "2026-04-24T00:36:42.902Z#MSG-0385",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-24T00:36:42.902Z"
+  },
+  {
+    "caseId": "FR-451E74",
+    "messageKey": "2026-04-24T02:53:56.701Z#MSG-0386",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-24T02:53:56.701Z"
+  },
+  {
+    "caseId": "FR-CB4C4C",
+    "messageKey": "2026-03-04T11:04:51.946Z#MSG-0387",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10279, but refund RF-90106 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-04T11:04:51.946Z",
+    "userId": "CUS-091"
+  },
+  {
+    "caseId": "FR-CB4C4C",
+    "messageKey": "2026-03-04T11:05:51.946Z#MSG-0388",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-04T11:05:51.946Z"
+  },
+  {
+    "caseId": "FR-775089",
+    "messageKey": "2026-07-24T07:11:16.398Z#MSG-0389",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10280, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-24T07:11:16.398Z",
+    "userId": "CUS-092"
+  },
+  {
+    "caseId": "FR-775089",
+    "messageKey": "2026-07-24T07:12:16.398Z#MSG-0390",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-24T07:12:16.398Z"
+  },
+  {
+    "caseId": "FR-775089",
+    "messageKey": "2026-07-24T09:42:43.623Z#MSG-0391",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-07-24T09:42:43.623Z"
+  },
+  {
+    "caseId": "FR-775089",
+    "messageKey": "2026-07-24T13:23:10.703Z#MSG-0392",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-07-24T13:23:10.703Z"
+  },
+  {
+    "caseId": "FR-5DAD22",
+    "messageKey": "2026-04-22T21:31:23.759Z#MSG-0393",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10282 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-04-22T21:31:23.759Z",
+    "userId": "CUS-093"
+  },
+  {
+    "caseId": "FR-5DAD22",
+    "messageKey": "2026-04-22T21:32:23.759Z#MSG-0394",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-22T21:32:23.759Z"
+  },
+  {
+    "caseId": "FR-CFDDBD",
+    "messageKey": "2026-04-13T15:29:37.503Z#MSG-0395",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10284, but refund RF-90108 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-13T15:29:37.503Z",
+    "userId": "CUS-094"
+  },
+  {
+    "caseId": "FR-CFDDBD",
+    "messageKey": "2026-04-13T15:30:37.503Z#MSG-0396",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-13T15:30:37.503Z"
+  },
+  {
+    "caseId": "FR-CFDDBD",
+    "messageKey": "2026-04-13T17:34:53.901Z#MSG-0397",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-04-13T17:34:53.901Z"
+  },
+  {
+    "caseId": "FR-FB5FC3",
+    "messageKey": "2026-04-02T03:02:01.783Z#MSG-0398",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10286 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-04-02T03:02:01.783Z",
+    "userId": "CUS-095"
+  },
+  {
+    "caseId": "FR-FB5FC3",
+    "messageKey": "2026-04-02T03:03:01.783Z#MSG-0399",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-02T03:03:01.783Z"
+  },
+  {
+    "caseId": "FR-FB5FC3",
+    "messageKey": "2026-04-02T06:10:30.419Z#MSG-0400",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-04-02T06:10:30.419Z"
+  },
+  {
+    "caseId": "FR-FB5FC3",
+    "messageKey": "2026-04-02T09:04:12.116Z#MSG-0401",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-04-02T09:04:12.116Z"
+  },
+  {
+    "caseId": "FR-1CB72F",
+    "messageKey": "2026-04-07T10:37:44.439Z#MSG-0402",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10290, but refund RF-90110 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-07T10:37:44.439Z",
+    "userId": "CUS-096"
+  },
+  {
+    "caseId": "FR-1CB72F",
+    "messageKey": "2026-04-07T10:38:44.439Z#MSG-0403",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-07T10:38:44.439Z"
+  },
+  {
+    "caseId": "FR-1CB72F",
+    "messageKey": "2026-04-07T11:54:49.325Z#MSG-0404",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-04-07T11:54:49.325Z"
+  },
+  {
+    "caseId": "FR-8F65D9",
+    "messageKey": "2026-05-14T09:05:52.374Z#MSG-0405",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10293.",
+    "createdAt": "2026-05-14T09:05:52.374Z",
+    "userId": "CUS-097"
+  },
+  {
+    "caseId": "FR-8F65D9",
+    "messageKey": "2026-05-14T09:06:52.374Z#MSG-0406",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-14T09:06:52.374Z"
+  },
+  {
+    "caseId": "FR-67928C",
+    "messageKey": "2026-05-21T04:58:43.523Z#MSG-0407",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10294, but refund RF-90112 is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-21T04:58:43.523Z",
+    "userId": "CUS-098"
+  },
+  {
+    "caseId": "FR-67928C",
+    "messageKey": "2026-05-21T04:59:43.523Z#MSG-0408",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-21T04:59:43.523Z"
+  },
+  {
+    "caseId": "FR-67928C",
+    "messageKey": "2026-05-21T08:46:36.514Z#MSG-0409",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-21T08:46:36.514Z"
+  },
+  {
+    "caseId": "FR-67928C",
+    "messageKey": "2026-05-21T13:06:17.014Z#MSG-0410",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-05-21T13:06:17.014Z"
+  },
+  {
+    "caseId": "FR-2510CD",
+    "messageKey": "2026-04-09T11:56:56.771Z#MSG-0411",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10298, but refund RF-90114 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-09T11:56:56.771Z",
+    "userId": "CUS-099"
+  },
+  {
+    "caseId": "FR-2510CD",
+    "messageKey": "2026-04-09T11:57:56.771Z#MSG-0412",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-09T11:57:56.771Z"
+  },
+  {
+    "caseId": "FR-3CD609",
+    "messageKey": "2026-08-27T20:53:06.816Z#MSG-0413",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10301, but refund RF-90115 is taking longer than the 24h SLA.",
+    "createdAt": "2026-08-27T20:53:06.816Z",
+    "userId": "CUS-100"
+  },
+  {
+    "caseId": "FR-3CD609",
+    "messageKey": "2026-08-27T20:54:06.816Z#MSG-0414",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-27T20:54:06.816Z"
+  },
+  {
+    "caseId": "FR-3CD609",
+    "messageKey": "2026-08-27T23:47:22.796Z#MSG-0415",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-08-27T23:47:22.796Z"
+  },
+  {
+    "caseId": "FR-4066DA",
+    "messageKey": "2026-04-20T15:38:12.424Z#MSG-0416",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10001 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-04-20T15:38:12.424Z",
+    "userId": "CUS-002"
+  },
+  {
+    "caseId": "FR-4066DA",
+    "messageKey": "2026-04-20T15:39:12.424Z#MSG-0417",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-20T15:39:12.424Z"
+  },
+  {
+    "caseId": "FR-4066DA",
+    "messageKey": "2026-04-20T17:32:18.659Z#MSG-0418",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-04-20T17:32:18.659Z"
+  },
+  {
+    "caseId": "FR-4066DA",
+    "messageKey": "2026-04-21T00:39:17.813Z#MSG-0419",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-04-21T00:39:17.813Z"
+  },
+  {
+    "caseId": "FR-A05331",
+    "messageKey": "2026-04-05T13:55:07.926Z#MSG-0420",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10005.",
+    "createdAt": "2026-04-05T13:55:07.926Z",
+    "userId": "CUS-003"
+  },
+  {
+    "caseId": "FR-A05331",
+    "messageKey": "2026-04-05T13:56:07.926Z#MSG-0421",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-05T13:56:07.926Z"
+  },
+  {
+    "caseId": "FR-A05331",
+    "messageKey": "2026-04-05T16:53:01.975Z#MSG-0422",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-04-05T16:53:01.975Z"
+  },
+  {
+    "caseId": "FR-33E064",
+    "messageKey": "2026-07-06T00:40:58.434Z#MSG-0423",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10008, but refund RF-90008 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-06T00:40:58.434Z",
+    "userId": "CUS-004"
+  },
+  {
+    "caseId": "FR-33E064",
+    "messageKey": "2026-07-06T00:41:58.434Z#MSG-0424",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-06T00:41:58.434Z"
+  },
+  {
+    "caseId": "FR-8D5DF6",
+    "messageKey": "2026-06-12T19:09:03.136Z#MSG-0425",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10015 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-06-12T19:09:03.136Z",
+    "userId": "CUS-005"
+  },
+  {
+    "caseId": "FR-8D5DF6",
+    "messageKey": "2026-06-12T19:10:03.136Z#MSG-0426",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-12T19:10:03.136Z"
+  },
+  {
+    "caseId": "FR-8D5DF6",
+    "messageKey": "2026-06-12T22:08:08.821Z#MSG-0427",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-12T22:08:08.821Z"
+  },
+  {
+    "caseId": "FR-8D5DF6",
+    "messageKey": "2026-06-13T00:51:26.574Z#MSG-0428",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-06-13T00:51:26.574Z"
+  },
+  {
+    "caseId": "FR-447DC9",
+    "messageKey": "2026-02-06T08:49:58.044Z#MSG-0429",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10020 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-02-06T08:49:58.044Z",
+    "userId": "CUS-006"
+  },
+  {
+    "caseId": "FR-447DC9",
+    "messageKey": "2026-02-06T08:50:58.044Z#MSG-0430",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-06T08:50:58.044Z"
+  },
+  {
+    "caseId": "FR-A5C566",
+    "messageKey": "2026-07-15T19:14:14.833Z#MSG-0431",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10022, but refund RF-90013 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-15T19:14:14.833Z",
+    "userId": "CUS-007"
+  },
+  {
+    "caseId": "FR-A5C566",
+    "messageKey": "2026-07-15T19:15:14.833Z#MSG-0432",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-15T19:15:14.833Z"
+  },
+  {
+    "caseId": "FR-A5C566",
+    "messageKey": "2026-07-15T22:49:54.350Z#MSG-0433",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-07-15T22:49:54.350Z"
+  },
+  {
+    "caseId": "FR-215679",
+    "messageKey": "2026-02-24T09:22:17.886Z#MSG-0434",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10024. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-02-24T09:22:17.886Z",
+    "userId": "CUS-008"
+  },
+  {
+    "caseId": "FR-215679",
+    "messageKey": "2026-02-24T09:23:17.886Z#MSG-0435",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-24T09:23:17.886Z"
+  },
+  {
+    "caseId": "FR-215679",
+    "messageKey": "2026-02-24T10:56:37.463Z#MSG-0436",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-02-24T10:56:37.463Z"
+  },
+  {
+    "caseId": "FR-215679",
+    "messageKey": "2026-02-24T14:58:41.892Z#MSG-0437",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-02-24T14:58:41.892Z"
+  },
+  {
+    "caseId": "FR-FCE73A",
+    "messageKey": "2026-06-30T02:26:27.570Z#MSG-0438",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10028.",
+    "createdAt": "2026-06-30T02:26:27.570Z",
+    "userId": "CUS-009"
+  },
+  {
+    "caseId": "FR-FCE73A",
+    "messageKey": "2026-06-30T02:27:27.570Z#MSG-0439",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-30T02:27:27.570Z"
+  },
+  {
+    "caseId": "FR-FCE73A",
+    "messageKey": "2026-06-30T04:12:26.200Z#MSG-0440",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-30T04:12:26.200Z"
+  },
+  {
+    "caseId": "FR-01F299",
+    "messageKey": "2026-06-20T09:01:46.460Z#MSG-0441",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10032, but refund  is taking longer than the 24h SLA.",
+    "createdAt": "2026-06-20T09:01:46.460Z",
+    "userId": "CUS-010"
+  },
+  {
+    "caseId": "FR-01F299",
+    "messageKey": "2026-06-20T09:02:46.460Z#MSG-0442",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-20T09:02:46.460Z"
+  },
+  {
+    "caseId": "FR-7793BF",
+    "messageKey": "2025-11-03T10:30:49.610Z#MSG-0443",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10033 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2025-11-03T10:30:49.610Z",
+    "userId": "CUS-011"
+  },
+  {
+    "caseId": "FR-7793BF",
+    "messageKey": "2025-11-03T10:31:49.610Z#MSG-0444",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-11-03T10:31:49.610Z"
+  },
+  {
+    "caseId": "FR-7793BF",
+    "messageKey": "2025-11-03T14:29:12.373Z#MSG-0445",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2025-11-03T14:29:12.373Z"
+  },
+  {
+    "caseId": "FR-7793BF",
+    "messageKey": "2025-11-03T18:54:36.353Z#MSG-0446",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2025-11-03T18:54:36.353Z"
+  },
+  {
+    "caseId": "FR-F77FAC",
+    "messageKey": "2026-04-03T22:25:56.034Z#MSG-0447",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10041, but refund RF-90021 is taking longer than the 24h SLA.",
+    "createdAt": "2026-04-03T22:25:56.034Z",
+    "userId": "CUS-012"
+  },
+  {
+    "caseId": "FR-F77FAC",
+    "messageKey": "2026-04-03T22:26:56.034Z#MSG-0448",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-03T22:26:56.034Z"
+  },
+  {
+    "caseId": "FR-AB0C11",
+    "messageKey": "2026-03-08T02:36:23.903Z#MSG-0449",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10042 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-03-08T02:36:23.903Z",
+    "userId": "CUS-013"
+  },
+  {
+    "caseId": "FR-AB0C11",
+    "messageKey": "2026-03-08T02:37:23.903Z#MSG-0450",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-08T02:37:23.903Z"
+  },
+  {
+    "caseId": "FR-AB0C11",
+    "messageKey": "2026-03-08T04:45:03.613Z#MSG-0451",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-08T04:45:03.613Z"
+  },
+  {
+    "caseId": "FR-02AB87",
+    "messageKey": "2026-05-18T22:05:46.156Z#MSG-0452",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10045 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-05-18T22:05:46.156Z",
+    "userId": "CUS-014"
+  },
+  {
+    "caseId": "FR-02AB87",
+    "messageKey": "2026-05-18T22:06:46.156Z#MSG-0453",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-18T22:06:46.156Z"
+  },
+  {
+    "caseId": "FR-02AB87",
+    "messageKey": "2026-05-18T23:25:21.153Z#MSG-0454",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-18T23:25:21.153Z"
+  },
+  {
+    "caseId": "FR-02AB87",
+    "messageKey": "2026-05-19T05:46:12.479Z#MSG-0455",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-05-19T05:46:12.479Z"
+  },
+  {
+    "caseId": "FR-5AFA8C",
+    "messageKey": "2026-06-09T12:29:51.069Z#MSG-0456",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10046. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-06-09T12:29:51.069Z",
+    "userId": "CUS-015"
+  },
+  {
+    "caseId": "FR-5AFA8C",
+    "messageKey": "2026-06-09T12:30:51.069Z#MSG-0457",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-06-09T12:30:51.069Z"
+  },
+  {
+    "caseId": "FR-5AFA8C",
+    "messageKey": "2026-06-09T14:25:58.399Z#MSG-0458",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-06-09T14:25:58.399Z"
+  },
+  {
+    "caseId": "FR-EC961F",
+    "messageKey": "2026-09-02T13:18:13.944Z#MSG-0459",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10050 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-09-02T13:18:13.944Z",
+    "userId": "CUS-016"
+  },
+  {
+    "caseId": "FR-EC961F",
+    "messageKey": "2026-09-02T13:19:13.944Z#MSG-0460",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-09-02T13:19:13.944Z"
+  },
+  {
+    "caseId": "FR-10FB66",
+    "messageKey": "2026-08-15T23:22:36.243Z#MSG-0461",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10056 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2026-08-15T23:22:36.243Z",
+    "userId": "CUS-017"
+  },
+  {
+    "caseId": "FR-10FB66",
+    "messageKey": "2026-08-15T23:23:36.243Z#MSG-0462",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-08-15T23:23:36.243Z"
+  },
+  {
+    "caseId": "FR-10FB66",
+    "messageKey": "2026-08-16T01:07:50.571Z#MSG-0463",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-08-16T01:07:50.571Z"
+  },
+  {
+    "caseId": "FR-10FB66",
+    "messageKey": "2026-08-16T04:36:51.950Z#MSG-0464",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-08-16T04:36:51.950Z"
+  },
+  {
+    "caseId": "FR-E402DA",
+    "messageKey": "2025-10-31T16:48:49.124Z#MSG-0465",
+    "sender": "CUSTOMER",
+    "message": "Delivery for order ORD-10058 was scheduled yesterday but courier marked delivery attempt failed without contacting me.",
+    "createdAt": "2025-10-31T16:48:49.124Z",
+    "userId": "CUS-018"
+  },
+  {
+    "caseId": "FR-E402DA",
+    "messageKey": "2025-10-31T16:49:49.124Z#MSG-0466",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding delivery delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-10-31T16:49:49.124Z"
+  },
+  {
+    "caseId": "FR-56D7EA",
+    "messageKey": "2026-05-04T01:59:57.539Z#MSG-0467",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10059, but refund RF-90026 is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-04T01:59:57.539Z",
+    "userId": "CUS-019"
+  },
+  {
+    "caseId": "FR-56D7EA",
+    "messageKey": "2026-05-04T02:00:57.539Z#MSG-0468",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-04T02:00:57.539Z"
+  },
+  {
+    "caseId": "FR-56D7EA",
+    "messageKey": "2026-05-04T05:58:40.045Z#MSG-0469",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-05-04T05:58:40.045Z"
+  },
+  {
+    "caseId": "FR-4E89EB",
+    "messageKey": "2026-02-23T09:39:25.601Z#MSG-0470",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10060. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-02-23T09:39:25.601Z",
+    "userId": "CUS-020"
+  },
+  {
+    "caseId": "FR-4E89EB",
+    "messageKey": "2026-02-23T09:40:25.601Z#MSG-0471",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-23T09:40:25.601Z"
+  },
+  {
+    "caseId": "FR-4E89EB",
+    "messageKey": "2026-02-23T11:51:59.931Z#MSG-0472",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-02-23T11:51:59.931Z"
+  },
+  {
+    "caseId": "FR-4E89EB",
+    "messageKey": "2026-02-23T15:46:38.789Z#MSG-0473",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-02-23T15:46:38.789Z"
+  },
+  {
+    "caseId": "FR-F34FD8",
+    "messageKey": "2026-03-26T11:03:39.091Z#MSG-0474",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10062.",
+    "createdAt": "2026-03-26T11:03:39.091Z",
+    "userId": "CUS-021"
+  },
+  {
+    "caseId": "FR-F34FD8",
+    "messageKey": "2026-03-26T11:04:39.091Z#MSG-0475",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-26T11:04:39.091Z"
+  },
+  {
+    "caseId": "FR-F34FD8",
+    "messageKey": "2026-03-26T14:41:33.872Z#MSG-0476",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-26T14:41:33.872Z"
+  },
+  {
+    "caseId": "FR-F87C79",
+    "messageKey": "2026-05-06T17:53:00.831Z#MSG-0477",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10065 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-05-06T17:53:00.831Z",
+    "userId": "CUS-022"
+  },
+  {
+    "caseId": "FR-F87C79",
+    "messageKey": "2026-05-06T17:54:00.831Z#MSG-0478",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-06T17:54:00.831Z"
+  },
+  {
+    "caseId": "FR-84028C",
+    "messageKey": "2025-11-25T23:17:26.683Z#MSG-0479",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10066, but refund RF-90029 is taking longer than the 24h SLA.",
+    "createdAt": "2025-11-25T23:17:26.683Z",
+    "userId": "CUS-023"
+  },
+  {
+    "caseId": "FR-84028C",
+    "messageKey": "2025-11-25T23:18:26.683Z#MSG-0480",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-11-25T23:18:26.683Z"
+  },
+  {
+    "caseId": "FR-84028C",
+    "messageKey": "2025-11-26T02:21:22.338Z#MSG-0481",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2025-11-26T02:21:22.338Z"
+  },
+  {
+    "caseId": "FR-84028C",
+    "messageKey": "2025-11-26T06:15:30.778Z#MSG-0482",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2025-11-26T06:15:30.778Z"
+  },
+  {
+    "caseId": "FR-1B123D",
+    "messageKey": "2025-12-06T12:46:51.634Z#MSG-0483",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10068. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2025-12-06T12:46:51.634Z",
+    "userId": "CUS-024"
+  },
+  {
+    "caseId": "FR-1B123D",
+    "messageKey": "2025-12-06T12:47:51.634Z#MSG-0484",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-06T12:47:51.634Z"
+  },
+  {
+    "caseId": "FR-98CCF1",
+    "messageKey": "2026-05-09T00:12:47.919Z#MSG-0485",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10071 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2026-05-09T00:12:47.919Z",
+    "userId": "CUS-025"
+  },
+  {
+    "caseId": "FR-98CCF1",
+    "messageKey": "2026-05-09T00:13:47.919Z#MSG-0486",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-09T00:13:47.919Z"
+  },
+  {
+    "caseId": "FR-98CCF1",
+    "messageKey": "2026-05-09T02:56:44.070Z#MSG-0487",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-05-09T02:56:44.070Z"
+  },
+  {
+    "caseId": "FR-773126",
+    "messageKey": "2026-01-14T04:23:09.966Z#MSG-0488",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10078.",
+    "createdAt": "2026-01-14T04:23:09.966Z",
+    "userId": "CUS-026"
+  },
+  {
+    "caseId": "FR-773126",
+    "messageKey": "2026-01-14T04:24:09.966Z#MSG-0489",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-14T04:24:09.966Z"
+  },
+  {
+    "caseId": "FR-773126",
+    "messageKey": "2026-01-14T07:32:57.366Z#MSG-0490",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-01-14T07:32:57.366Z"
+  },
+  {
+    "caseId": "FR-773126",
+    "messageKey": "2026-01-14T13:17:26.469Z#MSG-0491",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-01-14T13:17:26.469Z"
+  },
+  {
+    "caseId": "FR-7D29EB",
+    "messageKey": "2026-01-24T21:43:11.021Z#MSG-0492",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10079, but refund RF-90034 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-24T21:43:11.021Z",
+    "userId": "CUS-027"
+  },
+  {
+    "caseId": "FR-7D29EB",
+    "messageKey": "2026-01-24T21:44:11.021Z#MSG-0493",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-24T21:44:11.021Z"
+  },
+  {
+    "caseId": "FR-7D29EB",
+    "messageKey": "2026-01-25T01:19:38.384Z#MSG-0494",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-01-25T01:19:38.384Z"
+  },
+  {
+    "caseId": "FR-933004",
+    "messageKey": "2026-04-04T12:45:40.259Z#MSG-0495",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10083.",
+    "createdAt": "2026-04-04T12:45:40.259Z",
+    "userId": "CUS-028"
+  },
+  {
+    "caseId": "FR-933004",
+    "messageKey": "2026-04-04T12:46:40.259Z#MSG-0496",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-04-04T12:46:40.259Z"
+  },
+  {
+    "caseId": "FR-7606C1",
+    "messageKey": "2026-02-24T08:29:29.366Z#MSG-0497",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10084, but refund RF-90037 is taking longer than the 24h SLA.",
+    "createdAt": "2026-02-24T08:29:29.366Z",
+    "userId": "CUS-029"
+  },
+  {
+    "caseId": "FR-7606C1",
+    "messageKey": "2026-02-24T08:30:29.366Z#MSG-0498",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-24T08:30:29.366Z"
+  },
+  {
+    "caseId": "FR-7606C1",
+    "messageKey": "2026-02-24T11:26:09.038Z#MSG-0499",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-02-24T11:26:09.038Z"
+  },
+  {
+    "caseId": "FR-7606C1",
+    "messageKey": "2026-02-24T18:03:57.203Z#MSG-0500",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-02-24T18:03:57.203Z"
+  },
+  {
+    "caseId": "FR-19E4E0",
+    "messageKey": "2025-11-10T09:37:06.179Z#MSG-0501",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10086, but refund RF-90038 is taking longer than the 24h SLA.",
+    "createdAt": "2025-11-10T09:37:06.179Z",
+    "userId": "CUS-030"
+  },
+  {
+    "caseId": "FR-19E4E0",
+    "messageKey": "2025-11-10T09:38:06.179Z#MSG-0502",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-11-10T09:38:06.179Z"
+  },
+  {
+    "caseId": "FR-10759C",
+    "messageKey": "2025-12-23T18:44:05.583Z#MSG-0503",
+    "sender": "CUSTOMER",
+    "message": "Order ORD-10087 shows in-transit for over 4 days with no updated courier scan.",
+    "createdAt": "2025-12-23T18:44:05.583Z",
+    "userId": "CUS-031"
+  },
+  {
+    "caseId": "FR-10759C",
+    "messageKey": "2025-12-23T18:45:05.583Z#MSG-0504",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding order status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2025-12-23T18:45:05.583Z"
+  },
+  {
+    "caseId": "FR-10759C",
+    "messageKey": "2025-12-23T20:53:23.397Z#MSG-0505",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2025-12-23T20:53:23.397Z"
+  },
+  {
+    "caseId": "FR-05691A",
+    "messageKey": "2026-03-28T10:11:49.374Z#MSG-0506",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10092, but refund RF-90041 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-28T10:11:49.374Z",
+    "userId": "CUS-032"
+  },
+  {
+    "caseId": "FR-05691A",
+    "messageKey": "2026-03-28T10:12:49.374Z#MSG-0507",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-28T10:12:49.374Z"
+  },
+  {
+    "caseId": "FR-05691A",
+    "messageKey": "2026-03-28T12:24:44.145Z#MSG-0508",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-03-28T12:24:44.145Z"
+  },
+  {
+    "caseId": "FR-05691A",
+    "messageKey": "2026-03-28T15:22:21.932Z#MSG-0509",
+    "sender": "CUSTOMER",
+    "message": "Thank you for following up. Please let me know as soon as the status changes.",
+    "createdAt": "2026-03-28T15:22:21.932Z"
+  },
+  {
+    "caseId": "FR-9CF8F3",
+    "messageKey": "2026-03-08T04:04:08.206Z#MSG-0510",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10095, but refund RF-90042 is taking longer than the 24h SLA.",
+    "createdAt": "2026-03-08T04:04:08.206Z",
+    "userId": "CUS-033"
+  },
+  {
+    "caseId": "FR-9CF8F3",
+    "messageKey": "2026-03-08T04:05:08.206Z#MSG-0511",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-03-08T04:05:08.206Z"
+  },
+  {
+    "caseId": "FR-9CF8F3",
+    "messageKey": "2026-03-08T06:58:16.019Z#MSG-0512",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-03-08T06:58:16.019Z"
+  },
+  {
+    "caseId": "FR-8B03D2",
+    "messageKey": "2026-05-03T09:50:58.692Z#MSG-0513",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10100, but refund RF-90044 is taking longer than the 24h SLA.",
+    "createdAt": "2026-05-03T09:50:58.692Z",
+    "userId": "CUS-034"
+  },
+  {
+    "caseId": "FR-8B03D2",
+    "messageKey": "2026-05-03T09:51:58.692Z#MSG-0514",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-05-03T09:51:58.692Z"
+  },
+  {
+    "caseId": "FR-13C989",
+    "messageKey": "2026-07-25T04:57:11.690Z#MSG-0515",
+    "sender": "CUSTOMER",
+    "message": "Received incorrect size for order ORD-10103. Requesting reverse courier pickup and size replacement.",
+    "createdAt": "2026-07-25T04:57:11.690Z",
+    "userId": "CUS-035"
+  },
+  {
+    "caseId": "FR-13C989",
+    "messageKey": "2026-07-25T04:58:11.690Z#MSG-0516",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding return issue. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-25T04:58:11.690Z"
+  },
+  {
+    "caseId": "FR-13C989",
+    "messageKey": "2026-07-25T07:43:48.434Z#MSG-0517",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-07-25T07:43:48.434Z"
+  },
+  {
+    "caseId": "FR-13C989",
+    "messageKey": "2026-07-25T13:08:19.079Z#MSG-0518",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-07-25T13:08:19.079Z"
+  },
+  {
+    "caseId": "FR-E87919",
+    "messageKey": "2026-01-28T09:52:08.687Z#MSG-0519",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10112, but refund RF-90048 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-28T09:52:08.687Z",
+    "userId": "CUS-036"
+  },
+  {
+    "caseId": "FR-E87919",
+    "messageKey": "2026-01-28T09:53:08.687Z#MSG-0520",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-28T09:53:08.687Z"
+  },
+  {
+    "caseId": "FR-97FDC0",
+    "messageKey": "2026-01-07T07:42:01.594Z#MSG-0521",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10116, but refund RF-90050 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-07T07:42:01.594Z",
+    "userId": "CUS-037"
+  },
+  {
+    "caseId": "FR-97FDC0",
+    "messageKey": "2026-01-07T07:43:01.594Z#MSG-0522",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-07T07:43:01.594Z"
+  },
+  {
+    "caseId": "FR-97FDC0",
+    "messageKey": "2026-01-07T09:46:07.920Z#MSG-0523",
+    "sender": "AGENT",
+    "message": "A support specialist has taken ownership of this inquiry and contacted our fulfillment partner.",
+    "createdAt": "2026-01-07T09:46:07.920Z"
+  },
+  {
+    "caseId": "FR-CF475C",
+    "messageKey": "2026-02-11T15:32:49.164Z#MSG-0524",
+    "sender": "CUSTOMER",
+    "message": "Checking the bank clearance and UPI settlement status for order ORD-10118.",
+    "createdAt": "2026-02-11T15:32:49.164Z",
+    "userId": "CUS-038"
+  },
+  {
+    "caseId": "FR-CF475C",
+    "messageKey": "2026-02-11T15:33:49.164Z#MSG-0525",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund status. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-02-11T15:33:49.164Z"
+  },
+  {
+    "caseId": "FR-CF475C",
+    "messageKey": "2026-02-11T18:33:00.574Z#MSG-0526",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-02-11T18:33:00.574Z"
+  },
+  {
+    "caseId": "FR-CF475C",
+    "messageKey": "2026-02-11T22:39:26.450Z#MSG-0527",
+    "sender": "SYSTEM",
+    "message": "System SLA Update: Case closed within target SLA resolution window. Satisfaction score recorded.",
+    "createdAt": "2026-02-11T22:39:26.450Z"
+  },
+  {
+    "caseId": "FR-899661",
+    "messageKey": "2026-01-26T23:11:28.028Z#MSG-0528",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10119, but refund RF-90052 is taking longer than the 24h SLA.",
+    "createdAt": "2026-01-26T23:11:28.028Z",
+    "userId": "CUS-039"
+  },
+  {
+    "caseId": "FR-899661",
+    "messageKey": "2026-01-26T23:12:28.028Z#MSG-0529",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-01-26T23:12:28.028Z"
+  },
+  {
+    "caseId": "FR-899661",
+    "messageKey": "2026-01-27T02:27:23.245Z#MSG-0530",
+    "sender": "AGENT",
+    "message": "We have verified the resolution with the logistics and banking network. Your request has been successfully closed.",
+    "createdAt": "2026-01-27T02:27:23.245Z"
+  },
+  {
+    "caseId": "FR-F65CB8",
+    "messageKey": "2026-07-03T08:23:37.533Z#MSG-0531",
+    "sender": "CUSTOMER",
+    "message": "Return package verified at hub for order ORD-10125, but refund RF-90054 is taking longer than the 24h SLA.",
+    "createdAt": "2026-07-03T08:23:37.533Z",
+    "userId": "CUS-040"
+  },
+  {
+    "caseId": "FR-F65CB8",
+    "messageKey": "2026-07-03T08:24:37.533Z#MSG-0532",
+    "sender": "AI_SUPPORT",
+    "message": "Hello! I have reviewed your case regarding refund delay. Our resolution guarantee is active under the 24-hour SLA window.",
+    "createdAt": "2026-07-03T08:24:37.533Z"
+  }
+]

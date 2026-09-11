@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FitResQ DynamoDB Table Schemas",
+  "region": "ap-south-1",
+  "tables": {
+    "FitResQUsers": {
+      "tableName": "FitResQUsers",
+      "description": "FitResQ customer accounts and profile information",
+      "partitionKey": {
+        "name": "userId",
+        "type": "S"
+      },
+      "sortKey": null,
+      "globalSecondaryIndexes": [
+        {
+          "indexName": "email-index",
+          "partitionKey": { "name": "email", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        },
+        {
+          "indexName": "cognitoSub-index",
+          "partitionKey": { "name": "cognitoSub", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        }
+      ],
+      "attributes": {
+        "userId": "String (e.g. CUS-001)",
+        "name": "String",
+        "email": "String (e.g. customer001@fitresq.demo)",
+        "phone": "String (e.g. +91 98765 43210)",
+        "role": "String (CUSTOMER | SUPPORT_AGENT | SUPERVISOR | ADMIN)",
+        "cognitoSub": "String (UUID from Cognito User Pool, null for synthetic users)",
+        "createdAt": "String (ISO-8601)",
+        "updatedAt": "String (ISO-8601)"
+      }
+    },
+    "FitResQOrders": {
+      "tableName": "FitResQOrders",
+      "description": "E-commerce orders placed by customers for FitResQ apparel and goods",
+      "partitionKey": {
+        "name": "orderId",
+        "type": "S"
+      },
+      "sortKey": null,
+      "globalSecondaryIndexes": [
+        {
+          "indexName": "userId-index",
+          "partitionKey": { "name": "userId", "type": "S" },
+          "sortKey": { "name": "orderDate", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        }
+      ],
+      "attributes": {
+        "orderId": "String (e.g. ORD-10021)",
+        "userId": "String (Foreign key to FitResQUsers.userId)",
+        "orderDate": "String (ISO-8601)",
+        "items": "List of Item Objects { itemName, itemSku, itemDetails, quantity, price, refundAmount }",
+        "totalAmount": "Number (INR amount, e.g. 2499)",
+        "currency": "String (INR)",
+        "paymentMethod": "String (UPI | CREDIT_CARD | NET_BANKING | DEBIT_CARD)",
+        "orderStatus": "String (PROCESSING | SHIPPED | DELIVERED | CANCELLED)",
+        "deliveryStatus": "String (PENDING | IN_TRANSIT | OUT_FOR_DELIVERY | DELIVERED | RETURNED)",
+        "deliveryAddress": "String",
+        "createdAt": "String (ISO-8601)",
+        "updatedAt": "String (ISO-8601)"
+      }
+    },
+    "FitResQRefunds": {
+      "tableName": "FitResQRefunds",
+      "description": "Customer refund requests and bank settlement statuses",
+      "partitionKey": {
+        "name": "orderId",
+        "type": "S"
+      },
+      "sortKey": null,
+      "globalSecondaryIndexes": [
+        {
+          "indexName": "userId-index",
+          "partitionKey": { "name": "userId", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        },
+        {
+          "indexName": "refundId-index",
+          "partitionKey": { "name": "refundId", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        }
+      ],
+      "attributes": {
+        "orderId": "String (Partition key, matches FitResQOrders.orderId)",
+        "refundId": "String (e.g. RF-90001)",
+        "userId": "String (Foreign key to FitResQUsers.userId)",
+        "caseId": "String (Optional foreign key to FitResQCases.caseId)",
+        "amount": "String or Number (e.g. '2499')",
+        "currency": "String (INR)",
+        "status": "String (INITIATED | PROCESSING | COMPLETED | FAILED | DELAYED)",
+        "paymentMethod": "String (UPI | CREDIT_CARD | NET_BANKING | DEBIT_CARD)",
+        "upiId": "String (e.g. customer001@okhdfcbank)",
+        "initiatedAt": "String (ISO-8601)",
+        "expectedBy": "String (ISO-8601)",
+        "updatedAt": "String (ISO-8601)"
+      }
+    },
+    "FitResQCases": {
+      "tableName": "FitResQCases",
+      "description": "Customer support resolution cases and SLA tracking records",
+      "partitionKey": {
+        "name": "caseId",
+        "type": "S"
+      },
+      "sortKey": null,
+      "globalSecondaryIndexes": [
+        {
+          "indexName": "userId-index",
+          "partitionKey": { "name": "userId", "type": "S" },
+          "sortKey": { "name": "createdAt", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        },
+        {
+          "indexName": "orderId-index",
+          "partitionKey": { "name": "orderId", "type": "S" },
+          "projection": { "projectionType": "ALL" }
+        }
+      ],
+      "attributes": {
+        "caseId": "String (e.g. FR-1F40B7F5)",
+        "userId": "String (Foreign key to FitResQUsers.userId)",
+        "orderId": "String (Optional foreign key to FitResQOrders.orderId)",
+        "category": "String (REFUND_DELAY | REFUND_STATUS | RETURN_ISSUE | ORDER_STATUS | DELIVERY_DELAY | PAYMENT_ISSUE)",
+        "priority": "String (LOW | MEDIUM | HIGH)",
+        "status": "String (OPEN | IN_PROGRESS | RESOLVED | ESCALATED)",
+        "sentiment": "String (POSITIVE | NEUTRAL | NEGATIVE | UNKNOWN)",
+        "description": "String",
+        "escalationLevel": "String ('0' | '1' | '2')",
+        "slaDeadline": "String (ISO-8601)",
+        "createdAt": "String (ISO-8601)",
+        "updatedAt": "String (ISO-8601)"
+      }
+    },
+    "FitResQMessages": {
+      "tableName": "FitResQMessages",
+      "description": "Sequential message threads for support cases",
+      "partitionKey": {
+        "name": "caseId",
+        "type": "S"
+      },
+      "sortKey": {
+        "name": "messageKey",
+        "type": "S"
+      },
+      "attributes": {
+        "caseId": "String (Partition key, matches FitResQCases.caseId)",
+        "messageKey": "String (Sort key, formatted as <ISO-timestamp>#MSG-<ID>)",
+        "sender": "String (CUSTOMER | AGENT | SYSTEM | AI_SUPPORT)",
+        "message": "String (Message text)",
+        "createdAt": "String (ISO-8601)",
+        "userId": "String (Optional foreign key to FitResQUsers.userId)"
+      }
+    }
+  }
+}

@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* -------------------------------------------------------------------------
+     * LIGHT THEME DESIGN TOKENS
+     * Warm/off-white background, crisp white cards, dark navy text,
+     * subtle slate borders, violet/indigo/cyan accents.
+     * ------------------------------------------------------------------------- */
+    --color-bg-page: #F6F8FB;
+    --color-bg-card: #FFFFFF;
+    --color-bg-card-secondary: #F8FAFC;
+    --color-bg-card-hover: #F1F5F9;
+    --color-bg-header: rgba(255, 255, 255, 0.95);
+    --color-bg-footer: #FFFFFF;
+
+    --color-text-primary: #0F172A; /* Deep Dark Navy */
+    --color-text-secondary: #334155; /* Slate 700 */
+    --color-text-muted: #64748B; /* Slate 500 */
+    
+    --color-border-subtle: #E2E8F0;
+    --color-border-card: rgba(226, 232, 240, 0.9);
+    --color-border-hover: #CBD5E1;
+
+    --color-accent-primary: #7C3AED;
+    --color-accent-cyan: #0284C7;
+
+    --shadow-card: 0 1px 3px 0 rgba(15, 23, 42, 0.04), 0 1px 2px -1px rgba(15, 23, 42, 0.04);
+    --shadow-card-elevated: 0 4px 14px -2px rgba(15, 23, 42, 0.05), 0 2px 6px -1px rgba(15, 23, 42, 0.03);
+  }
+
+  .dark {
+    /* -------------------------------------------------------------------------
+     * DARK THEME DESIGN TOKENS
+     * Deep obsidian/navy page background, clearly darker elevated cards,
+     * crisp white/light text, visible dark borders, subtle glow effects.
+     * ------------------------------------------------------------------------- */
+    --color-bg-page: #070B14;
+    --color-bg-card: #0F1626;
+    --color-bg-card-secondary: #141D30;
+    --color-bg-card-hover: #18233C;
+    --color-bg-header: rgba(7, 11, 20, 0.92);
+    --color-bg-footer: #080D18;
+
+    --color-text-primary: #F8FAFC; /* Crisp Light/White */
+    --color-text-secondary: #94A3B8; /* Slate 400 */
+    --color-text-muted: #64748B; /* Slate 500 */
+
+    --color-border-subtle: #1E293B;
+    --color-border-card: rgba(30, 41, 59, 0.85);
+    --color-border-hover: #2D3D5E;
+
+    --color-accent-primary: #8B5CF6;
+    --color-accent-cyan: #38BDF8;
+
+    --shadow-card: 0 4px 20px -4px rgba(0, 0, 0, 0.5), 0 0 1px 1px rgba(255, 255, 255, 0.03);
+    --shadow-card-elevated: 0 12px 30px -4px rgba(124, 58, 237, 0.15), 0 0 1px 1px rgba(147, 197, 253, 0.15);
+  }
+
+  body {
+    background-color: var(--color-bg-page);
+    color: var(--color-text-primary);
+    @apply antialiased selection:bg-brand-500 selection:text-white transition-colors duration-200;
+  }
+
+  /* Default focus ring for keyboard navigation */
+  :focus-visible {
+    @apply outline-none ring-2 ring-brand-500 ring-offset-2 ring-offset-white dark:ring-offset-slate-900;
+  }
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #1e293b;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Skeleton Shimmer Effect */
+.skeleton-shimmer {
+  position: relative;
+  overflow: hidden;
+  background-color: #f1f5f9;
+}
+.dark .skeleton-shimmer {
+  background-color: #1e293b;
+}
+.skeleton-shimmer::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0,
+    rgba(255, 255, 255, 0.6) 20%,
+    rgba(255, 255, 255, 0.8) 60%,
+    rgba(255, 255, 255, 0)
+  );
+  animation: shimmer 2s infinite;
+  content: '';
+}
+.dark .skeleton-shimmer::after {
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0,
+    rgba(255, 255, 255, 0.06) 20%,
+    rgba(255, 255, 255, 0.12) 60%,
+    rgba(255, 255, 255, 0)
+  );
+}
+
+/* Respect user's motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

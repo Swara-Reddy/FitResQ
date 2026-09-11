@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FitResQ GET /users/me API Gateway Route Specification",
+  "apiGateway": {
+    "apiId": "qhk28b7ud2",
+    "apiType": "HTTP",
+    "region": "ap-south-1",
+    "endpointUrl": "https://qhk28b7ud2.execute-api.ap-south-1.amazonaws.com",
+    "route": {
+      "routeKey": "GET /users/me",
+      "authorizationType": "JWT",
+      "authorizerName": "FitResQCognitoAuth",
+      "authorizerId": "CognitoAuthorizer",
+      "target": "integrations/FitResQGetUserMeIntegration"
+    },
+    "optionsRoute": {
+      "routeKey": "OPTIONS /users/me",
+      "authorizationType": "NONE",
+      "description": "CORS preflight handling for web browsers"
+    }
+  },
+  "lambda": {
+    "functionName": "FitResQGetUserMe",
+    "runtime": "nodejs20.x",
+    "handler": "index.handler",
+    "architecture": "x86_64",
+    "memorySize": 256,
+    "timeout": 15,
+    "environment": {
+      "AWS_REGION": "ap-south-1",
+      "USERS_TABLE": "FitResQUsers"
+    },
+    "packageZip": "backend/dist/fitresq-get-user-me.zip"
+  },
+  "iamPolicy": {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "AllowFitResQUsersRead",
+        "Effect": "Allow",
+        "Action": [
+          "dynamodb:GetItem",
+          "dynamodb:Query",
+          "dynamodb:Scan"
+        ],
+        "Resource": [
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQUsers",
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQUsers/index/*"
+        ]
+      },
+      {
+        "Sid": "AllowCloudWatchLogs",
+        "Effect": "Allow",
+        "Action": [
+          "logs:CreateLogGroup",
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ],
+        "Resource": "arn:aws:logs:ap-south-1:*:*"
+      }
+    ]
+  },
+  "contract": {
+    "request": {
+      "method": "GET",
+      "path": "/users/me",
+      "headers": {
+        "Authorization": "Bearer <Cognito ID Token or Access Token>"
+      }
+    },
+    "responses": {
+      "200": {
+        "description": "Authenticated customer profile returned",
+        "schema": {
+          "userId": "String (e.g. CUS-001)",
+          "name": "String",
+          "email": "String",
+          "phone": "String",
+          "role": "String",
+          "createdAt": "String (ISO-8601)"
+        }
+      },
+      "401": {
+        "description": "Unauthenticated or invalid token",
+        "schema": {
+          "error": "Unauthorized",
+          "message": "String"
+        }
+      },
+      "404": {
+        "description": "Cognito sub not mapped to any FitResQ customer record",
+        "schema": {
+          "error": "NotFound",
+          "message": "String",
+          "cognitoSub": "String"
+        }
+      }
+    }
+  }
+}

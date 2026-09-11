@@ -1,0 +1,178 @@
+[
+  {
+    "auditId": "AUD-6A88E27A",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-89B79455",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-11T19:18:50.148419+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "The package arrived torn and the shoes inside were scuffed.",
+      "slaDeadline": "2026-09-12T19:18:50.148419+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-05EF8616",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-41791F99",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-11T17:50:42.182799+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "The package arrived torn and the shoes inside were scuffed.",
+      "slaDeadline": "2026-09-12T17:50:42.182799+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-DB77FF08",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-E81BD82B",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T17:17:35.792473+00:00",
+    "details": {
+      "reason": "Late delivery / missing package",
+      "description": "",
+      "slaDeadline": "2026-09-11T17:17:35.792473+00:00",
+      "priority": "MEDIUM",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-343297AB",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-64A129E3",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T16:50:11.312127+00:00",
+    "details": {
+      "reason": "Incorrect item received",
+      "description": "item was incorrect",
+      "slaDeadline": "2026-09-11T16:50:11.312127+00:00",
+      "priority": "LOW",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-4ADC59E7",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-1D4B92B6",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T16:07:45.079073+00:00",
+    "details": {
+      "reason": "Other reason",
+      "description": "REFUND NOT RECIEVED YET",
+      "slaDeadline": "2026-09-11T16:07:45.079073+00:00",
+      "priority": "MEDIUM",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-63FD7D7D",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-7A152641",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T15:30:16.773788+00:00",
+    "details": {
+      "reason": "Sizing or fit issue",
+      "description": "",
+      "slaDeadline": "2026-09-11T15:30:16.773788+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-C986EC0C",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-66610CA4",
+    "orderId": "ORD-10016",
+    "userId": "CUS-005",
+    "timestamp": "2026-09-10T15:24:52.951113+00:00",
+    "details": {
+      "reason": "Defective or broken product",
+      "description": "THE PRODUCT WAS BROKEN",
+      "slaDeadline": "2026-09-11T15:24:52.951113+00:00",
+      "priority": "LOW",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-2DC5EF17",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-6C6CF545",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T15:19:52.998353+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "The product arrived damaged.",
+      "slaDeadline": "2026-09-11T15:19:52.998353+00:00",
+      "priority": "LOW",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-B5EF8BD5",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-16DD929A",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T15:16:27.822808+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "The package arrived torn and the shoes inside were scuffed.",
+      "slaDeadline": "2026-09-11T15:16:27.822808+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-E7598C5F",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-4C82738E",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T15:15:21.346850+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "Testing Vite proxy",
+      "slaDeadline": "2026-09-11T15:15:21.346850+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  },
+  {
+    "auditId": "AUD-6FE48A30",
+    "eventType": "REFUND_REQUEST_CREATED",
+    "actorType": "CUSTOMER",
+    "caseId": "FR-C48310C1",
+    "orderId": "ORD-10021",
+    "userId": "CUS-001",
+    "timestamp": "2026-09-10T15:13:12.872300+00:00",
+    "details": {
+      "reason": "Damaged item",
+      "description": "The package arrived torn and the shoes inside were scuffed.",
+      "slaDeadline": "2026-09-11T15:13:12.872300+00:00",
+      "priority": "HIGH",
+      "durationHours": 24.0
+    }
+  }
+]

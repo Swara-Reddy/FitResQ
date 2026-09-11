@@ -1,0 +1,564 @@
+text,intent
+Please cancel my order,CANCELLATION_REQUEST
+I want to cancel order ORD-7821 immediately.,CANCELLATION_REQUEST
+Can I cancel my purchase before it is shipped?,CANCELLATION_REQUEST
+Need to cancel my order placed an hour ago.,CANCELLATION_REQUEST
+Cancel order ORD-3901 as I changed my mind.,CANCELLATION_REQUEST
+"I made a mistake in the order, please cancel it.",CANCELLATION_REQUEST
+"Please cancel my shipment, I no longer need these clothes.",CANCELLATION_REQUEST
+How can I stop my order from being delivered?,CANCELLATION_REQUEST
+Cancel my recent order right away.,CANCELLATION_REQUEST
+"I ordered the wrong size by accident, please cancel.",CANCELLATION_REQUEST
+Is it possible to revoke my order before dispatch?,CANCELLATION_REQUEST
+"Cancel my order please, bought it by mistake.",CANCELLATION_REQUEST
+Kindly cancel order ORD-9912 for me.,CANCELLATION_REQUEST
+I want to cancel the entire order.,CANCELLATION_REQUEST
+Please revoke order ORD-2831.,CANCELLATION_REQUEST
+Cancel my shopping cart order immediately.,CANCELLATION_REQUEST
+I need to cancel order ORD-4412 as I found it cheaper elsewhere.,CANCELLATION_REQUEST
+Please cancel delivery for my order ORD-6721.,CANCELLATION_REQUEST
+Can support please cancel my order?,CANCELLATION_REQUEST
+"I do not want this item anymore, please cancel.",CANCELLATION_REQUEST
+Stop my shipment and cancel the order.,CANCELLATION_REQUEST
+Abort the order ORD-1982 please.,CANCELLATION_REQUEST
+Cancel my purchase before the warehouse packs it.,CANCELLATION_REQUEST
+I want to cancel the order I placed this morning.,CANCELLATION_REQUEST
+Please cancel my active order right now.,CANCELLATION_REQUEST
+"Accidentally placed duplicate order, cancel the second one.",CANCELLATION_REQUEST
+Cancel order ORD-5819 please.,CANCELLATION_REQUEST
+I need this order cancelled as soon as possible.,CANCELLATION_REQUEST
+Please terminate order ORD-3312.,CANCELLATION_REQUEST
+Can someone cancel my pending order?,CANCELLATION_REQUEST
+I request immediate cancellation of my order.,CANCELLATION_REQUEST
+Cancel my delivery please.,CANCELLATION_REQUEST
+Please cancel order ORD-7741.,CANCELLATION_REQUEST
+I want to call off this order.,CANCELLATION_REQUEST
+"Please cancel this purchase, delivery is taking too long.",CANCELLATION_REQUEST
+Drop my order ORD-6129 please.,CANCELLATION_REQUEST
+Cancel order ORD-8812 before shipping.,CANCELLATION_REQUEST
+I want to withdraw my order.,CANCELLATION_REQUEST
+Please cancel order ORD-1428.,CANCELLATION_REQUEST
+Cancel the shoes in order ORD-5519.,CANCELLATION_REQUEST
+I would like to cancel my order ORD-9012.,CANCELLATION_REQUEST
+Cancel this order before it leaves the warehouse.,CANCELLATION_REQUEST
+Please cancel order ORD-2341 immediately.,CANCELLATION_REQUEST
+I wish to cancel my purchase ORD-8871.,CANCELLATION_REQUEST
+Cancel my order and do not ship it.,CANCELLATION_REQUEST
+Need to cancel order ORD-4491 right now.,CANCELLATION_REQUEST
+Please cancel my checkout order.,CANCELLATION_REQUEST
+I am requesting a cancellation for order ORD-6621.,CANCELLATION_REQUEST
+Cancel order ORD-3192 please.,CANCELLATION_REQUEST
+Can I cancel the order I just submitted?,CANCELLATION_REQUEST
+The shoes I received are damaged,DAMAGED_ITEM
+My shirt arrived with a big tear on the sleeve.,DAMAGED_ITEM
+The package was crushed and the contents are broken.,DAMAGED_ITEM
+Received a defective product in order ORD-8921.,DAMAGED_ITEM
+The zipper on this jacket is completely broken.,DAMAGED_ITEM
+There is a deep tear on the trousers I just unpacked.,DAMAGED_ITEM
+The item has stitching defects and loose threads everywhere.,DAMAGED_ITEM
+My sneakers arrived with torn soles.,DAMAGED_ITEM
+The fabric of this cardigan is ripped near the pocket.,DAMAGED_ITEM
+Package arrived soaking wet and the clothes are stained.,DAMAGED_ITEM
+The handbag strap snapped on the first day.,DAMAGED_ITEM
+Goods received in damaged condition.,DAMAGED_ITEM
+Defective stitching on the shirt collar.,DAMAGED_ITEM
+The blazer arrived with broken buttons.,DAMAGED_ITEM
+Product was damaged during transit.,DAMAGED_ITEM
+Torn seam along the side of the trousers.,DAMAGED_ITEM
+Sole of the shoe is peeling off.,DAMAGED_ITEM
+The package was torn open and items are scuffed.,DAMAGED_ITEM
+The t-shirt has grease stains and fabric defects.,DAMAGED_ITEM
+Delivered item is clearly broken and unusable.,DAMAGED_ITEM
+The leather on the handbag is badly scratched.,DAMAGED_ITEM
+"Received a ruined product, fabric has holes.",DAMAGED_ITEM
+"The item is damaged, collar seam is ripped apart.",DAMAGED_ITEM
+My apparel arrived with broken zip and loose seams.,DAMAGED_ITEM
+The fabric looks shredded near the hem.,DAMAGED_ITEM
+The shoe upper has deep scuffs and cracks.,DAMAGED_ITEM
+Damaged garment delivered in order ORD-4182.,DAMAGED_ITEM
+The box arrived smashed and the apparel inside is damaged.,DAMAGED_ITEM
+The buttonholes are torn and unusable.,DAMAGED_ITEM
+Stains and tears all over the shirt.,DAMAGED_ITEM
+This cardigan arrived damaged with fraying wool.,DAMAGED_ITEM
+The item has a manufacturing defect on the waist.,DAMAGED_ITEM
+Broken buckle on the leather belt I ordered.,DAMAGED_ITEM
+The sleeve is torn and hem is frayed.,DAMAGED_ITEM
+"Damaged goods received, please replace or refund.",DAMAGED_ITEM
+Product came damaged out of the packaging.,DAMAGED_ITEM
+Torn knee on the linen trousers.,DAMAGED_ITEM
+The handbag arrived with a broken zipper track.,DAMAGED_ITEM
+Defective shoes with unglued soles.,DAMAGED_ITEM
+The shirt is discolored and damaged.,DAMAGED_ITEM
+Apparel delivered in defective state.,DAMAGED_ITEM
+The package was crushed and shoe box was destroyed.,DAMAGED_ITEM
+Defective seam on the trousers delivered yesterday.,DAMAGED_ITEM
+The jacket has a broken snap button.,DAMAGED_ITEM
+Received a heavily damaged shirt.,DAMAGED_ITEM
+Torn stitching on the back seam.,DAMAGED_ITEM
+Item damaged beyond repair upon unboxing.,DAMAGED_ITEM
+The fabric has pulled threads and small tears.,DAMAGED_ITEM
+Delivered product is damaged and dirty.,DAMAGED_ITEM
+Item received with severe defect.,DAMAGED_ITEM
+My order hasn't arrived,ORDER_NOT_RECEIVED
+I have not received my shipment yet.,ORDER_NOT_RECEIVED
+Tracking says delivered but I never received my parcel.,ORDER_NOT_RECEIVED
+My package was supposed to arrive yesterday but nothing came.,ORDER_NOT_RECEIVED
+"Order ORD-9128 is severely delayed, where is my package?",ORDER_NOT_RECEIVED
+Courier claims delivered but my mailbox and porch are empty.,ORDER_NOT_RECEIVED
+It has been 10 days and my package hasn't shown up.,ORDER_NOT_RECEIVED
+Package not received even though status says completed.,ORDER_NOT_RECEIVED
+I never got my delivery for order ORD-4192.,ORDER_NOT_RECEIVED
+Where is my parcel? Delivery was due last week.,ORDER_NOT_RECEIVED
+Order not received at my address.,ORDER_NOT_RECEIVED
+The delivery driver marked it delivered but I was home and no one came.,ORDER_NOT_RECEIVED
+Still waiting for my package to arrive.,ORDER_NOT_RECEIVED
+"Shipment is missing, never received order ORD-7712.",ORDER_NOT_RECEIVED
+"My order is lost in transit, it hasn't arrived.",ORDER_NOT_RECEIVED
+Never received the apparel I bought two weeks ago.,ORDER_NOT_RECEIVED
+Tracking says handed to customer but I didn't get anything.,ORDER_NOT_RECEIVED
+Delivery overdue by 5 days and no package.,ORDER_NOT_RECEIVED
+Where is my package? The courier never showed up.,ORDER_NOT_RECEIVED
+I am still waiting on my delivery for order ORD-3819.,ORDER_NOT_RECEIVED
+Package did not arrive on the promised date.,ORDER_NOT_RECEIVED
+My order hasn't been delivered yet.,ORDER_NOT_RECEIVED
+The courier failed to deliver my parcel.,ORDER_NOT_RECEIVED
+Order status says delivered but parcel is missing.,ORDER_NOT_RECEIVED
+I haven't received my items from order ORD-5129.,ORDER_NOT_RECEIVED
+Package is over a week late and hasn't arrived.,ORDER_NOT_RECEIVED
+I never got order ORD-6612.,ORDER_NOT_RECEIVED
+Delivery boy did not come to my flat.,ORDER_NOT_RECEIVED
+My shipment has not arrived at all.,ORDER_NOT_RECEIVED
+Status says delivered to neighbor but no one has it.,ORDER_NOT_RECEIVED
+Still waiting for my clothes to arrive.,ORDER_NOT_RECEIVED
+The package never reached my doorstep.,ORDER_NOT_RECEIVED
+Missing delivery for order ORD-8819.,ORDER_NOT_RECEIVED
+Where has my delivery gone? It hasn't arrived.,ORDER_NOT_RECEIVED
+Parcel was never delivered.,ORDER_NOT_RECEIVED
+I didn't receive the order ORD-2219.,ORDER_NOT_RECEIVED
+Delivery is past due date and parcel not received.,ORDER_NOT_RECEIVED
+My items never arrived.,ORDER_NOT_RECEIVED
+Order ORD-4712 never showed up.,ORDER_NOT_RECEIVED
+"Shipment seems lost, haven't received it.",ORDER_NOT_RECEIVED
+The courier did not deliver the parcel to me.,ORDER_NOT_RECEIVED
+No delivery received for order ORD-9931.,ORDER_NOT_RECEIVED
+I have been waiting for two weeks and parcel hasn't arrived.,ORDER_NOT_RECEIVED
+Package never arrived at my apartment.,ORDER_NOT_RECEIVED
+Still haven't received order ORD-1829.,ORDER_NOT_RECEIVED
+Order not delivered to my address.,ORDER_NOT_RECEIVED
+My shipment never showed up.,ORDER_NOT_RECEIVED
+Tracking has been stuck on out for delivery for 4 days.,ORDER_NOT_RECEIVED
+Did not receive my package ORD-7192.,ORDER_NOT_RECEIVED
+The delivery has not arrived.,ORDER_NOT_RECEIVED
+My payment failed but money was deducted,PAYMENT_FAILED
+Money was deducted from my account but order was not placed.,PAYMENT_FAILED
+The payment gateway timed out and my card was charged.,PAYMENT_FAILED
+Payment debited twice for order ORD-4129.,PAYMENT_FAILED
+UPI payment went through but app says transaction failed.,PAYMENT_FAILED
+Bank debited Rs 2499 but cart still shows pending.,PAYMENT_FAILED
+Double charge on my credit card for one order.,PAYMENT_FAILED
+Transaction failed at bank switch but money left my account.,PAYMENT_FAILED
+Payment error occurred during checkout but amount was debited.,PAYMENT_FAILED
+Net banking debited my account without generating order confirmation.,PAYMENT_FAILED
+Why was I charged twice for order ORD-8812?,PAYMENT_FAILED
+Payment failure message shown but SMS says bank debited.,PAYMENT_FAILED
+My account was charged but no order number generated.,PAYMENT_FAILED
+UPI transaction successful on phone but FitResQ says failed.,PAYMENT_FAILED
+Double billing on my credit card for order ORD-3192.,PAYMENT_FAILED
+Checkout payment timed out and money was deducted.,PAYMENT_FAILED
+Bank charged my debit card but checkout errored.,PAYMENT_FAILED
+My money got deducted during payment failure.,PAYMENT_FAILED
+Payment failed message appeared after OTP entered and money cut.,PAYMENT_FAILED
+Charged twice for the same pair of shoes.,PAYMENT_FAILED
+Card charged twice for order ORD-7128.,PAYMENT_FAILED
+Amount deducted from Google Pay but order failed.,PAYMENT_FAILED
+Payment debited from bank but showing failed on website.,PAYMENT_FAILED
+I was billed two times for order ORD-5512.,PAYMENT_FAILED
+Money was deducted from my savings account on failed transaction.,PAYMENT_FAILED
+Bank account debited but payment status says unsuccessful.,PAYMENT_FAILED
+The payment gateway failed after taking my money.,PAYMENT_FAILED
+Dual charge on my card for single purchase.,PAYMENT_FAILED
+Payment timeout led to money deduction without order.,PAYMENT_FAILED
+Why did money get deducted if checkout failed?,PAYMENT_FAILED
+Amount debited twice from my UPI handle.,PAYMENT_FAILED
+Payment gateway error charged my account.,PAYMENT_FAILED
+Money cut from Paytm wallet but transaction failed.,PAYMENT_FAILED
+Card charged but system displayed payment failure.,PAYMENT_FAILED
+Bank deducted funds but order was not booked.,PAYMENT_FAILED
+Two charges on my credit card for order ORD-9182.,PAYMENT_FAILED
+Payment dropped midway but account was debited.,PAYMENT_FAILED
+Money left my account on a failed checkout.,PAYMENT_FAILED
+Multiple debits for a single order.,PAYMENT_FAILED
+Checkout failed but funds were withdrawn.,PAYMENT_FAILED
+UPI charged me but app shows transaction error.,PAYMENT_FAILED
+Bank statement shows debit but order did not go through.,PAYMENT_FAILED
+Payment processing failed after debit.,PAYMENT_FAILED
+Why was I charged twice for this purchase?,PAYMENT_FAILED
+Money deducted from debit card without invoice generated.,PAYMENT_FAILED
+Payment switch failed but money debited.,PAYMENT_FAILED
+Duplicate transaction charged to my account.,PAYMENT_FAILED
+My account balance reduced but order failed.,PAYMENT_FAILED
+Payment deducted on error page.,PAYMENT_FAILED
+Transaction timed out and money debited.,PAYMENT_FAILED
+My refund hasn't arrived yet,REFUND_DELAY
+Where has my refund gone? It has been over a week.,REFUND_DELAY
+I returned the item 10 days ago but no refund received.,REFUND_DELAY
+When will the refund money be credited to my bank account?,REFUND_DELAY
+Still waiting for my refund on my return.,REFUND_DELAY
+The app says refund processed 5 days ago but nothing in my account.,REFUND_DELAY
+Why is my refund settlement taking so long?,REFUND_DELAY
+I was promised my refund within 48 hours but nothing yet.,REFUND_DELAY
+My bank says they haven't received any refund from FitResQ.,REFUND_DELAY
+Can you check why my refund payout is delayed?,REFUND_DELAY
+"It has been two weeks since pickup, still waiting for the refund.",REFUND_DELAY
+Refund is overdue for my returned linen trousers.,REFUND_DELAY
+Still haven't gotten the money back for my returned shoes.,REFUND_DELAY
+How much longer do I have to wait for my refund credit?,REFUND_DELAY
+My return was accepted last Monday but refund is still pending.,REFUND_DELAY
+The refund timeline has passed and I haven't received my cash.,REFUND_DELAY
+I am still waiting on my refund of Rs 1899.,REFUND_DELAY
+Where is the refund amount? It's been 12 days.,REFUND_DELAY
+Please expedite my pending refund payout.,REFUND_DELAY
+Refund status says initiated but amount not credited to my UPI.,REFUND_DELAY
+When can I expect the refund transfer into my bank?,REFUND_DELAY
+"I returned the jacket over two weeks ago, still no refund.",REFUND_DELAY
+My refund is severely delayed and I need an update.,REFUND_DELAY
+Still no sign of the refund amount in my savings account.,REFUND_DELAY
+Can you check the status of my refund?,REFUND_DELAY
+Check the status of my refund please.,REFUND_DELAY
+What is the current status of my refund payout?,REFUND_DELAY
+Status of my refund is taking too long to update.,REFUND_DELAY
+"Return package was verified 6 days ago, where is my refund payout?",REFUND_DELAY
+Why is my refund not credited to my card yet?,REFUND_DELAY
+Can you check the status of my pending refund?,REFUND_DELAY
+Why hasn't my money been refunded yet?,REFUND_DELAY
+Still waiting on my refund for the returned items.,REFUND_DELAY
+When will I see the refund credited in my account?,REFUND_DELAY
+My refund seems to be taking too long to process.,REFUND_DELAY
+The refund has been pending for over 7 business days.,REFUND_DELAY
+I have not received my refund settlement.,REFUND_DELAY
+Check on my pending refund please.,REFUND_DELAY
+Why is my refund still showing processing after a week?,REFUND_DELAY
+Amount has not been refunded to my UPI account yet.,REFUND_DELAY
+Still awaiting refund credit for my returned shirt.,REFUND_DELAY
+Where is my money? The refund has not arrived.,REFUND_DELAY
+Can support check why my refund has not been disbursed?,REFUND_DELAY
+I haven't received the refund for my return.,REFUND_DELAY
+The refund period is over and money has not reached my bank.,REFUND_DELAY
+Why is my refund transfer delayed?,REFUND_DELAY
+Still waiting for the refund on my cancelled purchase.,REFUND_DELAY
+Can you tell me why my refund is taking so many days?,REFUND_DELAY
+No refund received after returning the product.,REFUND_DELAY
+My refund is delayed past the promised window.,REFUND_DELAY
+Why haven't I gotten my money refunded?,REFUND_DELAY
+Waiting for my refund payout since last week.,REFUND_DELAY
+The refund amount has not shown up in my bank.,REFUND_DELAY
+Please look into my delayed refund settlement.,REFUND_DELAY
+My refund was rejected,REFUND_FAILED
+The refund transaction failed according to my bank statement.,REFUND_FAILED
+Why was my refund request rejected by the system?,REFUND_FAILED
+Refund failed due to expired credit card.,REFUND_FAILED
+System says refund failed to credit to UPI.,REFUND_FAILED
+My refund bounced back to the merchant.,REFUND_FAILED
+Received notification that refund transfer failed.,REFUND_FAILED
+The bank rejected the refund due to invalid account details.,REFUND_FAILED
+Refund failed message shown in my support ticket.,REFUND_FAILED
+Why did my refund transaction fail at the payment gateway?,REFUND_FAILED
+My refund was declined by the banking switch.,REFUND_FAILED
+The app displays refund status as FAILED.,REFUND_FAILED
+My bank rejected the incoming refund credit.,REFUND_FAILED
+Refund attempt failed due to server timeout.,REFUND_FAILED
+Why was my refund marked as failed?,REFUND_FAILED
+Refund could not be processed to my debit card.,REFUND_FAILED
+The payout gateway rejected my refund.,REFUND_FAILED
+Refund failed because UPI ID is inactive.,REFUND_FAILED
+My bank says the refund was cancelled by merchant.,REFUND_FAILED
+Refund transaction failed with an error code.,REFUND_FAILED
+The refund failed to deposit into my savings account.,REFUND_FAILED
+Why did FitResQ reject my refund claim?,REFUND_FAILED
+"Refund payment failed, need to provide alternate account.",REFUND_FAILED
+Received an alert that my refund could not be completed.,REFUND_FAILED
+Refund status marked failed on dashboard.,REFUND_FAILED
+The automated refund was unsuccessful.,REFUND_FAILED
+The bank returned the refund amount back to sender.,REFUND_FAILED
+Refund failed because account number was incorrect.,REFUND_FAILED
+Why has my refund transaction been rejected?,REFUND_FAILED
+Payout failed on the bank side.,REFUND_FAILED
+My refund transfer encountered an error and failed.,REFUND_FAILED
+System error caused my refund to fail.,REFUND_FAILED
+The refund payment could not be processed by gateway.,REFUND_FAILED
+Refund failed notification received this morning.,REFUND_FAILED
+My refund attempt was declined.,REFUND_FAILED
+Why did the automated refund transfer fail?,REFUND_FAILED
+Refund bounced due to IFSC code issue.,REFUND_FAILED
+Bank says refund transfer was rejected.,REFUND_FAILED
+The refund transaction did not go through.,REFUND_FAILED
+"My refund failed, what alternate account can I give?",REFUND_FAILED
+Refund could not be settled to my card.,REFUND_FAILED
+The refund was rejected during verification.,REFUND_FAILED
+Refund failed due to beneficiary bank rejection.,REFUND_FAILED
+Why was the refund transaction aborted?,REFUND_FAILED
+The system flagged my refund as failed.,REFUND_FAILED
+Refund rejected by payment processor.,REFUND_FAILED
+My refund payout failed today.,REFUND_FAILED
+Bank switch reported failure on incoming refund.,REFUND_FAILED
+Why is my refund showing failed status?,REFUND_FAILED
+The refund transfer failed to settle.,REFUND_FAILED
+I want to return my order,RETURN_REQUEST
+Please arrange a return pickup for my shoes.,RETURN_REQUEST
+The trousers do not fit me well and I want to return them.,RETURN_REQUEST
+I would like to initiate a return for my delivered item.,RETURN_REQUEST
+How can I send back this oversized cardigan?,RETURN_REQUEST
+Please schedule a reverse pickup from my address.,RETURN_REQUEST
+I want to return this dress because the color looks different.,RETURN_REQUEST
+How do I return items from my recent delivery?,RETURN_REQUEST
+Please book a courier to collect the return parcel.,RETURN_REQUEST
+"I want to return these sneakers, they are too tight.",RETURN_REQUEST
+Initiate return for the shirt I received yesterday.,RETURN_REQUEST
+"I need to return this blazer, size is too small.",RETURN_REQUEST
+Can you arrange a return for my order?,RETURN_REQUEST
+I would like to return the clothing items.,RETURN_REQUEST
+Please generate a return label and schedule pickup.,RETURN_REQUEST
+I want to send back the t-shirt I ordered.,RETURN_REQUEST
+How do I request a return pickup?,RETURN_REQUEST
+Schedule a doorstep pickup for my return.,RETURN_REQUEST
+I want to return my delivered parcel.,RETURN_REQUEST
+The shoes are uncomfortable and I want to return them.,RETURN_REQUEST
+Please help me book a return for this order.,RETURN_REQUEST
+"I need to return these pants, size 32 is too big.",RETURN_REQUEST
+Can I return the cardigan within the 15-day window?,RETURN_REQUEST
+I want to send this item back to the warehouse.,RETURN_REQUEST
+Please initiate a return pickup for my order.,RETURN_REQUEST
+I would like to return the jacket I bought.,RETURN_REQUEST
+How do I initiate a return on FitResQ?,RETURN_REQUEST
+Arrange pickup for my returned merchandise.,RETURN_REQUEST
+I want to return the white sneakers.,RETURN_REQUEST
+Please send a courier to collect the returned clothes.,RETURN_REQUEST
+"I need to return this purchase, sizing is off.",RETURN_REQUEST
+Can someone pick up my return parcel tomorrow?,RETURN_REQUEST
+"I want to return this shirt, tags are still attached.",RETURN_REQUEST
+Please create a return request for my order.,RETURN_REQUEST
+I would like to send back the linen trousers.,RETURN_REQUEST
+How can I return an item I received two days ago?,RETURN_REQUEST
+Please schedule return pickup from my residence.,RETURN_REQUEST
+I want to return this item under the return policy.,RETURN_REQUEST
+Help me return the defective blazer.,RETURN_REQUEST
+I need to return my clothing items.,RETURN_REQUEST
+Book a return courier for my order.,RETURN_REQUEST
+I want to return the handbag I received.,RETURN_REQUEST
+Please start the return process for my shoes.,RETURN_REQUEST
+I want to return the cotton crewneck shirt.,RETURN_REQUEST
+Can I return this apparel item today?,RETURN_REQUEST
+Please arrange reverse logistics for my return.,RETURN_REQUEST
+I want to return this product for an exchange or return.,RETURN_REQUEST
+How do I send back an unworn garment?,RETURN_REQUEST
+Please initiate a return for my delivery.,RETURN_REQUEST
+I want to return my order for a different size.,RETURN_REQUEST
+I received the wrong shirt,WRONG_ITEM
+You sent me a blue t-shirt instead of the black one I ordered.,WRONG_ITEM
+The size delivered is XL but I ordered M.,WRONG_ITEM
+I got women's shoes instead of men's sneakers.,WRONG_ITEM
+The package contains a completely different product.,WRONG_ITEM
+Received striped trousers instead of plain beige.,WRONG_ITEM
+Wrong color delivered for the cardigan.,WRONG_ITEM
+You sent me the wrong sku in my parcel.,WRONG_ITEM
+The box had a dress inside instead of the blazer I ordered.,WRONG_ITEM
+"Received wrong item in order, please replace.",WRONG_ITEM
+I ordered size 40 but you shipped size 44.,WRONG_ITEM
+Wrong product was delivered to my address.,WRONG_ITEM
+The item delivered does not match my invoice.,WRONG_ITEM
+You sent the wrong design and color.,WRONG_ITEM
+I received a denim jacket instead of linen trousers.,WRONG_ITEM
+Wrong merchandise delivered in the shipment.,WRONG_ITEM
+The product inside the package is completely incorrect.,WRONG_ITEM
+I received size small instead of large.,WRONG_ITEM
+You delivered a totally different article.,WRONG_ITEM
+Incorrect item sent in my package.,WRONG_ITEM
+The delivered shirt has a different pattern than ordered.,WRONG_ITEM
+I ordered black sneakers but received white ones.,WRONG_ITEM
+You sent the wrong brand and style.,WRONG_ITEM
+"Wrong item delivered, please send the right one.",WRONG_ITEM
+The package contained someone else's order.,WRONG_ITEM
+I ordered a wool sweater but got a cotton tee.,WRONG_ITEM
+Incorrect shoes delivered in my parcel.,WRONG_ITEM
+The item I unboxed is not what I paid for.,WRONG_ITEM
+Wrong clothing article inside the bag.,WRONG_ITEM
+You delivered a brown handbag instead of tan leather.,WRONG_ITEM
+I received a crewneck instead of a hoodie.,WRONG_ITEM
+Incorrect size and color sent by fulfillment team.,WRONG_ITEM
+The product shipped is wrong.,WRONG_ITEM
+I got a different SKU than what is listed on my receipt.,WRONG_ITEM
+Delivered item does not match description.,WRONG_ITEM
+You sent me a polo shirt instead of formal shirt.,WRONG_ITEM
+The delivery contains the wrong model.,WRONG_ITEM
+I received trousers in grey instead of beige.,WRONG_ITEM
+Wrong product arrived today.,WRONG_ITEM
+The item in the box does not match my order.,WRONG_ITEM
+You shipped the wrong footwear.,WRONG_ITEM
+Wrong apparel item delivered.,WRONG_ITEM
+I received a scarf instead of a cardigan.,WRONG_ITEM
+Incorrect item delivered to my doorstep.,WRONG_ITEM
+You sent me the wrong color variant.,WRONG_ITEM
+"Received wrong product, please correct this.",WRONG_ITEM
+The order delivered is completely wrong.,WRONG_ITEM
+I got an XL tee but ordered size S.,WRONG_ITEM
+Wrong item dispatched by warehouse.,WRONG_ITEM
+Delivered article is totally incorrect.,WRONG_ITEM
+How do I request a refund for an item?,REFUND_REQUEST
+Can I submit a refund claim for my delivered package?,REFUND_REQUEST
+I want to apply for a refund on my purchase,REFUND_REQUEST
+Where can I initiate a refund in the app?,REFUND_REQUEST
+What is the procedure to ask for a refund?,REFUND_REQUEST
+I would like to get a refund for my order,REFUND_REQUEST
+Please help me request a refund for the dress I bought,REFUND_REQUEST
+How can customers file for a refund?,REFUND_REQUEST
+I need to open a refund request,REFUND_REQUEST
+What steps do I follow to claim my money back?,REFUND_REQUEST
+Can I get my purchase refunded?,REFUND_REQUEST
+I want to request a full refund,REFUND_REQUEST
+How do I ask for my money back after returning an item?,REFUND_REQUEST
+Is there a form to submit a refund request?,REFUND_REQUEST
+I wish to claim a refund for my order,REFUND_REQUEST
+Where do I go on the website to request a refund?,REFUND_REQUEST
+How does a customer apply for a refund on FitResQ?,REFUND_REQUEST
+I want to file a claim to get my payment refunded,REFUND_REQUEST
+Could you guide me on how to request a refund?,REFUND_REQUEST
+I want to submit a formal refund request,REFUND_REQUEST
+How do I initiate a refund payout?,REFUND_REQUEST
+What is the process to claim a refund on an item?,REFUND_REQUEST
+How to submit a refund request on this portal?,REFUND_REQUEST
+I am looking to claim a refund for my returned package,REFUND_REQUEST
+Where is the refund request option located?,REFUND_REQUEST
+Can you help me submit a refund claim?,REFUND_REQUEST
+I need to ask for a refund on my recent purchase,REFUND_REQUEST
+How do I start a refund claim for defective apparel?,REFUND_REQUEST
+I want to claim my money back for this purchase,REFUND_REQUEST
+Please explain how I can request a refund,REFUND_REQUEST
+I would like to register a refund request,REFUND_REQUEST
+How do I get my money back from an order?,REFUND_REQUEST
+Can I raise a refund claim through support?,REFUND_REQUEST
+I want to apply for a full reimbursement,REFUND_REQUEST
+What do I click to submit a refund claim?,REFUND_REQUEST
+How do I request a payout for my returned shoes?,REFUND_REQUEST
+I need to request a refund for an order I received,REFUND_REQUEST
+Tell me how to file a refund claim,REFUND_REQUEST
+Where do I submit my refund application?,REFUND_REQUEST
+Can I request a refund through customer care?,REFUND_REQUEST
+I want to initiate a refund for my apparel,REFUND_REQUEST
+How can I claim my refund online?,REFUND_REQUEST
+I would like to file for a refund,REFUND_REQUEST
+What is the way to request a refund on FitResQ?,REFUND_REQUEST
+Help me initiate a refund request for my parcel,REFUND_REQUEST
+I am trying to request a refund for my order,REFUND_REQUEST
+Where do I raise a refund request?,REFUND_REQUEST
+How do I go about getting a refund?,REFUND_REQUEST
+I want to request my payment back,REFUND_REQUEST
+Can you guide me through opening a refund request?,REFUND_REQUEST
+Track my order,ORDER_STATUS
+Where is my shipment currently located?,ORDER_STATUS
+Has my package been dispatched yet?,ORDER_STATUS
+Can you give me a delivery update on my order?,ORDER_STATUS
+What is the status of my shipment?,ORDER_STATUS
+When will my parcel be delivered?,ORDER_STATUS
+Is my order out for delivery today?,ORDER_STATUS
+I want to check the progress of my delivery,ORDER_STATUS
+Has my parcel left the warehouse?,ORDER_STATUS
+Check tracking on my package,ORDER_STATUS
+Track order ORD-4182,ORDER_STATUS
+Track my order ORD-9128 please,ORDER_STATUS
+Where is order ORD-7182 right now?,ORDER_STATUS
+Status of order ORD-3819,ORDER_STATUS
+Track shipment for order ORD-5512,ORDER_STATUS
+Delivery update for order ORD-8812,ORDER_STATUS
+Could you check where my order is right now?,ORDER_STATUS
+Is my shipment on the way?,ORDER_STATUS
+When can I expect my clothes to arrive?,ORDER_STATUS
+Current delivery progress for my parcel,ORDER_STATUS
+Track shipment progress for my purchase,ORDER_STATUS
+What stage is my order at right now?,ORDER_STATUS
+Has the courier picked up my package?,ORDER_STATUS
+Can I get a tracking update on my delivery?,ORDER_STATUS
+I want to know the delivery status of my items,ORDER_STATUS
+Is my parcel delayed in transit?,ORDER_STATUS
+Where is my order being shipped from?,ORDER_STATUS
+How far away is my package?,ORDER_STATUS
+Please check the delivery status of my order,ORDER_STATUS
+Has my purchase shipped out?,ORDER_STATUS
+Has my order been shipped yet?,ORDER_STATUS
+Has the order shipped yet?,ORDER_STATUS
+Has my shipment been dispatched yet?,ORDER_STATUS
+I need a status update on my pending shipment,ORDER_STATUS
+When is my parcel estimated to reach me?,ORDER_STATUS
+Track the delivery of my clothing package,ORDER_STATUS
+Is my package still in transit?,ORDER_STATUS
+Check the tracking status of my items,ORDER_STATUS
+What is the expected delivery date for my parcel?,ORDER_STATUS
+Can you track my package for me?,ORDER_STATUS
+Please give me an update on my shipment,ORDER_STATUS
+Has the order been dispatched from fulfillment center?,ORDER_STATUS
+Where is my delivery right now?,ORDER_STATUS
+I want to see the tracking details of my order,ORDER_STATUS
+Can you check if my order has been sent out?,ORDER_STATUS
+Is my shipment arriving today or tomorrow?,ORDER_STATUS
+Track my delivery progress please,ORDER_STATUS
+What is happening with my order delivery?,ORDER_STATUS
+Check on my parcel location,ORDER_STATUS
+Has my delivery been scheduled?,ORDER_STATUS
+I need to track my recent purchase,ORDER_STATUS
+Please check if my order is out for delivery,ORDER_STATUS
+Where is my parcel at this moment?,ORDER_STATUS
+Can you look up the shipping status of my order?,ORDER_STATUS
+Tracking information for my order please,ORDER_STATUS
+Has the package left the sorting hub?,ORDER_STATUS
+Check my delivery timeline,ORDER_STATUS
+Is my order en route to my city?,ORDER_STATUS
+Please tell me the delivery state of my order,ORDER_STATUS
+I want to speak with a supervisor regarding my problem,ESCALATION_REQUEST
+Please connect me with a senior manager to resolve this,ESCALATION_REQUEST
+This complaint needs to be forwarded to higher management,ESCALATION_REQUEST
+I am demanding supervisory escalation for my ticket,ESCALATION_REQUEST
+Transfer this inquiry to a senior support specialist,ESCALATION_REQUEST
+I request escalation of this unresolved matter immediately,ESCALATION_REQUEST
+Raise this issue to a higher tier of customer support,ESCALATION_REQUEST
+My ticket has been ignored and requires senior review,ESCALATION_REQUEST
+Please forward this dispute to an escalation manager,ESCALATION_REQUEST
+I would like a supervisor to handle this issue personally,ESCALATION_REQUEST
+Can you transfer me to the escalation desk,ESCALATION_REQUEST
+I want my ticket escalated to senior executive support,ESCALATION_REQUEST
+Escalate this complaint to higher authorities right away,ESCALATION_REQUEST
+Connect me to someone with higher authority than regular support,ESCALATION_REQUEST
+I need a senior specialist to take ownership of this ticket,ESCALATION_REQUEST
+Please raise this ticket to tier two support,ESCALATION_REQUEST
+I want to file for supervisory review of my unresolved issue,ESCALATION_REQUEST
+Kindly forward this conversation to your team leader,ESCALATION_REQUEST
+This problem has been mishandled and needs supervisor intervention,ESCALATION_REQUEST
+I am asking for an escalation to a senior customer care lead,ESCALATION_REQUEST
+Can I talk to a support manager about this dispute,ESCALATION_REQUEST
+Move this ticket to the highest escalation level,ESCALATION_REQUEST
+I request immediate escalation to senior level representatives,ESCALATION_REQUEST
+Please hand this complaint over to a duty supervisor,ESCALATION_REQUEST
+My dispute needs urgent review by an escalation officer,ESCALATION_REQUEST
+Transfer my support request to a senior customer advocate,ESCALATION_REQUEST
+I demand to speak to a senior manager right now,ESCALATION_REQUEST
+Elevate this issue to executive customer support,ESCALATION_REQUEST
+Please escalate my ticket to a tier 2 agent,ESCALATION_REQUEST
+I require supervisory attention for this unresolved problem,ESCALATION_REQUEST
+Could you forward my complaint to management for review,ESCALATION_REQUEST
+I want this transferred to higher tier technical assistance,ESCALATION_REQUEST
+Send this complaint directly to the support supervisor,ESCALATION_REQUEST
+I need this escalated to the senior team immediately,ESCALATION_REQUEST
+Please assign a senior manager to investigate this ticket,ESCALATION_REQUEST
+Requesting immediate supervisory intervention for my open issue,ESCALATION_REQUEST
+I want this case handled by a senior representative,ESCALATION_REQUEST
+Route this inquiry to a supervisor as soon as possible,ESCALATION_REQUEST
+This needs executive escalation due to lack of response,ESCALATION_REQUEST
+Can I speak with a customer care supervisor,ESCALATION_REQUEST
+Escalate this support ticket to higher management,ESCALATION_REQUEST
+I want an escalation specialist to review this matter,ESCALATION_REQUEST
+Please bump this complaint to second level support,ESCALATION_REQUEST
+I am requesting a supervisor call me regarding this issue,ESCALATION_REQUEST
+Move this ongoing issue to the senior resolutions team,ESCALATION_REQUEST
+I insist on having a supervisor look into this complaint,ESCALATION_REQUEST
+Please upgrade this ticket to manager priority,ESCALATION_REQUEST
+Can you forward my dispute to senior team leads,ESCALATION_REQUEST
+I want to escalate this matter to a senior director,ESCALATION_REQUEST
+Assign a supervisory specialist to my problem right now,ESCALATION_REQUEST

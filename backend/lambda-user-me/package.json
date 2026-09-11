@@ -1,0 +1,7 @@
+{
+  "name": "fitresq-get-user-me",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FitResQ GET /users/me Lambda Handler identifying customer by Cognito sub",
+  "main": "index.mjs"
+}

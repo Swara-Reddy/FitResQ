@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FitResQ POST /refund-requests API Gateway Route Specification",
+  "apiGateway": {
+    "apiId": "qhk28b7ud2",
+    "apiType": "HTTP",
+    "region": "ap-south-1",
+    "endpointUrl": "https://qhk28b7ud2.execute-api.ap-south-1.amazonaws.com",
+    "routes": [
+      {
+        "routeKey": "POST /refund-requests",
+        "authorizationType": "NONE",
+        "target": "integrations/FitResQCreateRefundRequestIntegration",
+        "description": "Customer refund request submission directly writing to FitResQCases & FitResQSLA"
+      },
+      {
+        "routeKey": "OPTIONS /refund-requests",
+        "authorizationType": "NONE",
+        "target": "integrations/FitResQCreateRefundRequestIntegration",
+        "description": "CORS preflight handling for web browsers"
+      }
+    ]
+  },
+  "lambda": {
+    "functionName": "FitResQCreateRefundRequest",
+    "runtime": "nodejs20.x",
+    "handler": "index.handler",
+    "architecture": "x86_64",
+    "memorySize": 256,
+    "timeout": 15,
+    "environment": {
+      "AWS_REGION": "ap-south-1",
+      "CASES_TABLE": "FitResQCases",
+      "SLA_TABLE": "FitResQSLA",
+      "AUDIT_TABLE": "FitResQAudit",
+      "ORDERS_TABLE": "FitResQOrders"
+    },
+    "packageZip": "backend/dist/fitresq-create-refund-request.zip"
+  },
+  "iamPolicy": {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "AllowDynamoDBWrites",
+        "Effect": "Allow",
+        "Action": [
+          "dynamodb:PutItem",
+          "dynamodb:GetItem"
+        ],
+        "Resource": [
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQCases",
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQSLA",
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQAudit",
+          "arn:aws:dynamodb:ap-south-1:*:table/FitResQOrders"
+        ]
+      },
+      {
+        "Sid": "AllowCloudWatchLogs",
+        "Effect": "Allow",
+        "Action": [
+          "logs:CreateLogGroup",
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ],
+        "Resource": "arn:aws:logs:ap-south-1:*:*"
+      }
+    ]
+  },
+  "awsConsoleDeploymentSteps": [
+    "Step 1 (Lambda): In AWS Console > Lambda (ap-south-1) > Create Function 'FitResQCreateRefundRequest' > Node.js 20.x > x86_64.",
+    "Step 2 (Code): Upload 'backend/dist/fitresq-create-refund-request.zip' (or copy index.mjs directly into the code editor).",
+    "Step 3 (Configuration): Under Environment variables, add AWS_REGION=ap-south-1, CASES_TABLE=FitResQCases, SLA_TABLE=FitResQSLA, AUDIT_TABLE=FitResQAudit, ORDERS_TABLE=FitResQOrders.",
+    "Step 4 (IAM Permission): Under Configuration > Permissions > Execution role, attach a policy with dynamodb:PutItem on FitResQCases, FitResQSLA, FitResQAudit, and dynamodb:GetItem on FitResQOrders.",
+    "Step 5 (API Gateway): In API Gateway Console > HTTP API 'qhk28b7ud2' > Routes > Create 'POST /refund-requests' and 'OPTIONS /refund-requests' pointing to Lambda integration 'FitResQCreateRefundRequest'.",
+    "Step 6 (Deploy): Deploy to stage '$default'."
+  ]
+}

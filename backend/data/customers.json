@@ -1,0 +1,1002 @@
+[
+  {
+    "userId": "CUS-001",
+    "name": "Swara Joshi",
+    "email": "customer001@fitresq.demo",
+    "phone": "+91 91002 57212",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-02T20:07:31.482Z",
+    "updatedAt": "2025-10-10T20:07:31.482Z"
+  },
+  {
+    "userId": "CUS-002",
+    "name": "Pooja Gowda",
+    "email": "customer002@fitresq.demo",
+    "phone": "+91 94386 27665",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-05T21:06:17.516Z",
+    "updatedAt": "2025-10-21T21:06:17.516Z"
+  },
+  {
+    "userId": "CUS-003",
+    "name": "Rahul Mehta",
+    "email": "customer003@fitresq.demo",
+    "phone": "+91 95774 33139",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-01T19:16:32.540Z",
+    "updatedAt": "2025-10-26T19:16:32.540Z"
+  },
+  {
+    "userId": "CUS-004",
+    "name": "Priya Choudhury",
+    "email": "customer004@fitresq.demo",
+    "phone": "+91 99104 50682",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-03T10:53:35.812Z",
+    "updatedAt": "2025-10-11T10:53:35.812Z"
+  },
+  {
+    "userId": "CUS-005",
+    "name": "Alok Dubey",
+    "email": "customer005@fitresq.demo",
+    "phone": "+91 92694 39099",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-02T07:02:13.917Z",
+    "updatedAt": "2025-10-27T07:02:13.917Z"
+  },
+  {
+    "userId": "CUS-006",
+    "name": "Abhishek Joshi",
+    "email": "customer006@fitresq.demo",
+    "phone": "+91 95809 86000",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-12T01:19:36.623Z",
+    "updatedAt": "2025-10-15T01:19:36.623Z"
+  },
+  {
+    "userId": "CUS-007",
+    "name": "Anjali Mukherjee",
+    "email": "customer007@fitresq.demo",
+    "phone": "+91 95851 21790",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-16T02:15:38.422Z",
+    "updatedAt": "2025-10-30T02:15:38.422Z"
+  },
+  {
+    "userId": "CUS-008",
+    "name": "Aryan Mishra",
+    "email": "customer008@fitresq.demo",
+    "phone": "+91 95247 50500",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-05T16:04:04.593Z",
+    "updatedAt": "2025-10-06T16:04:04.593Z"
+  },
+  {
+    "userId": "CUS-009",
+    "name": "Sneha Rao",
+    "email": "customer009@fitresq.demo",
+    "phone": "+91 91207 99415",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-21T14:20:13.712Z",
+    "updatedAt": "2025-11-14T14:20:13.712Z"
+  },
+  {
+    "userId": "CUS-010",
+    "name": "Vikram Menon",
+    "email": "customer010@fitresq.demo",
+    "phone": "+91 96137 79231",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-16T14:08:31.615Z",
+    "updatedAt": "2025-10-27T14:08:31.615Z"
+  },
+  {
+    "userId": "CUS-011",
+    "name": "Deepak Verma",
+    "email": "customer011@fitresq.demo",
+    "phone": "+91 94380 34040",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-10T16:08:46.713Z",
+    "updatedAt": "2025-10-30T16:08:46.713Z"
+  },
+  {
+    "userId": "CUS-012",
+    "name": "Rajat Singh",
+    "email": "customer012@fitresq.demo",
+    "phone": "+91 94274 14752",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-16T20:38:01.950Z",
+    "updatedAt": "2025-10-21T20:38:01.950Z"
+  },
+  {
+    "userId": "CUS-013",
+    "name": "Kunal Bose",
+    "email": "customer013@fitresq.demo",
+    "phone": "+91 95084 39635",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-07T06:22:08.122Z",
+    "updatedAt": "2025-10-09T06:22:08.122Z"
+  },
+  {
+    "userId": "CUS-014",
+    "name": "Palak Nair",
+    "email": "customer014@fitresq.demo",
+    "phone": "+91 99878 59147",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-04T02:52:06.490Z",
+    "updatedAt": "2025-11-03T02:52:06.490Z"
+  },
+  {
+    "userId": "CUS-015",
+    "name": "Kabir Bhatt",
+    "email": "customer015@fitresq.demo",
+    "phone": "+91 94903 73140",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-08T00:03:58.470Z",
+    "updatedAt": "2025-10-25T00:03:58.470Z"
+  },
+  {
+    "userId": "CUS-016",
+    "name": "Tanvi Trivedi",
+    "email": "customer016@fitresq.demo",
+    "phone": "+91 99958 27096",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-28T08:53:31.106Z",
+    "updatedAt": "2025-11-09T08:53:31.106Z"
+  },
+  {
+    "userId": "CUS-017",
+    "name": "Siddharth Kulkarni",
+    "email": "customer017@fitresq.demo",
+    "phone": "+91 94950 77231",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-08T13:37:50.480Z",
+    "updatedAt": "2025-11-02T13:37:50.480Z"
+  },
+  {
+    "userId": "CUS-018",
+    "name": "Amit Das",
+    "email": "customer018@fitresq.demo",
+    "phone": "+91 98254 18771",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-02T08:04:25.749Z",
+    "updatedAt": "2025-10-07T08:04:25.749Z"
+  },
+  {
+    "userId": "CUS-019",
+    "name": "Manish Kapoor",
+    "email": "customer019@fitresq.demo",
+    "phone": "+91 96736 44229",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-12T20:18:18.754Z",
+    "updatedAt": "2025-10-28T20:18:18.754Z"
+  },
+  {
+    "userId": "CUS-020",
+    "name": "Aakash Reddy",
+    "email": "customer020@fitresq.demo",
+    "phone": "+91 95690 19317",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-19T04:19:07.730Z",
+    "updatedAt": "2025-11-30T04:19:07.730Z"
+  },
+  {
+    "userId": "CUS-021",
+    "name": "Simran Hegde",
+    "email": "customer021@fitresq.demo",
+    "phone": "+91 97914 33881",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-04T23:43:07.504Z",
+    "updatedAt": "2025-12-02T23:43:07.504Z"
+  },
+  {
+    "userId": "CUS-022",
+    "name": "Arjun Patel",
+    "email": "customer022@fitresq.demo",
+    "phone": "+91 95197 49674",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-20T16:17:13.463Z",
+    "updatedAt": "2025-12-05T16:17:13.463Z"
+  },
+  {
+    "userId": "CUS-023",
+    "name": "Neha Agarwal",
+    "email": "customer023@fitresq.demo",
+    "phone": "+91 99795 38802",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-15T15:58:30.553Z",
+    "updatedAt": "2025-12-11T15:58:30.553Z"
+  },
+  {
+    "userId": "CUS-024",
+    "name": "Rhea Chatterjee",
+    "email": "customer024@fitresq.demo",
+    "phone": "+91 97683 60174",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-19T14:32:58.096Z",
+    "updatedAt": "2025-12-05T14:32:58.096Z"
+  },
+  {
+    "userId": "CUS-025",
+    "name": "Nikhil Iyer",
+    "email": "customer025@fitresq.demo",
+    "phone": "+91 93766 40910",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-20T10:59:17.343Z",
+    "updatedAt": "2025-11-03T10:59:17.343Z"
+  },
+  {
+    "userId": "CUS-026",
+    "name": "Varun Sen",
+    "email": "customer026@fitresq.demo",
+    "phone": "+91 96100 68727",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-05T02:09:16.486Z",
+    "updatedAt": "2025-10-20T02:09:16.486Z"
+  },
+  {
+    "userId": "CUS-027",
+    "name": "Payal Pandey",
+    "email": "customer027@fitresq.demo",
+    "phone": "+91 95106 10855",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-17T07:41:08.394Z",
+    "updatedAt": "2025-11-29T07:41:08.394Z"
+  },
+  {
+    "userId": "CUS-028",
+    "name": "Kriti Deshmukh",
+    "email": "customer028@fitresq.demo",
+    "phone": "+91 95022 94254",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-09T18:15:18.799Z",
+    "updatedAt": "2025-10-22T18:15:18.799Z"
+  },
+  {
+    "userId": "CUS-029",
+    "name": "Aditya Pillai",
+    "email": "customer029@fitresq.demo",
+    "phone": "+91 93632 46987",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-18T15:59:10.358Z",
+    "updatedAt": "2025-10-29T15:59:10.358Z"
+  },
+  {
+    "userId": "CUS-030",
+    "name": "Riya Sharma",
+    "email": "customer030@fitresq.demo",
+    "phone": "+91 97392 94200",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-02T08:04:24.808Z",
+    "updatedAt": "2025-10-17T08:04:24.808Z"
+  },
+  {
+    "userId": "CUS-031",
+    "name": "Anika Gupta",
+    "email": "customer031@fitresq.demo",
+    "phone": "+91 98394 57943",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-10T18:19:43.773Z",
+    "updatedAt": "2025-10-23T18:19:43.773Z"
+  },
+  {
+    "userId": "CUS-032",
+    "name": "Gaurav Gowda",
+    "email": "customer032@fitresq.demo",
+    "phone": "+91 92159 83118",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-01T08:02:17.599Z",
+    "updatedAt": "2025-11-04T08:02:17.599Z"
+  },
+  {
+    "userId": "CUS-033",
+    "name": "Meenal Mehta",
+    "email": "customer033@fitresq.demo",
+    "phone": "+91 96378 40299",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-21T22:08:36.468Z",
+    "updatedAt": "2025-11-02T22:08:36.468Z"
+  },
+  {
+    "userId": "CUS-034",
+    "name": "Bhavna Choudhury",
+    "email": "customer034@fitresq.demo",
+    "phone": "+91 93826 65488",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-18T08:36:13.728Z",
+    "updatedAt": "2025-10-27T08:36:13.728Z"
+  },
+  {
+    "userId": "CUS-035",
+    "name": "Tanya Dubey",
+    "email": "customer035@fitresq.demo",
+    "phone": "+91 99902 27674",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-27T21:51:36.588Z",
+    "updatedAt": "2025-12-13T21:51:36.588Z"
+  },
+  {
+    "userId": "CUS-036",
+    "name": "Rohan Joshi",
+    "email": "customer036@fitresq.demo",
+    "phone": "+91 98061 21445",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-02T05:34:39.697Z",
+    "updatedAt": "2025-11-09T05:34:39.697Z"
+  },
+  {
+    "userId": "CUS-037",
+    "name": "Ishita Mukherjee",
+    "email": "customer037@fitresq.demo",
+    "phone": "+91 93689 25138",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-28T11:16:31.762Z",
+    "updatedAt": "2026-01-19T11:16:31.762Z"
+  },
+  {
+    "userId": "CUS-038",
+    "name": "Swara Mishra",
+    "email": "customer038@fitresq.demo",
+    "phone": "+91 96303 56584",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-16T11:33:48.325Z",
+    "updatedAt": "2025-11-27T11:33:48.325Z"
+  },
+  {
+    "userId": "CUS-039",
+    "name": "Sanjay Rao",
+    "email": "customer039@fitresq.demo",
+    "phone": "+91 93639 45082",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-09T19:51:28.619Z",
+    "updatedAt": "2025-11-22T19:51:28.619Z"
+  },
+  {
+    "userId": "CUS-040",
+    "name": "Divya Menon",
+    "email": "customer040@fitresq.demo",
+    "phone": "+91 93897 41739",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-11T20:42:35.308Z",
+    "updatedAt": "2025-11-02T20:42:35.308Z"
+  },
+  {
+    "userId": "CUS-041",
+    "name": "Nidhi Verma",
+    "email": "customer041@fitresq.demo",
+    "phone": "+91 94684 10912",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-05T23:56:24.049Z",
+    "updatedAt": "2025-11-22T23:56:24.049Z"
+  },
+  {
+    "userId": "CUS-042",
+    "name": "Harsh Singh",
+    "email": "customer042@fitresq.demo",
+    "phone": "+91 92725 88325",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-04T20:29:10.307Z",
+    "updatedAt": "2026-02-02T20:29:10.307Z"
+  },
+  {
+    "userId": "CUS-043",
+    "name": "Vihaan Bose",
+    "email": "customer043@fitresq.demo",
+    "phone": "+91 98150 30983",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-24T19:35:21.369Z",
+    "updatedAt": "2025-11-30T19:35:21.369Z"
+  },
+  {
+    "userId": "CUS-044",
+    "name": "Diya Nair",
+    "email": "customer044@fitresq.demo",
+    "phone": "+91 98841 83110",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-17T07:31:41.163Z",
+    "updatedAt": "2026-01-28T07:31:41.163Z"
+  },
+  {
+    "userId": "CUS-045",
+    "name": "Meera Bhatt",
+    "email": "customer045@fitresq.demo",
+    "phone": "+91 96655 70713",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-09T09:34:09.612Z",
+    "updatedAt": "2026-01-13T09:34:09.612Z"
+  },
+  {
+    "userId": "CUS-046",
+    "name": "Karthik Trivedi",
+    "email": "customer046@fitresq.demo",
+    "phone": "+91 97120 99694",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-21T04:51:23.507Z",
+    "updatedAt": "2026-01-25T04:51:23.507Z"
+  },
+  {
+    "userId": "CUS-047",
+    "name": "Shruti Kulkarni",
+    "email": "customer047@fitresq.demo",
+    "phone": "+91 94322 13638",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-03T18:55:12.055Z",
+    "updatedAt": "2025-12-09T18:55:12.055Z"
+  },
+  {
+    "userId": "CUS-048",
+    "name": "Shreya Das",
+    "email": "customer048@fitresq.demo",
+    "phone": "+91 95547 24050",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-04T03:53:28.538Z",
+    "updatedAt": "2026-01-12T03:53:28.538Z"
+  },
+  {
+    "userId": "CUS-049",
+    "name": "Mayank Kapoor",
+    "email": "customer049@fitresq.demo",
+    "phone": "+91 92948 40382",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-31T07:33:33.661Z",
+    "updatedAt": "2026-01-13T07:33:33.661Z"
+  },
+  {
+    "userId": "CUS-050",
+    "name": "Aarav Reddy",
+    "email": "customer050@fitresq.demo",
+    "phone": "+91 99616 61752",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-26T11:37:13.396Z",
+    "updatedAt": "2025-12-16T11:37:13.396Z"
+  },
+  {
+    "userId": "CUS-051",
+    "name": "Ananya Hegde",
+    "email": "customer051@fitresq.demo",
+    "phone": "+91 99434 54341",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-28T15:56:22.674Z",
+    "updatedAt": "2025-12-01T15:56:22.674Z"
+  },
+  {
+    "userId": "CUS-052",
+    "name": "Pooja Patel",
+    "email": "customer052@fitresq.demo",
+    "phone": "+91 97779 23615",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-14T08:16:08.919Z",
+    "updatedAt": "2026-01-02T08:16:08.919Z"
+  },
+  {
+    "userId": "CUS-053",
+    "name": "Rahul Agarwal",
+    "email": "customer053@fitresq.demo",
+    "phone": "+91 94098 45027",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-30T10:16:27.895Z",
+    "updatedAt": "2025-11-24T10:16:27.895Z"
+  },
+  {
+    "userId": "CUS-054",
+    "name": "Priya Chatterjee",
+    "email": "customer054@fitresq.demo",
+    "phone": "+91 95334 68446",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-08T17:24:34.013Z",
+    "updatedAt": "2025-12-10T17:24:34.013Z"
+  },
+  {
+    "userId": "CUS-055",
+    "name": "Alok Iyer",
+    "email": "customer055@fitresq.demo",
+    "phone": "+91 96672 70704",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-21T21:49:24.304Z",
+    "updatedAt": "2025-11-15T21:49:24.304Z"
+  },
+  {
+    "userId": "CUS-056",
+    "name": "Abhishek Sen",
+    "email": "customer056@fitresq.demo",
+    "phone": "+91 92919 14452",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-04T08:06:15.303Z",
+    "updatedAt": "2025-12-27T08:06:15.303Z"
+  },
+  {
+    "userId": "CUS-057",
+    "name": "Anjali Pandey",
+    "email": "customer057@fitresq.demo",
+    "phone": "+91 99673 58205",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-07T01:25:15.335Z",
+    "updatedAt": "2025-10-27T01:25:15.335Z"
+  },
+  {
+    "userId": "CUS-058",
+    "name": "Aryan Deshmukh",
+    "email": "customer058@fitresq.demo",
+    "phone": "+91 94431 54876",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-23T05:24:39.264Z",
+    "updatedAt": "2025-12-05T05:24:39.264Z"
+  },
+  {
+    "userId": "CUS-059",
+    "name": "Sneha Pillai",
+    "email": "customer059@fitresq.demo",
+    "phone": "+91 98612 86157",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-12T21:39:24.603Z",
+    "updatedAt": "2026-03-01T21:39:24.603Z"
+  },
+  {
+    "userId": "CUS-060",
+    "name": "Vikram Sharma",
+    "email": "customer060@fitresq.demo",
+    "phone": "+91 91471 75968",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-09T02:44:26.850Z",
+    "updatedAt": "2025-11-28T02:44:26.850Z"
+  },
+  {
+    "userId": "CUS-061",
+    "name": "Deepak Gupta",
+    "email": "customer061@fitresq.demo",
+    "phone": "+91 91208 52162",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-06T00:59:07.567Z",
+    "updatedAt": "2026-02-02T00:59:07.567Z"
+  },
+  {
+    "userId": "CUS-062",
+    "name": "Rajat Gowda",
+    "email": "customer062@fitresq.demo",
+    "phone": "+91 94029 89541",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-27T05:59:09.698Z",
+    "updatedAt": "2026-03-13T05:59:09.698Z"
+  },
+  {
+    "userId": "CUS-063",
+    "name": "Kunal Mehta",
+    "email": "customer063@fitresq.demo",
+    "phone": "+91 95324 89804",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-04T22:28:08.193Z",
+    "updatedAt": "2025-10-06T22:28:08.193Z"
+  },
+  {
+    "userId": "CUS-064",
+    "name": "Palak Choudhury",
+    "email": "customer064@fitresq.demo",
+    "phone": "+91 95327 59326",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-04T20:57:41.085Z",
+    "updatedAt": "2025-12-21T20:57:41.085Z"
+  },
+  {
+    "userId": "CUS-065",
+    "name": "Kabir Dubey",
+    "email": "customer065@fitresq.demo",
+    "phone": "+91 96982 62524",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-09T21:53:45.491Z",
+    "updatedAt": "2026-01-13T21:53:45.491Z"
+  },
+  {
+    "userId": "CUS-066",
+    "name": "Tanvi Joshi",
+    "email": "customer066@fitresq.demo",
+    "phone": "+91 97971 82516",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-10T05:21:25.092Z",
+    "updatedAt": "2026-03-23T05:21:25.092Z"
+  },
+  {
+    "userId": "CUS-067",
+    "name": "Siddharth Mukherjee",
+    "email": "customer067@fitresq.demo",
+    "phone": "+91 91793 49781",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-14T10:48:05.920Z",
+    "updatedAt": "2026-04-13T10:48:05.920Z"
+  },
+  {
+    "userId": "CUS-068",
+    "name": "Amit Mishra",
+    "email": "customer068@fitresq.demo",
+    "phone": "+91 94640 39751",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-18T10:04:50.733Z",
+    "updatedAt": "2026-04-11T10:04:50.733Z"
+  },
+  {
+    "userId": "CUS-069",
+    "name": "Manish Rao",
+    "email": "customer069@fitresq.demo",
+    "phone": "+91 94364 37631",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-13T06:20:31.625Z",
+    "updatedAt": "2025-11-10T06:20:31.625Z"
+  },
+  {
+    "userId": "CUS-070",
+    "name": "Aakash Menon",
+    "email": "customer070@fitresq.demo",
+    "phone": "+91 96655 93010",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-08T01:54:42.622Z",
+    "updatedAt": "2026-03-06T01:54:42.622Z"
+  },
+  {
+    "userId": "CUS-071",
+    "name": "Simran Verma",
+    "email": "customer071@fitresq.demo",
+    "phone": "+91 92319 52775",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-11T01:07:15.572Z",
+    "updatedAt": "2025-10-20T01:07:15.572Z"
+  },
+  {
+    "userId": "CUS-072",
+    "name": "Arjun Singh",
+    "email": "customer072@fitresq.demo",
+    "phone": "+91 93252 48564",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-09T14:23:02.248Z",
+    "updatedAt": "2026-03-03T14:23:02.248Z"
+  },
+  {
+    "userId": "CUS-073",
+    "name": "Neha Bose",
+    "email": "customer073@fitresq.demo",
+    "phone": "+91 93181 48607",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-22T08:08:01.560Z",
+    "updatedAt": "2026-03-13T08:08:01.560Z"
+  },
+  {
+    "userId": "CUS-074",
+    "name": "Rhea Nair",
+    "email": "customer074@fitresq.demo",
+    "phone": "+91 95440 82097",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-28T01:34:39.061Z",
+    "updatedAt": "2026-03-09T01:34:39.061Z"
+  },
+  {
+    "userId": "CUS-075",
+    "name": "Nikhil Bhatt",
+    "email": "customer075@fitresq.demo",
+    "phone": "+91 92937 69231",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-13T13:22:50.100Z",
+    "updatedAt": "2025-11-25T13:22:50.100Z"
+  },
+  {
+    "userId": "CUS-076",
+    "name": "Varun Trivedi",
+    "email": "customer076@fitresq.demo",
+    "phone": "+91 93179 66114",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-23T18:35:36.066Z",
+    "updatedAt": "2025-11-11T18:35:36.066Z"
+  },
+  {
+    "userId": "CUS-077",
+    "name": "Payal Kulkarni",
+    "email": "customer077@fitresq.demo",
+    "phone": "+91 94334 21258",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-11T20:34:41.913Z",
+    "updatedAt": "2026-01-23T20:34:41.913Z"
+  },
+  {
+    "userId": "CUS-078",
+    "name": "Kriti Das",
+    "email": "customer078@fitresq.demo",
+    "phone": "+91 94537 93911",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-06T10:54:03.953Z",
+    "updatedAt": "2025-10-09T10:54:03.953Z"
+  },
+  {
+    "userId": "CUS-079",
+    "name": "Aditya Kapoor",
+    "email": "customer079@fitresq.demo",
+    "phone": "+91 93378 72598",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-17T01:59:04.550Z",
+    "updatedAt": "2026-04-02T01:59:04.550Z"
+  },
+  {
+    "userId": "CUS-080",
+    "name": "Riya Reddy",
+    "email": "customer080@fitresq.demo",
+    "phone": "+91 91071 81179",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-16T17:33:19.411Z",
+    "updatedAt": "2025-12-20T17:33:19.411Z"
+  },
+  {
+    "userId": "CUS-081",
+    "name": "Anika Hegde",
+    "email": "customer081@fitresq.demo",
+    "phone": "+91 92414 44839",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-08T15:59:16.171Z",
+    "updatedAt": "2025-10-17T15:59:16.171Z"
+  },
+  {
+    "userId": "CUS-082",
+    "name": "Gaurav Patel",
+    "email": "customer082@fitresq.demo",
+    "phone": "+91 97155 27912",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-10-11T11:04:45.288Z",
+    "updatedAt": "2025-11-02T11:04:45.288Z"
+  },
+  {
+    "userId": "CUS-083",
+    "name": "Meenal Agarwal",
+    "email": "customer083@fitresq.demo",
+    "phone": "+91 97835 18604",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-30T19:33:04.213Z",
+    "updatedAt": "2026-04-16T19:33:04.213Z"
+  },
+  {
+    "userId": "CUS-084",
+    "name": "Bhavna Chatterjee",
+    "email": "customer084@fitresq.demo",
+    "phone": "+91 95560 79153",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-04-26T09:42:45.455Z",
+    "updatedAt": "2026-05-05T09:42:45.455Z"
+  },
+  {
+    "userId": "CUS-085",
+    "name": "Tanya Iyer",
+    "email": "customer085@fitresq.demo",
+    "phone": "+91 97572 35834",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-21T10:44:16.921Z",
+    "updatedAt": "2026-02-10T10:44:16.921Z"
+  },
+  {
+    "userId": "CUS-086",
+    "name": "Rohan Sen",
+    "email": "customer086@fitresq.demo",
+    "phone": "+91 92934 46175",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-03T20:17:26.132Z",
+    "updatedAt": "2026-02-22T20:17:26.132Z"
+  },
+  {
+    "userId": "CUS-087",
+    "name": "Ishita Pandey",
+    "email": "customer087@fitresq.demo",
+    "phone": "+91 93450 71165",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-12-15T23:17:03.931Z",
+    "updatedAt": "2025-12-30T23:17:03.931Z"
+  },
+  {
+    "userId": "CUS-088",
+    "name": "Swara Deshmukh",
+    "email": "customer088@fitresq.demo",
+    "phone": "+91 95549 40441",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-08T10:08:44.392Z",
+    "updatedAt": "2026-04-01T10:08:44.392Z"
+  },
+  {
+    "userId": "CUS-089",
+    "name": "Sanjay Pillai",
+    "email": "customer089@fitresq.demo",
+    "phone": "+91 98892 49318",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-05T08:49:08.696Z",
+    "updatedAt": "2026-01-15T08:49:08.696Z"
+  },
+  {
+    "userId": "CUS-090",
+    "name": "Divya Sharma",
+    "email": "customer090@fitresq.demo",
+    "phone": "+91 92297 49630",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-19T03:51:58.653Z",
+    "updatedAt": "2026-04-17T03:51:58.653Z"
+  },
+  {
+    "userId": "CUS-091",
+    "name": "Nidhi Gupta",
+    "email": "customer091@fitresq.demo",
+    "phone": "+91 98452 66513",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-26T13:46:33.314Z",
+    "updatedAt": "2026-01-27T13:46:33.314Z"
+  },
+  {
+    "userId": "CUS-092",
+    "name": "Harsh Gowda",
+    "email": "customer092@fitresq.demo",
+    "phone": "+91 99439 59464",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-15T11:37:56.450Z",
+    "updatedAt": "2025-12-08T11:37:56.450Z"
+  },
+  {
+    "userId": "CUS-093",
+    "name": "Vihaan Mehta",
+    "email": "customer093@fitresq.demo",
+    "phone": "+91 94265 50226",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2025-11-04T15:23:10.757Z",
+    "updatedAt": "2025-11-09T15:23:10.757Z"
+  },
+  {
+    "userId": "CUS-094",
+    "name": "Diya Choudhury",
+    "email": "customer094@fitresq.demo",
+    "phone": "+91 93864 93476",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-26T14:12:07.474Z",
+    "updatedAt": "2026-04-16T14:12:07.474Z"
+  },
+  {
+    "userId": "CUS-095",
+    "name": "Meera Dubey",
+    "email": "customer095@fitresq.demo",
+    "phone": "+91 97558 40493",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-18T15:36:55.299Z",
+    "updatedAt": "2026-02-05T15:36:55.299Z"
+  },
+  {
+    "userId": "CUS-096",
+    "name": "Karthik Joshi",
+    "email": "customer096@fitresq.demo",
+    "phone": "+91 96799 29667",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-03-27T11:28:51.020Z",
+    "updatedAt": "2026-04-16T11:28:51.020Z"
+  },
+  {
+    "userId": "CUS-097",
+    "name": "Shruti Mukherjee",
+    "email": "customer097@fitresq.demo",
+    "phone": "+91 92705 26079",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-04-17T14:43:35.954Z",
+    "updatedAt": "2026-04-28T14:43:35.954Z"
+  },
+  {
+    "userId": "CUS-098",
+    "name": "Shreya Mishra",
+    "email": "customer098@fitresq.demo",
+    "phone": "+91 98644 94478",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-05-05T23:42:22.699Z",
+    "updatedAt": "2026-05-16T23:42:22.699Z"
+  },
+  {
+    "userId": "CUS-099",
+    "name": "Mayank Rao",
+    "email": "customer099@fitresq.demo",
+    "phone": "+91 93968 33971",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-02-16T20:42:38.785Z",
+    "updatedAt": "2026-03-12T20:42:38.785Z"
+  },
+  {
+    "userId": "CUS-100",
+    "name": "Aarav Menon",
+    "email": "customer100@fitresq.demo",
+    "phone": "+91 98269 86405",
+    "role": "CUSTOMER",
+    "cognitoSub": null,
+    "createdAt": "2026-01-01T04:18:56.118Z",
+    "updatedAt": "2026-01-03T04:18:56.118Z"
+  }
+]

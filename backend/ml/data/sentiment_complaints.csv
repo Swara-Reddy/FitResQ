@@ -1,0 +1,301 @@
+text,sentiment
+"My refund was processed quickly, thank you",POSITIVE
+The replacement arrived and everything is perfect,POSITIVE
+"Great customer service, my issue was resolved within minutes",POSITIVE
+Thank you so much for the quick refund,POSITIVE
+I really appreciate the prompt assistance with my return,POSITIVE
+The shoes arrived on time and they look amazing,POSITIVE
+Super impressed with the packaging and quality of the clothes,POSITIVE
+The support executive was very polite and helpful,POSITIVE
+Received my replacement trousers today and the fit is spot on,POSITIVE
+Thanks for handling my cancellation request so smoothly,POSITIVE
+"Refund was credited instantly to my UPI, excellent service!",POSITIVE
+I am extremely satisfied with FitResQ's customer support,POSITIVE
+"Loved the fabric quality, totally worth the price",POSITIVE
+Fast resolution and very responsive support team,POSITIVE
+Thank you for fixing my order error so swiftly,POSITIVE
+The delivery executive was very courteous and on time,POSITIVE
+"Wonderful shopping experience, will definitely buy again",POSITIVE
+"My return pickup was done without any hassle, thank you",POSITIVE
+Kudos to the team for the lightning fast delivery,POSITIVE
+The customer care agent answered all my questions patiently,POSITIVE
+"Received my money back within 24 hours, amazing turnaround!",POSITIVE
+The quality of the jacket exceeded my expectations,POSITIVE
+Very pleased with how smoothly the exchange went,POSITIVE
+Appreciate the quick update on my delivery status,POSITIVE
+Everything was resolved to my complete satisfaction,POSITIVE
+Thank you for the courteous support and fast refund,POSITIVE
+The size fits perfectly and I am very happy with my purchase,POSITIVE
+Customer support was quick to respond and resolved my query,POSITIVE
+"The product quality is top notch, thank you FitResQ",POSITIVE
+Return was approved immediately without any delay,POSITIVE
+"Great experience, refund credited smoothly to my bank",POSITIVE
+Thanks for the seamless return and refund experience,POSITIVE
+"I love the new shirt, the material is fantastic",POSITIVE
+Support team was wonderful and solved my issue right away,POSITIVE
+The replacement pair arrived in pristine condition,POSITIVE
+"Super quick reverse pickup, very impressed!",POSITIVE
+"Thank you for expediting my delivery, arrived just in time",POSITIVE
+The agent was very kind and sorted out my refund,POSITIVE
+"Top tier customer care, keep up the great work",POSITIVE
+"I received the correct size and the fit is great, thanks",POSITIVE
+Really happy with the prompt response from support,POSITIVE
+"My account was credited promptly, thank you very much",POSITIVE
+Delighted with the prompt resolution of my support case,POSITIVE
+The linen trousers are gorgeous and very comfortable,POSITIVE
+"Fast delivery, neat packaging, and high quality items",POSITIVE
+Thank you for making the return process so painless,POSITIVE
+The support specialist was exceptionally helpful and patient,POSITIVE
+Order arrived earlier than expected in great condition,POSITIVE
+"Smooth refund process, money was in my account the next day",POSITIVE
+Highly impressed with your customer-first attitude,POSITIVE
+Thank you for resolving my complaint so professionally,POSITIVE
+"The replacement boots are perfect, no defects at all",POSITIVE
+Great communication from the team throughout the delivery,POSITIVE
+I appreciate your quick action on my cancellation,POSITIVE
+"Customer support responded in less than ten minutes, amazing!",POSITIVE
+The return pickup was effortless and quick,POSITIVE
+Thanks a lot for reimbursing the delivery fee,POSITIVE
+Everything was handled seamlessly by your support agent,POSITIVE
+"The product matches the online pictures exactly, love it",POSITIVE
+Very happy with the swift turnaround on my refund,POSITIVE
+"Excellent support, all my concerns were addressed nicely",POSITIVE
+"Got my order ahead of schedule, wonderful service",POSITIVE
+Thank you for the quick and polite response to my email,POSITIVE
+Exceeded my expectations in terms of service and product,POSITIVE
+"Return verified and refund issued within hours, thank you",POSITIVE
+The team helped me choose the right size and it fits great,POSITIVE
+Very satisfied with the quality of the wool cardigan,POSITIVE
+Thank you for the clear and transparent communication,POSITIVE
+Such a quick and hassle-free return experience,POSITIVE
+Appreciate the proactive updates on my replacement order,POSITIVE
+The support rep went above and beyond to assist me,POSITIVE
+Received my refund receipt and confirmation immediately,POSITIVE
+"Fantastic service, you have earned a loyal customer",POSITIVE
+"The shoes look even better in person, very pleased",POSITIVE
+Thank you for addressing my issue so efficiently,POSITIVE
+"Order delivered safely and securely packaged, thank you",POSITIVE
+Great follow up from the customer support supervisor,POSITIVE
+I am grateful for your swift help with my account,POSITIVE
+"Smooth transaction and prompt delivery, very happy",POSITIVE
+"The exchange was completed in just two days, awesome job",POSITIVE
+Pleasantly surprised by how fast my refund was settled,POSITIVE
+Thank you for the courteous and prompt resolution,POSITIVE
+"The material is soft, breathable, and feels premium",POSITIVE
+Customer support was empathetic and resolved my problem,POSITIVE
+Very grateful for your prompt response and help,POSITIVE
+Super happy with the resolution provided by your team,POSITIVE
+The replacement process was completely painless,POSITIVE
+Appreciate the quick credit back to my original payment mode,POSITIVE
+Thank you for honoring the promotional discount,POSITIVE
+Received order in great condition with nice eco-friendly packaging,POSITIVE
+The team quickly resolved my delivery address correction,POSITIVE
+Delighted with the helpful assistance from the live chat,POSITIVE
+"Wonderful customer care experience, 10 out of 10",POSITIVE
+Thank you for processing my return without any fuss,POSITIVE
+The quality of stitching and finish is impressive,POSITIVE
+Very glad that the issue was sorted out within an hour,POSITIVE
+Appreciate the warm and professional help from support,POSITIVE
+"Everything is sorted now, thank you for your great help",POSITIVE
+"Satisfied with the overall experience, thank you FitResQ",POSITIVE
+"The refund was processed without delay, appreciate it",POSITIVE
+The refund is still being processed,NEUTRAL
+My order has not arrived yet,NEUTRAL
+What is the status of my order ORD-9921?,NEUTRAL
+Can you check if my refund RF-1029 has been initiated?,NEUTRAL
+I want to know the return policy for sale items,NEUTRAL
+How long does standard delivery take to Bangalore?,NEUTRAL
+The package is scheduled for delivery today,NEUTRAL
+Please provide tracking information for my shipment,NEUTRAL
+Is my return pickup scheduled for morning or evening?,NEUTRAL
+My order status shows in transit,NEUTRAL
+I would like to update my shipping address,NEUTRAL
+When does the 15-day return window start?,NEUTRAL
+Checking to see if my payment of Rs 1899 was received,NEUTRAL
+Can you confirm if order ORD-5510 has been dispatched?,NEUTRAL
+I need a copy of my invoice for tax purposes,NEUTRAL
+The tracking link shows out for delivery,NEUTRAL
+What payment methods are supported for returns?,NEUTRAL
+Can I change the size of the shirt before dispatch?,NEUTRAL
+Please let me know the courier partner name,NEUTRAL
+How many days will it take for bank settlement?,NEUTRAL
+The current case status is marked as in progress,NEUTRAL
+Is there an option to exchange instead of refund?,NEUTRAL
+Please share the return pickup contact number,NEUTRAL
+I placed an order yesterday and want to confirm the delivery date,NEUTRAL
+What is the expected arrival date for my parcel?,NEUTRAL
+The delivery boy called to confirm my location,NEUTRAL
+Does FitResQ offer instant UPI refunds?,NEUTRAL
+I am inquiring about the warranty on footwear,NEUTRAL
+Please check if my cancellation request was logged,NEUTRAL
+The dashboard indicates refund initiated on Monday,NEUTRAL
+Can I schedule the delivery for the weekend?,NEUTRAL
+What is the process to return an item bought online?,NEUTRAL
+I would like to know if my size exchange is available,NEUTRAL
+Tracking details show the package reached the local hub,NEUTRAL
+How do I print the return shipping label?,NEUTRAL
+Is the refund credited to the original card or bank account?,NEUTRAL
+Please confirm whether my return has reached your warehouse,NEUTRAL
+I received an automated SMS about my shipment,NEUTRAL
+What time will the courier arrive for collection?,NEUTRAL
+Could you check the timeline for refund reference RF-8812?,NEUTRAL
+The item description says 100 percent cotton,NEUTRAL
+Can you verify if my order contains two shirts or three?,NEUTRAL
+I am checking the status of my recent payment,NEUTRAL
+Is delivery available to pincode 560038?,NEUTRAL
+Please let me know if my return parcel was inspected,NEUTRAL
+What is the status of ticket FR-2026?,NEUTRAL
+I submitted a return request this morning,NEUTRAL
+The tracking status has not changed since yesterday,NEUTRAL
+Can I modify my contact number for delivery alerts?,NEUTRAL
+How long does a bank transfer refund usually take?,NEUTRAL
+Checking if the linen trousers are back in stock,NEUTRAL
+I want to verify the order total and shipping charges,NEUTRAL
+Please confirm if my refund was sent to the UPI ID,NEUTRAL
+The courier tracking number is 987654321,NEUTRAL
+Are returns free of charge or is there a pickup fee?,NEUTRAL
+I need to check the delivery date for order ORD-1200,NEUTRAL
+Status update requested for case inquiry FR-9011,NEUTRAL
+Can an order be canceled once it is packed?,NEUTRAL
+I am asking about the delivery time frame,NEUTRAL
+The system generated return reference RF-3310,NEUTRAL
+Please let me know the status of my replacement item,NEUTRAL
+Is there any delivery charge for exchange orders?,NEUTRAL
+The tracking page says parcel received at sorting hub,NEUTRAL
+I would like to confirm my registered email address,NEUTRAL
+Can you check if my order was processed through UPI?,NEUTRAL
+Please tell me the status of order FR-4421,NEUTRAL
+I want to know if my payment went through successfully,NEUTRAL
+The delivery window is shown between 2 PM and 5 PM,NEUTRAL
+Is there an option to deliver to an office address?,NEUTRAL
+Checking the current progress of my refund payout,NEUTRAL
+What documents are needed for bank account verification?,NEUTRAL
+Please check if the pickup agent was assigned,NEUTRAL
+I received an email stating case status is updated,NEUTRAL
+Can you confirm the refund amount for my returned jacket?,NEUTRAL
+How many business days does refund approval take?,NEUTRAL
+The app shows estimated delivery by Thursday,NEUTRAL
+Please provide the status of my cancellation request,NEUTRAL
+Is the package shipped via BlueDart or Delhivery?,NEUTRAL
+I would like to check if my order was billed correctly,NEUTRAL
+Can you tell me the current location of my parcel?,NEUTRAL
+What is the procedure if I am unavailable during delivery?,NEUTRAL
+Please verify if my account details were updated,NEUTRAL
+I want to confirm the date of return pickup,NEUTRAL
+Checking if order ORD-7712 has been packed,NEUTRAL
+The return status shows pending inspection,NEUTRAL
+Is it possible to track the courier in real time?,NEUTRAL
+Please provide an update on my open support ticket,NEUTRAL
+I am inquiring about the refund SLA for credit cards,NEUTRAL
+Can you check the delivery status of order FR-3391?,NEUTRAL
+What is the return period for footwear products?,NEUTRAL
+The shipment was dispatched this morning from Mumbai,NEUTRAL
+I would like to confirm the item SKU in my order,NEUTRAL
+Please check whether my refund reference is active,NEUTRAL
+Does FitResQ send SMS updates during shipping?,NEUTRAL
+Checking if my refund has been approved by finance,NEUTRAL
+What happens after the return parcel is collected?,NEUTRAL
+Can you confirm if my address details are complete?,NEUTRAL
+The estimated delivery date is listed as September 15,NEUTRAL
+I need clarification regarding the exchange policy,NEUTRAL
+Please check the status of my order inquiry,NEUTRAL
+I have been waiting for my refund for weeks,NEGATIVE
+"This is ridiculous, I want my money back immediately",NEGATIVE
+I am extremely frustrated with this terrible service,NEGATIVE
+"This is completely unacceptable, nobody is helping me",NEGATIVE
+Worst online shopping experience of my life,NEGATIVE
+Money deducted from my bank but your app says payment failed!,NEGATIVE
+"My shoes arrived completely broken and damaged, pathetic",NEGATIVE
+"Still no delivery after two weeks, your service is useless",NEGATIVE
+Why was my refund rejected without any explanation?,NEGATIVE
+I am fed up with your automated useless replies,NEGATIVE
+"You sent me the completely wrong item, total negligence",NEGATIVE
+"Terrible experience, I will never buy from FitResQ again",NEGATIVE
+Customer support is completely unresponsive and unhelpful,NEGATIVE
+You took my money and didn't even place the order!,NEGATIVE
+"The fabric is ripped and looks dirty, disgusting quality",NEGATIVE
+"Over 15 days and my refund is still missing, total fraud",NEGATIVE
+I have contacted support four times and got zero resolution,NEGATIVE
+Delivery boy lied and marked parcel delivered without coming,NEGATIVE
+Your app is full of bugs and crashed during payment,NEGATIVE
+"Extremely angry, where is my order ORD-9928?!",NEGATIVE
+You ruined my birthday gift with your endless delays,NEGATIVE
+"Broken zipper and torn sleeve, absolutely cheap quality",NEGATIVE
+I demand an immediate full refund for this defective product,NEGATIVE
+Stop making excuses and refund my hard-earned money now,NEGATIVE
+The courier service you use is pathetic and rude,NEGATIVE
+Very disappointed with the low quality of this shirt,NEGATIVE
+"You keep delaying my delivery every single day, sick of this",NEGATIVE
+Why are you holding my refund for over three weeks?,NEGATIVE
+I received someone else's dirty clothes instead of my order,NEGATIVE
+"Hopeless customer support, nobody knows what they are doing",NEGATIVE
+Payment debited twice and no one is helping me get it back,NEGATIVE
+"The trousers are completely torn at the seam, terrible",NEGATIVE
+"Waiting for 20 days, this is nothing short of cheating",NEGATIVE
+"Your agent hung up on me, worst support ever",NEGATIVE
+"Horrible packaging, the box was crushed and shoes scuffed",NEGATIVE
+I want to file a consumer complaint against your company,NEGATIVE
+You promised delivery yesterday and today tracking is dead,NEGATIVE
+"Refund failed again, why is your banking system so broken?",NEGATIVE
+Defective merchandise and nobody is taking responsibility,NEGATIVE
+I am deeply annoyed by the endless delay on my return,NEGATIVE
+"You sent neon green sneakers instead of white, are you blind?",NEGATIVE
+"Pathetic service, money gone and no order confirmation",NEGATIVE
+I am wasting hours trying to get a simple refund,NEGATIVE
+"The stitching came off within an hour of wearing, garbage",NEGATIVE
+Your delivery agent was extremely rude and abusive,NEGATIVE
+"I regret ordering from FitResQ, total waste of time and money",NEGATIVE
+Still waiting for return pickup after scheduling it three times,NEGATIVE
+Why did you reject my return when the item is brand new?,NEGATIVE
+Disgusted by the poor handling and lack of accountability,NEGATIVE
+"I want to speak to a senior manager right now, unacceptable",NEGATIVE
+You deducted 2499 rupees from my account and nothing shows up,NEGATIVE
+"Tracking has been stuck for two weeks, lost package obviously",NEGATIVE
+Clothes smell awful and have visible bleach stains,NEGATIVE
+Nobody answers the helpline and emails bounce back,NEGATIVE
+Stop giving copy-paste answers and give me my money back,NEGATIVE
+"Extremely poor product, nothing like the advertised images",NEGATIVE
+"My refund is overdue by ten days, what are you people doing?",NEGATIVE
+"You cancelled my order without my consent, horrible practice",NEGATIVE
+"Fake delivery attempt reported by your courier, I was home!",NEGATIVE
+"The replacement is also damaged, do you have any quality checks?",NEGATIVE
+"I feel cheated by this company, never ordering again",NEGATIVE
+"So frustrating, payment failed three times and money was cut",NEGATIVE
+"Zero stars, absolutely incompetent customer support",NEGATIVE
+Return pickup guy never showed up and marked customer absent,NEGATIVE
+Why is it impossible to get a refund from your company?,NEGATIVE
+The package arrived opened and items were missing inside,NEGATIVE
+"I am tired of waiting for my refund, initiate it now",NEGATIVE
+Shocking lack of professionalism from your support staff,NEGATIVE
+"You charged me twice for a single order, give my money back",NEGATIVE
+"The shoes are peeling off after two days, terrible quality",NEGATIVE
+My delivery is two weeks late with no communication whatsoever,NEGATIVE
+Your return policy is misleading and customer care is unhelpful,NEGATIVE
+"I am furious, my order was marked delivered to the wrong address",NEGATIVE
+Completely disgusted with the state of the product received,NEGATIVE
+Why does it take a month to get my own money back?,NEGATIVE
+"Your courier partner is a disaster, parcel lost in transit",NEGATIVE
+"Extremely dissatisfied, the jacket is torn in multiple places",NEGATIVE
+Customer support kept me on hold for 40 minutes and hung up,NEGATIVE
+"Total disaster, wrong size, wrong color, and damaged box",NEGATIVE
+"I will never recommend FitResQ to anyone, terrible service",NEGATIVE
+Failed transaction took my money and customer care is silent,NEGATIVE
+"Horrible experience, waiting forever for a simple pickup",NEGATIVE
+"You refused my refund on false grounds, this is unfair",NEGATIVE
+Deeply frustrated by the lack of updates on my delayed parcel,NEGATIVE
+"The item received looks used, washed, and completely worn out",NEGATIVE
+"I am sick of your empty promises, where is my refund?",NEGATIVE
+How can you deliver a broken product and refuse replacement?,NEGATIVE
+Your support team is completely useless and evasive,NEGATIVE
+"Money debited from UPI but order failed, absolute nightmare",NEGATIVE
+"Delivery has been rescheduled five times already, ridiculous",NEGATIVE
+The worst clothing quality I have ever purchased online,NEGATIVE
+I demand compensation for this terrible shipping delay,NEGATIVE
+You took 3000 rupees and I have neither the product nor refund,NEGATIVE
+Extremely angry at the continuous lies from support agents,NEGATIVE
+Package was soaked in water and ruined the clothes inside,NEGATIVE
+"Refund status failed, support unresponsive, worst company",NEGATIVE
+I am tired of chasing you for my order cancellation refund,NEGATIVE
+Completely unacceptable delay in dispatching my order,NEGATIVE
+"You sent me the wrong product twice in a row, unbelievable",NEGATIVE
+"Worst service imaginable, give me my refund right now",NEGATIVE

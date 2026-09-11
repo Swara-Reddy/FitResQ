@@ -1,0 +1,25 @@
+FITRESQ REFUND & RETURN POLICY
+
+1. Refund Initiation & System Verification
+Refunds are initiated automatically after the returned product has been received at the warehouse and verified by the system inspection team. All items must pass quality verification before refund approval.
+
+2. Refund Processing Timelines & Duration (How Long Does a Refund Take)
+How long does a refund take? Once the returned product is verified, a refund typically takes 3 to 5 business days to be credited to the original payment method. Refund processing timelines take 24 to 48 hours for UPI and debit cards, while net banking and credit card settlements take 3 to 7 business days depending on your bank.
+
+3. Damaged, Defective, or Incorrect Products
+Customers can claim a full refund or free replacement for any damaged product, defective apparel, or incorrect item received. If you receive a damaged product, report it through your support case within 48 hours of delivery with photographic evidence, and our team will arrange an expedited pickup and full refund.
+
+4. Delayed Refunds & SLA Auto-Escalation
+If a refund remains delayed or unresolved beyond the configured 5-day support SLA window, the system automatically escalates the complaint to a Senior Support Supervisor. Customers whose refunds are delayed can track the escalation status directly in their FitResQ dashboard or contact customer care for priority clearance.
+
+5. Return Eligibility & Window After Delivery
+Customers can return any eligible clothing or footwear item within 15 days of delivery, provided the tags remain attached and the merchandise is unworn and unwashed. You can initiate a return request through your order history after delivery, and a reverse pickup will be scheduled at your doorstep.
+
+6. Failed Refund Transactions & Resolution
+If an automated refund fails due to expired cards, bank server timeouts, or incorrect UPI details, the system flags the refund as failed. Customers will receive an alert to provide an alternate bank account or active UPI ID, after which FitResQ will re-initiate the refund transfer within 24 hours.
+
+7. Tracking Refund Status & Support Case
+Customers can track the real-time status of their refund and return progress through their FitResQ support case dashboard. Status updates include Return Picked Up, Item Verified, Refund Initiated, and Bank Settlement Completed.
+
+8. Contacting Customer Support for Clarification
+Customers can contact FitResQ customer support at any time for clarification regarding refund status, delayed payouts, or dispute resolution. Our support specialists are available via live chat and ticket inquiries.
