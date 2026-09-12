@@ -77,8 +77,11 @@ The FitResQ AI Support subsystem provides fast, explainable, and reliable natura
 ### 🔔 Notifications
 ![Notifications](docs/images/notifications.jpeg)
 
-### ✅ Refund Request Submitted
+### ✅ Refunds
 ![Refund Request Submitted](docs/images/refunds.jpeg)
+
+### ✅ Refunds Request Submitted
+![Refund Request Submitted](docs/images/refund-request.jpeg)
 
 ---
 ### 1. Intent Classification (10 Classes)
