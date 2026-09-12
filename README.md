@@ -3,6 +3,13 @@
 > **Enterprise-grade, AI-powered e-commerce customer support and refund lifecycle management platform built with React, FastAPI, Machine Learning, and AWS Serverless Architecture.**
 
 ---
+# FitResQ
+
+> AI-Powered Customer Support & Refund Resolution Platform
+
+🌐 **[Live Demo](https://main.d215h2zs4weqtm.amplifyapp.com/)**
+
+FitResQ is an AI-driven customer support and refund resolution platform that combines machine learning, RAG, and event-driven AWS services to provide transparent complaint handling, SLA tracking, automated escalation, and refund workflows.
 
 ## 1. System Overview
 
