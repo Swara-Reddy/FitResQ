@@ -3,17 +3,30 @@ version: 0.2
 phases:
   pre_build:
     commands:
-      - echo "==> Validating AWS environment and logging in to Amazon ECR..."
+      - echo "=== FitResQ AI Docker Build ==="
+      - echo "Region: ${AWS_DEFAULT_REGION}"
+      - echo "Architecture target: linux/amd64"
+      - echo "Docker version:"
+      - docker --version
+      - echo "Docker daemon information:"
+      - docker info
+      - echo "Getting AWS account ID..."
       - AWS_ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
       - REPOSITORY_URI=${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/fitresq-ai-backend
-      - aws ecr get-login-password --region ${AWS_DEFAULT_REGION} | docker login --username AWS --password-stdin ${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com
+      - echo "Repository: ${REPOSITORY_URI}"
+      - echo "Logging in to ECR..."
+      - aws ecr get-login-password --region ${AWS_DEFAULT_REGION} | docker login --username AWS --password-stdin ${REPOSITORY_URI}
+
   build:
     commands:
-      - echo "==> Building Docker image for linux/amd64..."
-      - docker build --platform linux/amd64 --provenance=false -t ${REPOSITORY_URI}:latest -t ${REPOSITORY_URI}:${CODEBUILD_BUILD_NUMBER} .
+      - echo "=== Building FitResQ AI image ==="
+      - docker build --platform linux/amd64 -t ${REPOSITORY_URI}:latest -t ${REPOSITORY_URI}:${CODEBUILD_BUILD_NUMBER} .
+      - echo "Docker build completed."
+      - docker images ${REPOSITORY_URI}
+
   post_build:
     commands:
-      - echo "==> Pushing image tags to Amazon ECR..."
+      - echo "=== Pushing FitResQ AI image to ECR ==="
       - docker push ${REPOSITORY_URI}:latest
       - docker push ${REPOSITORY_URI}:${CODEBUILD_BUILD_NUMBER}
-      - echo "==> Successfully pushed ${REPOSITORY_URI}:latest and ${REPOSITORY_URI}:${CODEBUILD_BUILD_NUMBER}"
+      - echo "=== Image push completed successfully ==="

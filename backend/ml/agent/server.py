@@ -283,9 +283,87 @@ def create_refund_request(req: RefundRequestPayload):
     }
 
 
+# ----------------------------------------------------
+# AWS Lambda Handler & Mangum ASGI Adapter
+# ----------------------------------------------------
+try:
+    from mangum import Mangum
+    _mangum_handler = Mangum(app)
+except Exception:
+    _mangum_handler = None
+
+
+def lambda_handler(event, context=None):
+    """
+    AWS Lambda entrypoint supporting both API Gateway proxy events and direct invocations.
+    """
+    if not isinstance(event, dict):
+        if _mangum_handler:
+            return _mangum_handler(event, context)
+        return {"statusCode": 400, "body": "Invalid event format"}
+
+    # 1. API Gateway / ALB / HTTP proxy event -> route through Mangum to FastAPI
+    if any(k in event for k in ("httpMethod", "requestContext", "rawPath", "version")):
+        if _mangum_handler:
+            return _mangum_handler(event, context)
+
+    # 2. Direct invocation health check: {"action": "health"} or {"path": "/health"}
+    if event.get("action") == "health" or event.get("path") == "/health":
+        return {
+            "statusCode": 200,
+            "headers": {"Content-Type": "application/json"},
+            "body": json.dumps({"status": "ok"})
+        }
+
+    # 3. Direct AI support payload: {"message": "..."}
+    if "message" in event:
+        auth_header = None
+        if isinstance(event.get("headers"), dict):
+            auth_header = event["headers"].get("Authorization") or event["headers"].get("authorization")
+
+        result = support(
+            message=event.get("message", ""),
+            order_id=event.get("orderId"),
+            case_id=event.get("caseId"),
+            auth_token=auth_header,
+            conversation_history=event.get("history")
+        )
+        return {
+            "statusCode": 200,
+            "headers": {"Content-Type": "application/json"},
+            "body": json.dumps({
+                "message": result["message"],
+                "intent": result["intent"],
+                "sentiment": result["sentiment"],
+                "priority": result["priority"],
+                "policy_used": result["policy_used"],
+                "tool_used": result.get("tool_used"),
+                "tool_details": result.get("tool_details") or result.get("tool_used"),
+                "decision": result.get("decision"),
+                "retrieved_info": result.get("retrieved_info"),
+                "api_data": result.get("api_data"),
+                "response": result["response"]
+            })
+        }
+
+    # 4. Fallback to Mangum
+    if _mangum_handler:
+        return _mangum_handler(event, context)
+
+    return {
+        "statusCode": 400,
+        "headers": {"Content-Type": "application/json"},
+        "body": json.dumps({"error": "Unsupported event format"})
+    }
+
+# Standard handler alias
+handler = lambda_handler
+
+
 if __name__ == "__main__":
     import uvicorn
     host = os.environ.get("HOST", "0.0.0.0")
     port = int(os.environ.get("PORT", "8000"))
     print(f"Starting FitResQ API Server on {host}:{port}...")
     uvicorn.run(app, host=host, port=port, log_level="info")
+
