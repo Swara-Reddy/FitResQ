@@ -1,4 +1,4 @@
-# FitResQ — Intelligent Customer Support & Refund Management System
+# FitResQ â€” Intelligent Customer Support & Refund Management System
 
 > **Enterprise-grade, AI-powered e-commerce customer support and refund lifecycle management platform built with React, FastAPI, Machine Learning, and AWS Serverless Architecture.**
 
@@ -60,7 +60,27 @@ The FitResQ AI Support subsystem provides fast, explainable, and reliable natura
 |Dispatcher |     |Lookup API |     |Lookup API |      |Retriever  |
 +-----------+     +-----------+     +-----------+      +-----------+
 ```
+## ğŸ“¸ Screenshots
 
+### ğŸ¤– AI Support
+![AI Support](docs/images/aisupport.jpeg)
+
+### ğŸ“Š Dashboard
+![Dashboard](docs/images/home.png)
+
+### ğŸ“ My Cases
+![My Cases](docs/images/cases.jpeg)
+
+### ğŸ’° Profile
+![Refunds](docs/images/profile.png)
+
+### ğŸ”” Notifications
+![Notifications](docs/images/notifications.jpeg)
+
+### âœ… Refund Request Submitted
+![Refund Request Submitted](docs/images/refunds.jpeg)
+
+---
 ### 1. Intent Classification (10 Classes)
 Classifies user queries into granular operational intents:
 - `REFUND_REQUEST`: Requesting return or monetary refund.
@@ -157,56 +177,56 @@ FitResQ/
 +-- README.md                        # Comprehensive system documentation
 +-- refund-policy.txt                # Authoritative FitResQ refund and return policy
 +-- requirements.txt                 # Root Python dependencies
-¦
+Â¦
 +-- ai/                              # AI workflow specifications (.gitkeep)
 +-- docs/                            # Architectural design documents (.gitkeep)
 +-- infrastructure/                  # IaC templates & cloud specifications (.gitkeep)
 +-- ml/                              # Root ML documentation (.gitkeep)
 +-- tests/                           # System integration test suites (.gitkeep)
-¦
+Â¦
 +-- backend/
-¦   +-- package.json                 # Node.js dependencies and data scripts
-¦   +-- data/                        # Sample datasets for orders and customers
-¦   ¦   +-- customers.json
-¦   ¦   +-- orders.json
-¦   ¦   +-- refunds.json
-¦   +-- dist/                        # Packaged AWS Lambda deployment artifacts
-¦   ¦   +-- fitresq-create-refund-request.zip
-¦   ¦   +-- fitresq-get-user-me.zip
-¦   ¦   +-- fitresq-seeder-lambda.zip
-¦   +-- lambda-create-refund-request/# Lambda source: Refund ticket creation
-¦   ¦   +-- index.mjs
-¦   ¦   +-- package.json
-¦   +-- lambda-seeder/               # Lambda source: DynamoDB dataset seeder
-¦   ¦   +-- index.mjs
-¦   ¦   +-- package.json
-¦   +-- lambda-user-me/              # Lambda source: User profile lookup
-¦   ¦   +-- index.mjs
-¦   ¦   +-- package.json
-¦   +-- ml/                          # Machine Learning & AI Support subsystem
-¦   ¦   +-- requirements.txt         # Python ML dependencies
-¦   ¦   +-- agent/                   # AI Agent runtime and FastAPI server
-¦   ¦   ¦   +-- predict_intent.py    # Intent classifier interface
-¦   ¦   ¦   +-- predict_priority.py  # Priority evaluator interface
-¦   ¦   ¦   +-- predict_sentiment.py # Sentiment classifier interface
-¦   ¦   ¦   +-- server.py            # Production FastAPI server (port 8000)
-¦   ¦   ¦   +-- support_agent.py     # Dialogue router and conversational agent
-¦   ¦   ¦   +-- test_agent.py        # Comprehensive AI agent test suite
-¦   ¦   +-- data/                    # Training datasets (CSV)
-¦   ¦   ¦   +-- complaints.csv       # Intent classification corpus (513 rows)
-¦   ¦   ¦   +-- priority_complaints.csv
-¦   ¦   ¦   +-- sentiment_complaints.csv
-¦   ¦   +-- models/                  # Serialized trained scikit-learn models
-¦   ¦   ¦   +-- intent_classifier.joblib
-¦   ¦   ¦   +-- priority_classifier.joblib
-¦   ¦   ¦   +-- sentiment_classifier.joblib
-¦   ¦   +-- rag/                     # Retrieval-Augmented Generation subsystem
-¦   ¦       +-- rag_retriever.py     # TF-IDF cosine similarity retriever
-¦   ¦       +-- test_rag.py          # RAG test suite
-¦   +-- schema/                      # OpenAPI route definitions & DynamoDB schemas
-¦   +-- scripts/                     # Seeding, generation, and deployment scripts
-¦   +-- tests/                       # Backend unit and validation tests
-¦
+Â¦   +-- package.json                 # Node.js dependencies and data scripts
+Â¦   +-- data/                        # Sample datasets for orders and customers
+Â¦   Â¦   +-- customers.json
+Â¦   Â¦   +-- orders.json
+Â¦   Â¦   +-- refunds.json
+Â¦   +-- dist/                        # Packaged AWS Lambda deployment artifacts
+Â¦   Â¦   +-- fitresq-create-refund-request.zip
+Â¦   Â¦   +-- fitresq-get-user-me.zip
+Â¦   Â¦   +-- fitresq-seeder-lambda.zip
+Â¦   +-- lambda-create-refund-request/# Lambda source: Refund ticket creation
+Â¦   Â¦   +-- index.mjs
+Â¦   Â¦   +-- package.json
+Â¦   +-- lambda-seeder/               # Lambda source: DynamoDB dataset seeder
+Â¦   Â¦   +-- index.mjs
+Â¦   Â¦   +-- package.json
+Â¦   +-- lambda-user-me/              # Lambda source: User profile lookup
+Â¦   Â¦   +-- index.mjs
+Â¦   Â¦   +-- package.json
+Â¦   +-- ml/                          # Machine Learning & AI Support subsystem
+Â¦   Â¦   +-- requirements.txt         # Python ML dependencies
+Â¦   Â¦   +-- agent/                   # AI Agent runtime and FastAPI server
+Â¦   Â¦   Â¦   +-- predict_intent.py    # Intent classifier interface
+Â¦   Â¦   Â¦   +-- predict_priority.py  # Priority evaluator interface
+Â¦   Â¦   Â¦   +-- predict_sentiment.py # Sentiment classifier interface
+Â¦   Â¦   Â¦   +-- server.py            # Production FastAPI server (port 8000)
+Â¦   Â¦   Â¦   +-- support_agent.py     # Dialogue router and conversational agent
+Â¦   Â¦   Â¦   +-- test_agent.py        # Comprehensive AI agent test suite
+Â¦   Â¦   +-- data/                    # Training datasets (CSV)
+Â¦   Â¦   Â¦   +-- complaints.csv       # Intent classification corpus (513 rows)
+Â¦   Â¦   Â¦   +-- priority_complaints.csv
+Â¦   Â¦   Â¦   +-- sentiment_complaints.csv
+Â¦   Â¦   +-- models/                  # Serialized trained scikit-learn models
+Â¦   Â¦   Â¦   +-- intent_classifier.joblib
+Â¦   Â¦   Â¦   +-- priority_classifier.joblib
+Â¦   Â¦   Â¦   +-- sentiment_classifier.joblib
+Â¦   Â¦   +-- rag/                     # Retrieval-Augmented Generation subsystem
+Â¦   Â¦       +-- rag_retriever.py     # TF-IDF cosine similarity retriever
+Â¦   Â¦       +-- test_rag.py          # RAG test suite
+Â¦   +-- schema/                      # OpenAPI route definitions & DynamoDB schemas
+Â¦   +-- scripts/                     # Seeding, generation, and deployment scripts
+Â¦   +-- tests/                       # Backend unit and validation tests
+Â¦
 +-- frontend/
     +-- .env.example                 # Frontend Vite environment template
     +-- package.json                 # Frontend dependencies (React, Vite, Tailwind)
@@ -217,15 +237,15 @@ FitResQ/
         +-- App.jsx                  # Main application router
         +-- main.jsx                 # React root render
         +-- components/              # UI components
-        ¦   +-- AISupportModal.jsx   # Interactive AI chat modal
-        ¦   +-- Header.jsx           # Global navigation header
-        ¦   +-- ProtectedRoute.jsx   # Cognito auth guard
+        Â¦   +-- AISupportModal.jsx   # Interactive AI chat modal
+        Â¦   +-- Header.jsx           # Global navigation header
+        Â¦   +-- ProtectedRoute.jsx   # Cognito auth guard
         +-- pages/                   # Application pages
-        ¦   +-- Dashboard.jsx        # Customer case tracking dashboard
-        ¦   +-- Home.jsx             # Landing page
-        ¦   +-- Login.jsx            # Cognito PKCE callback handler
-        ¦   +-- OrderHistory.jsx     # Order history and item inspection
-        ¦   +-- RequestRefund.jsx    # Step-by-step refund request wizard
+        Â¦   +-- Dashboard.jsx        # Customer case tracking dashboard
+        Â¦   +-- Home.jsx             # Landing page
+        Â¦   +-- Login.jsx            # Cognito PKCE callback handler
+        Â¦   +-- OrderHistory.jsx     # Order history and item inspection
+        Â¦   +-- RequestRefund.jsx    # Step-by-step refund request wizard
         +-- services/                # API and authentication services
             +-- aiService.js         # AI backend API client
             +-- api.js               # AWS API Gateway HTTP client
@@ -402,4 +422,4 @@ npm run build
 
 ## 14. License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the MIT License â€” see the LICENSE file for details.
